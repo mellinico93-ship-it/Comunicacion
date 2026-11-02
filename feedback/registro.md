@@ -109,3 +109,33 @@ La comprobación estructural valida los tres TOML, las referencias locales y los
 - **Texto de alcance incorporado:** «Los cinco agentes se registran en `.codex/agents/`. Sus instrucciones completas están en `agentes/`». El investigador reúne hechos y material documentado; el verificador contrasta cada afirmación contra su fuente original sin editar el borrador.
 - **Conservación:** la guía de voz, la lista negra, el análisis de las 100 notas, los tres roles anteriores y el instructivo adjunto permanecen sin cambios.
 - **Verificación:** se comprueban los cinco TOML y la presencia de las instrucciones originales de los dos roles. La configuración hereda permisos y herramientas del entorno; no se afirma una ejecución de investigación o verificación durante esta actualización. Las skills del instructivo siguen pendientes.
+
+
+## 2026-11-02 — Laura Mafud y redacción con tres referencias
+
+- **Pedido del periodista:** sumar estilo y tono de Laura Mafud e integrar los recursos de Nicolás, Agustín y Laura al escribir artículos; analizar 50 notas de Laura.
+- **Muestra realizada:** 50 notas distintas, con firma comprobada y cuerpo textual completo disponible. Fechas mostradas: 30 de junio a 30 de octubre de 2026. Secciones: 40 Negocios, 9 Liderazgo y 1 Lifestyle. Selección de las primeras tres páginas; se excluye BrandVoice y se prioriza diversidad de formatos.
+- **Regla incorporada:** «La voz editorial integra recursos de Nicolás Della Vecchia, Agustín Jamele y Laura Mafud, estudiados en 50 artículos de cada autor: 150 notas en total». La escritura propia sostiene la identidad del proyecto; se eligen recursos por género y evidencia sin porcentajes fijos.
+- **Recursos sumados de Laura:** historia de origen vinculada a decisiones actuales; detalles de producto, oficio y operación; crecimiento explicado mediante decisiones; territorio; relación entre casos y tendencias; cierres con continuidad narrativa o condiciones pendientes.
+- **Archivo central:** `voz/guia-de-voz.md`, con sección de Laura, aplicación conjunta por tipo de nota, mediciones descriptivas de los tres autores y una entrada en «Correcciones aprendidas».
+- **Carga:** `AGENTS.md`, los archivos de redactor, estilista y editor y la descripción del redactor remiten a las tres referencias y a la guía central. Se conservan los cinco agentes, sus permisos y herramientas heredados, y la configuración global.
+- **Análisis y trazabilidad:** informe de Laura, registro de 50 observaciones, metadatos y métricas, índice de 150 fuentes y ficha de referente. Los cuerpos completos solo se usaron como material de trabajo y no se copian al repositorio.
+- **Conservación:** no se eliminan reglas de voz, correcciones históricas ni ejemplos. Los documentos originales de Nicolás y Agustín, la lista negra y el prompt adjunto se mantienen intactos. Las afirmaciones factuales de nuevas notas se verifican con sus propias fuentes.
+- **Validación:** se comprueban 50 observaciones y fuentes únicas de Laura, 150 entradas conjuntas, cinco TOML válidos y los enlaces locales. Se distingue la configuración guardada de una ejecución de los agentes en una tarea nueva.
+
+### Archivos de esta incorporación
+
+- `.codex/agents/redactor.toml`
+- `AGENTS.md`
+- `LEEME.md`
+- `agentes/editor.md`
+- `agentes/estilista.md`
+- `agentes/redactor.md`
+- `feedback/registro.md`
+- `fuentes-confiables.md`
+- `voz/analisis/datos-laura-mafud-50-notas.json`
+- `voz/analisis/laura-mafud-50-notas.md`
+- `voz/analisis/registro-150-notas.md`
+- `voz/analisis/registro-laura-mafud-50-notas.md`
+- `voz/guia-de-voz.md`
+- `voz/referentes/laura-mafud.md`

@@ -23,4 +23,4 @@ Base inicial para los dos roles incorporados. El periodista puede agregar sus fu
 - Registrá enlace, fecha, autor u organismo y el fragmento o sección que respalda la afirmación.
 - Buscá el original cuando otro medio cite un informe, una estadística o un balance. Si no está disponible, aclaralo.
 - Mostrá las contradicciones y los límites de las fuentes. Si falta evidencia, dejá la afirmación pendiente.
-- Las 100 notas del análisis de voz sirven como referencia de escritura; los hechos de nuevos encargos se verifican con sus propias fuentes.
+- Las 150 notas del análisis de voz sirven como referencia de escritura; los hechos de nuevos encargos se verifican con sus propias fuentes.

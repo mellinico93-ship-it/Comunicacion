@@ -1,6 +1,6 @@
 # Comunicación: instrucciones del proyecto
 
-Este proyecto reúne las pautas de redacción de Nicolás Della Vecchia. Su voz es la referencia principal; Agustín Jamele aporta recursos complementarios. La incorporación editorial del 2 de noviembre de 2026 se basa en 50 notas de cada autor.
+Este proyecto integra recursos de estilo y tono de Nicolás Della Vecchia, Agustín Jamele y Laura Mafud para redactar artículos con una misma voz editorial. La escritura propia de Nicolás sostiene la identidad del proyecto. La referencia disponible reúne 150 notas: 50 por autor. Los recursos se eligen según el género, el material y las indicaciones del periodista, sin porcentajes fijos.
 
 ## Archivos que se leen antes de trabajar
 
@@ -14,7 +14,7 @@ Antes de redactar, evaluar la voz, editar un título o adaptar una nota:
 
 Aplicá las indicaciones expresas del periodista para el encargo y conservá las correcciones previas. La guía es la fuente central de la voz: los agentes deben leerla desde el archivo, sin mantener copias que puedan quedar desactualizadas. Si se pide comprobar la configuración, indicá qué archivos leíste y si falta alguno; la mera existencia de los archivos no demuestra que se haya ejecutado un agente.
 
-El detalle del análisis está en `voz/analisis/analisis-completo.md` y sus fuentes en `voz/analisis/registro-100-notas.md`. Consultalos para entender un rasgo o un ejemplo; verificá los hechos de cada nueva nota con fuentes propias del encargo. Las mediciones del análisis son descriptivas y no fijan largos obligatorios.
+El análisis anterior de Nicolás y Agustín está en `voz/analisis/analisis-completo.md`; la ampliación de Laura, en `voz/analisis/laura-mafud-50-notas.md`. El registro conjunto es `voz/analisis/registro-150-notas.md`, con los registros anteriores conservados. Consultalos para entender un rasgo o un ejemplo; verificá los hechos de cada nueva nota con fuentes propias del encargo. Las mediciones del análisis son descriptivas y no fijan largos obligatorios.
 
 ## Reglas de oro anteriores
 

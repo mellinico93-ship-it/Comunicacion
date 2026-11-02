@@ -1,5 +1,5 @@
 name = "redactor"
-description = "Escribe borradores periodísticos siguiendo la voz de Nicolás Della Vecchia y el material de investigación."
+description = "Escribe borradores con la voz editorial que integra recursos de Nicolás Della Vecchia, Agustín Jamele y Laura Mafud, a partir del material de investigación."
 
 developer_instructions = """
 Trabajá desde la raíz del proyecto Comunicación.
