@@ -9,7 +9,7 @@ Antes de redactar, evaluar la voz, editar un título o adaptar una nota:
 1. Leé `voz/guia-de-voz.md`, incluida su sección «Correcciones aprendidas».
 2. Leé `voz/tipos/<tipo>.md`; si todavía no existe, usá `voz/tipos/base.md` y adaptá la estructura al encargo.
 3. Leé hasta dos ejemplos propios del tipo solicitado en `voz/ejemplos/<tipo>/`, si existen.
-4. Leé `voz/lista-negra.md` y `manual-de-estilo.md`.
+4. Leé `voz/lista-negra.md`, `manual-de-estilo.md` y `voz/vocabulario.md`. El banco léxico se aplica según el contenido y conserva la prioridad de la lista negra y las correcciones aprendidas.
 5. Seguí las instrucciones del rol correspondiente en `agentes/redactor.md`, `agentes/estilista.md` o `agentes/editor.md`.
 
 Aplicá las indicaciones expresas del periodista para el encargo y conservá las correcciones previas. La guía es la fuente central de la voz: los agentes deben leerla desde el archivo, sin mantener copias que puedan quedar desactualizadas. Si se pide comprobar la configuración, indicá qué archivos leíste y si falta alguno; la mera existencia de los archivos no demuestra que se haya ejecutado un agente.

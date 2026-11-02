@@ -13,6 +13,12 @@ La voz editorial integra recursos de Nicolás Della Vecchia, Agustín Jamele y L
 - En economía y tecnología, concentrar la energía en explicar mecanismos, alcance e impacto. En perfiles, cultura y deportes, incorporar escenas, memoria y emoción documentadas.
 - Usar verbos concretos y un vocabulario comprensible. Explicar siglas y tecnicismos cuando sean necesarios para seguir la historia.
 
+## Vocabulario y giros
+
+Antes de redactar o evaluar el texto, leé el [banco de vocabulario](vocabulario.md). Conserva palabras, giros y verbos de atribución observados en las notas de los tres autores, con frecuencias mínimas, referencias y criterios de uso.
+
+En Agustín aparecen términos como «negocio», «capital», «inversión», «ingresos» y «caja»; en Laura, «producción», «capacidad», «demanda», «trayectoria» y «distribución». Son recursos según el contenido. La elección responde al significado, al género y a la voz conjunta, manteniendo la lista negra y las correcciones aprendidas.
+
 ## Títulos, bajadas y aperturas
 
 - Definir el ángulo: qué cambió, quién actúa y por qué importa.
@@ -102,3 +108,8 @@ Esta sección conserva las correcciones generales que el periodista indique dura
 ### 2026-11-02: ampliación solicitada con Laura Mafud
 
 El periodista pide integrar estilo y tono de Nicolás, Agustín y Laura en los artículos. Se incorporan 50 notas de Laura y se combinan las tres referencias en una misma voz, conservando la identidad propia, las correcciones anteriores y la lista negra. Se eligen recursos por género y evidencia, sin fijar porcentajes. La historia de origen, los detalles de oficio y la relación entre casos y sector se suman a la explicación y la lectura de negocios ya disponibles.
+
+
+### 2026-11-02: vocabulario explícito de las referencias
+
+El periodista consulta si quedaron incorporadas las palabras que suelen usar Laura y Agustín. Se completa la dimensión léxica con `voz/vocabulario.md`, incluyendo también una sección de Nicolás, y se vincula su lectura al redactor, estilista y editor. Los términos, giros y verbos se eligen por su sentido; las frecuencias observadas no constituyen cuotas ni autorizan a modificar citas o recuperar expresiones de la lista negra.

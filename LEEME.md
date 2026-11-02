@@ -12,6 +12,7 @@ Para comprobar la configuración en una tarea nueva: «Leé AGENTS.md y decime q
 
 - `voz/guia-de-voz.md`: voz editorial que integra recursos de Nicolás Della Vecchia, Agustín Jamele y Laura Mafud, con las correcciones aprendidas.
 - `voz/lista-negra.md`: muletillas y giros que evitamos, conservados del instructivo original.
+- `voz/vocabulario.md`: palabras, giros y verbos de atribución observados en los tres autores, con referencias y criterios para elegirlos según el texto. Las frecuencias son descriptivas; el banco conserva la prioridad de la lista negra.
 - `voz/analisis/analisis-completo.md`: informe anterior de Nicolás y Agustín.
 - `voz/analisis/laura-mafud-50-notas.md`: informe de Laura y criterios de integración.
 - `voz/analisis/registro-laura-mafud-50-notas.md`: 50 observaciones individuales de Laura.

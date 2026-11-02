@@ -1,0 +1,2068 @@
+{
+  "fecha": "2026-11-02",
+  "metodo": "Presencia por documento en párrafos de desarrollo sin comillas ni continuidad de citas; se conservan formas exactas, sin lematizar. Los verbos de atribución se agrupan por familia y se detectan inmediatamente después del cierre de una cita. Los recuentos son conservadores y no equivalen a todo el vocabulario autoral.",
+  "entrevistas_excluidas_jamele": [
+    "J20",
+    "J22",
+    "J24",
+    "J25",
+    "J28",
+    "J34",
+    "J37",
+    "J47"
+  ],
+  "bases": {
+    "N": {
+      "autor": "Nicolás Della Vecchia",
+      "notas_muestra": 50,
+      "notas_elegibles": 50,
+      "notas_con_parrafos_sin_citas": 50,
+      "parrafos_sin_citas": 869,
+      "palabras_sin_citas": 41765
+    },
+    "J": {
+      "autor": "Agustín Jamele",
+      "notas_muestra": 50,
+      "notas_elegibles": 42,
+      "notas_con_parrafos_sin_citas": 42,
+      "parrafos_sin_citas": 899,
+      "palabras_sin_citas": 39403
+    },
+    "L": {
+      "autor": "Laura Mafud",
+      "notas_muestra": 50,
+      "notas_elegibles": 50,
+      "notas_con_parrafos_sin_citas": 50,
+      "parrafos_sin_citas": 554,
+      "palabras_sin_citas": 28469
+    }
+  },
+  "palabras": {
+    "N": [
+      {
+        "expresion": "decisión",
+        "notas": 20,
+        "base": 50,
+        "codigos": [
+          "N01",
+          "N04",
+          "N05",
+          "N07",
+          "N11",
+          "N12",
+          "N13",
+          "N16",
+          "N19",
+          "N26",
+          "N27",
+          "N31",
+          "N33",
+          "N35",
+          "N41",
+          "N43",
+          "N45",
+          "N47",
+          "N48",
+          "N50"
+        ]
+      },
+      {
+        "expresion": "resultado",
+        "notas": 19,
+        "base": 50,
+        "codigos": [
+          "N03",
+          "N06",
+          "N07",
+          "N08",
+          "N09",
+          "N12",
+          "N14",
+          "N15",
+          "N16",
+          "N17",
+          "N19",
+          "N21",
+          "N25",
+          "N26",
+          "N34",
+          "N38",
+          "N42",
+          "N44",
+          "N49"
+        ]
+      },
+      {
+        "expresion": "impacto",
+        "notas": 18,
+        "base": 50,
+        "codigos": [
+          "N02",
+          "N04",
+          "N09",
+          "N12",
+          "N14",
+          "N16",
+          "N21",
+          "N26",
+          "N28",
+          "N29",
+          "N30",
+          "N32",
+          "N37",
+          "N43",
+          "N44",
+          "N46",
+          "N49",
+          "N50"
+        ]
+      },
+      {
+        "expresion": "escala",
+        "notas": 16,
+        "base": 50,
+        "codigos": [
+          "N04",
+          "N07",
+          "N08",
+          "N27",
+          "N31",
+          "N34",
+          "N36",
+          "N38",
+          "N39",
+          "N40",
+          "N43",
+          "N44",
+          "N45",
+          "N48",
+          "N49",
+          "N50"
+        ]
+      },
+      {
+        "expresion": "capacidad",
+        "notas": 20,
+        "base": 50,
+        "codigos": [
+          "N02",
+          "N03",
+          "N04",
+          "N07",
+          "N08",
+          "N09",
+          "N12",
+          "N13",
+          "N14",
+          "N17",
+          "N18",
+          "N22",
+          "N27",
+          "N31",
+          "N32",
+          "N34",
+          "N37",
+          "N45",
+          "N48",
+          "N49"
+        ]
+      },
+      {
+        "expresion": "alcance",
+        "notas": 5,
+        "base": 50,
+        "codigos": [
+          "N18",
+          "N23",
+          "N24",
+          "N36",
+          "N50"
+        ]
+      }
+    ],
+    "J": [
+      {
+        "expresion": "negocio",
+        "notas": 25,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J02",
+          "J03",
+          "J04",
+          "J06",
+          "J08",
+          "J09",
+          "J11",
+          "J12",
+          "J13",
+          "J15",
+          "J16",
+          "J18",
+          "J21",
+          "J23",
+          "J26",
+          "J30",
+          "J31",
+          "J32",
+          "J36",
+          "J40",
+          "J43",
+          "J44",
+          "J45",
+          "J50"
+        ]
+      },
+      {
+        "expresion": "capital",
+        "notas": 23,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J03",
+          "J04",
+          "J06",
+          "J08",
+          "J11",
+          "J14",
+          "J16",
+          "J18",
+          "J21",
+          "J23",
+          "J26",
+          "J27",
+          "J29",
+          "J30",
+          "J32",
+          "J35",
+          "J36",
+          "J38",
+          "J40",
+          "J41",
+          "J43",
+          "J46"
+        ]
+      },
+      {
+        "expresion": "inversión",
+        "notas": 23,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J02",
+          "J03",
+          "J04",
+          "J06",
+          "J08",
+          "J12",
+          "J13",
+          "J16",
+          "J18",
+          "J19",
+          "J21",
+          "J23",
+          "J27",
+          "J29",
+          "J30",
+          "J32",
+          "J35",
+          "J36",
+          "J38",
+          "J40",
+          "J43",
+          "J46"
+        ]
+      },
+      {
+        "expresion": "ingresos",
+        "notas": 18,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J02",
+          "J03",
+          "J04",
+          "J05",
+          "J06",
+          "J12",
+          "J13",
+          "J16",
+          "J18",
+          "J21",
+          "J26",
+          "J29",
+          "J30",
+          "J42",
+          "J43",
+          "J45",
+          "J49"
+        ]
+      },
+      {
+        "expresion": "caja",
+        "notas": 7,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J04",
+          "J16",
+          "J18",
+          "J21",
+          "J26",
+          "J30"
+        ]
+      },
+      {
+        "expresion": "costos",
+        "notas": 13,
+        "base": 42,
+        "codigos": [
+          "J03",
+          "J04",
+          "J07",
+          "J13",
+          "J18",
+          "J23",
+          "J27",
+          "J29",
+          "J30",
+          "J32",
+          "J35",
+          "J45",
+          "J49"
+        ]
+      },
+      {
+        "expresion": "escala",
+        "notas": 13,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J02",
+          "J03",
+          "J04",
+          "J06",
+          "J11",
+          "J13",
+          "J18",
+          "J21",
+          "J29",
+          "J33",
+          "J35",
+          "J50"
+        ]
+      },
+      {
+        "expresion": "infraestructura",
+        "notas": 24,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J03",
+          "J04",
+          "J10",
+          "J11",
+          "J13",
+          "J14",
+          "J16",
+          "J21",
+          "J29",
+          "J30",
+          "J31",
+          "J32",
+          "J33",
+          "J35",
+          "J36",
+          "J38",
+          "J39",
+          "J41",
+          "J42",
+          "J43",
+          "J45",
+          "J46",
+          "J50"
+        ]
+      }
+    ],
+    "L": [
+      {
+        "expresion": "producción",
+        "notas": 17,
+        "base": 50,
+        "codigos": [
+          "L01",
+          "L02",
+          "L03",
+          "L05",
+          "L07",
+          "L08",
+          "L10",
+          "L12",
+          "L15",
+          "L17",
+          "L19",
+          "L20",
+          "L21",
+          "L22",
+          "L26",
+          "L31",
+          "L46"
+        ]
+      },
+      {
+        "expresion": "capacidad",
+        "notas": 18,
+        "base": 50,
+        "codigos": [
+          "L03",
+          "L05",
+          "L08",
+          "L10",
+          "L12",
+          "L15",
+          "L17",
+          "L19",
+          "L20",
+          "L24",
+          "L26",
+          "L28",
+          "L37",
+          "L41",
+          "L43",
+          "L46",
+          "L48",
+          "L50"
+        ]
+      },
+      {
+        "expresion": "demanda",
+        "notas": 19,
+        "base": 50,
+        "codigos": [
+          "L01",
+          "L04",
+          "L05",
+          "L08",
+          "L12",
+          "L14",
+          "L17",
+          "L20",
+          "L21",
+          "L23",
+          "L26",
+          "L30",
+          "L35",
+          "L36",
+          "L39",
+          "L40",
+          "L44",
+          "L47",
+          "L49"
+        ]
+      },
+      {
+        "expresion": "producto",
+        "notas": 10,
+        "base": 50,
+        "codigos": [
+          "L01",
+          "L03",
+          "L14",
+          "L25",
+          "L26",
+          "L30",
+          "L43",
+          "L47",
+          "L49",
+          "L50"
+        ]
+      },
+      {
+        "expresion": "equipo",
+        "notas": 13,
+        "base": 50,
+        "codigos": [
+          "L03",
+          "L04",
+          "L07",
+          "L10",
+          "L11",
+          "L16",
+          "L18",
+          "L25",
+          "L33",
+          "L36",
+          "L40",
+          "L43",
+          "L47"
+        ]
+      },
+      {
+        "expresion": "trayectoria",
+        "notas": 8,
+        "base": 50,
+        "codigos": [
+          "L07",
+          "L08",
+          "L12",
+          "L24",
+          "L29",
+          "L33",
+          "L43",
+          "L50"
+        ]
+      },
+      {
+        "expresion": "distribución",
+        "notas": 6,
+        "base": 50,
+        "codigos": [
+          "L05",
+          "L08",
+          "L19",
+          "L24",
+          "L29",
+          "L40"
+        ]
+      },
+      {
+        "expresion": "financiamiento",
+        "notas": 6,
+        "base": 50,
+        "codigos": [
+          "L01",
+          "L17",
+          "L19",
+          "L27",
+          "L38",
+          "L48"
+        ]
+      }
+    ]
+  },
+  "giros": {
+    "N": [
+      {
+        "expresion": "sin embargo",
+        "notas": 20,
+        "base": 50,
+        "codigos": [
+          "N02",
+          "N04",
+          "N06",
+          "N07",
+          "N08",
+          "N09",
+          "N11",
+          "N14",
+          "N17",
+          "N18",
+          "N19",
+          "N24",
+          "N27",
+          "N31",
+          "N32",
+          "N34",
+          "N38",
+          "N45",
+          "N47",
+          "N50"
+        ]
+      },
+      {
+        "expresion": "en cambio",
+        "notas": 9,
+        "base": 50,
+        "codigos": [
+          "N02",
+          "N06",
+          "N07",
+          "N08",
+          "N09",
+          "N14",
+          "N37",
+          "N47",
+          "N49"
+        ]
+      },
+      {
+        "expresion": "en paralelo",
+        "notas": 6,
+        "base": 50,
+        "codigos": [
+          "N09",
+          "N11",
+          "N21",
+          "N22",
+          "N47",
+          "N49"
+        ]
+      },
+      {
+        "expresion": "al mismo tiempo",
+        "notas": 7,
+        "base": 50,
+        "codigos": [
+          "N11",
+          "N12",
+          "N14",
+          "N18",
+          "N33",
+          "N45",
+          "N49"
+        ]
+      },
+      {
+        "expresion": "mientras que",
+        "notas": 20,
+        "base": 50,
+        "codigos": [
+          "N02",
+          "N04",
+          "N08",
+          "N09",
+          "N12",
+          "N13",
+          "N14",
+          "N15",
+          "N16",
+          "N17",
+          "N18",
+          "N24",
+          "N25",
+          "N26",
+          "N29",
+          "N32",
+          "N40",
+          "N41",
+          "N46",
+          "N47"
+        ]
+      },
+      {
+        "expresion": "a partir de",
+        "notas": 10,
+        "base": 50,
+        "codigos": [
+          "N08",
+          "N12",
+          "N18",
+          "N28",
+          "N32",
+          "N33",
+          "N34",
+          "N37",
+          "N45",
+          "N50"
+        ]
+      }
+    ],
+    "J": [
+      {
+        "expresion": "sin embargo",
+        "notas": 27,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J03",
+          "J04",
+          "J05",
+          "J09",
+          "J12",
+          "J13",
+          "J15",
+          "J16",
+          "J17",
+          "J18",
+          "J19",
+          "J21",
+          "J26",
+          "J27",
+          "J29",
+          "J30",
+          "J31",
+          "J32",
+          "J35",
+          "J36",
+          "J40",
+          "J43",
+          "J44",
+          "J45",
+          "J46",
+          "J50"
+        ]
+      },
+      {
+        "expresion": "en cambio",
+        "notas": 8,
+        "base": 42,
+        "codigos": [
+          "J02",
+          "J04",
+          "J05",
+          "J12",
+          "J21",
+          "J30",
+          "J35",
+          "J48"
+        ]
+      },
+      {
+        "expresion": "en paralelo",
+        "notas": 1,
+        "base": 42,
+        "codigos": [
+          "J39"
+        ]
+      },
+      {
+        "expresion": "al mismo tiempo",
+        "notas": 11,
+        "base": 42,
+        "codigos": [
+          "J02",
+          "J13",
+          "J15",
+          "J21",
+          "J26",
+          "J29",
+          "J31",
+          "J33",
+          "J36",
+          "J39",
+          "J46"
+        ]
+      },
+      {
+        "expresion": "mientras que",
+        "notas": 14,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J03",
+          "J11",
+          "J15",
+          "J17",
+          "J18",
+          "J19",
+          "J21",
+          "J26",
+          "J30",
+          "J33",
+          "J42",
+          "J43",
+          "J44"
+        ]
+      },
+      {
+        "expresion": "a partir de",
+        "notas": 8,
+        "base": 42,
+        "codigos": [
+          "J07",
+          "J08",
+          "J12",
+          "J31",
+          "J32",
+          "J33",
+          "J35",
+          "J39"
+        ]
+      }
+    ],
+    "L": [
+      {
+        "expresion": "sin embargo",
+        "notas": 10,
+        "base": 50,
+        "codigos": [
+          "L13",
+          "L18",
+          "L19",
+          "L22",
+          "L27",
+          "L35",
+          "L37",
+          "L42",
+          "L46",
+          "L49"
+        ]
+      },
+      {
+        "expresion": "en cambio",
+        "notas": 4,
+        "base": 50,
+        "codigos": [
+          "L22",
+          "L34",
+          "L43",
+          "L47"
+        ]
+      },
+      {
+        "expresion": "en paralelo",
+        "notas": 11,
+        "base": 50,
+        "codigos": [
+          "L01",
+          "L10",
+          "L12",
+          "L29",
+          "L35",
+          "L38",
+          "L40",
+          "L42",
+          "L43",
+          "L46",
+          "L47"
+        ]
+      },
+      {
+        "expresion": "al mismo tiempo",
+        "notas": 1,
+        "base": 50,
+        "codigos": [
+          "L03"
+        ]
+      },
+      {
+        "expresion": "mientras que",
+        "notas": 19,
+        "base": 50,
+        "codigos": [
+          "L01",
+          "L04",
+          "L05",
+          "L10",
+          "L11",
+          "L13",
+          "L16",
+          "L17",
+          "L20",
+          "L22",
+          "L25",
+          "L29",
+          "L30",
+          "L36",
+          "L39",
+          "L41",
+          "L44",
+          "L47",
+          "L49"
+        ]
+      },
+      {
+        "expresion": "a partir de",
+        "notas": 7,
+        "base": 50,
+        "codigos": [
+          "L03",
+          "L24",
+          "L25",
+          "L27",
+          "L37",
+          "L44",
+          "L50"
+        ]
+      }
+    ]
+  },
+  "atribuciones": {
+    "J": [
+      {
+        "expresion": "explicar",
+        "notas": 17,
+        "base": 42,
+        "codigos": [
+          "J04",
+          "J07",
+          "J09",
+          "J14",
+          "J21",
+          "J23",
+          "J27",
+          "J29",
+          "J30",
+          "J31",
+          "J33",
+          "J35",
+          "J36",
+          "J38",
+          "J40",
+          "J44",
+          "J49"
+        ]
+      },
+      {
+        "expresion": "señalar",
+        "notas": 18,
+        "base": 42,
+        "codigos": [
+          "J03",
+          "J05",
+          "J07",
+          "J10",
+          "J12",
+          "J13",
+          "J15",
+          "J23",
+          "J27",
+          "J29",
+          "J31",
+          "J33",
+          "J35",
+          "J36",
+          "J38",
+          "J48",
+          "J49",
+          "J50"
+        ]
+      },
+      {
+        "expresion": "afirmar",
+        "notas": 21,
+        "base": 42,
+        "codigos": [
+          "J09",
+          "J10",
+          "J13",
+          "J14",
+          "J15",
+          "J17",
+          "J19",
+          "J23",
+          "J27",
+          "J29",
+          "J31",
+          "J33",
+          "J35",
+          "J36",
+          "J38",
+          "J39",
+          "J40",
+          "J41",
+          "J44",
+          "J48",
+          "J49"
+        ]
+      },
+      {
+        "expresion": "sostener",
+        "notas": 20,
+        "base": 42,
+        "codigos": [
+          "J09",
+          "J12",
+          "J13",
+          "J14",
+          "J15",
+          "J17",
+          "J19",
+          "J23",
+          "J27",
+          "J31",
+          "J33",
+          "J35",
+          "J36",
+          "J38",
+          "J39",
+          "J40",
+          "J41",
+          "J44",
+          "J48",
+          "J49"
+        ]
+      },
+      {
+        "expresion": "resumir",
+        "notas": 14,
+        "base": 42,
+        "codigos": [
+          "J07",
+          "J12",
+          "J13",
+          "J14",
+          "J23",
+          "J27",
+          "J29",
+          "J33",
+          "J35",
+          "J36",
+          "J38",
+          "J40",
+          "J43",
+          "J44"
+        ]
+      },
+      {
+        "expresion": "recordar",
+        "notas": 3,
+        "base": 42,
+        "codigos": [
+          "J07",
+          "J31",
+          "J33"
+        ]
+      },
+      {
+        "expresion": "contar",
+        "notas": 0,
+        "base": 42,
+        "codigos": []
+      }
+    ],
+    "L": [
+      {
+        "expresion": "explicar",
+        "notas": 24,
+        "base": 50,
+        "codigos": [
+          "L08",
+          "L11",
+          "L15",
+          "L21",
+          "L22",
+          "L23",
+          "L24",
+          "L25",
+          "L26",
+          "L27",
+          "L28",
+          "L31",
+          "L33",
+          "L34",
+          "L36",
+          "L38",
+          "L39",
+          "L40",
+          "L42",
+          "L43",
+          "L45",
+          "L46",
+          "L49",
+          "L50"
+        ]
+      },
+      {
+        "expresion": "señalar",
+        "notas": 15,
+        "base": 50,
+        "codigos": [
+          "L07",
+          "L12",
+          "L14",
+          "L21",
+          "L22",
+          "L24",
+          "L25",
+          "L27",
+          "L31",
+          "L33",
+          "L36",
+          "L39",
+          "L45",
+          "L46",
+          "L47"
+        ]
+      },
+      {
+        "expresion": "afirmar",
+        "notas": 8,
+        "base": 50,
+        "codigos": [
+          "L05",
+          "L18",
+          "L25",
+          "L26",
+          "L31",
+          "L32",
+          "L40",
+          "L49"
+        ]
+      },
+      {
+        "expresion": "sostener",
+        "notas": 8,
+        "base": 50,
+        "codigos": [
+          "L06",
+          "L15",
+          "L27",
+          "L28",
+          "L29",
+          "L32",
+          "L38",
+          "L40"
+        ]
+      },
+      {
+        "expresion": "resumir",
+        "notas": 1,
+        "base": 50,
+        "codigos": [
+          "L33"
+        ]
+      },
+      {
+        "expresion": "recordar",
+        "notas": 7,
+        "base": 50,
+        "codigos": [
+          "L08",
+          "L18",
+          "L21",
+          "L32",
+          "L36",
+          "L38",
+          "L40"
+        ]
+      },
+      {
+        "expresion": "contar",
+        "notas": 6,
+        "base": 50,
+        "codigos": [
+          "L21",
+          "L23",
+          "L34",
+          "L38",
+          "L40",
+          "L43"
+        ]
+      }
+    ]
+  },
+  "expresiones_sectoriales": {
+    "J": [
+      {
+        "expresion": "flujo de caja",
+        "notas": 5,
+        "base": 42,
+        "codigos": [
+          "J01",
+          "J04",
+          "J18",
+          "J21",
+          "J30"
+        ]
+      },
+      {
+        "expresion": "de largo plazo",
+        "notas": 12,
+        "base": 42,
+        "codigos": [
+          "J06",
+          "J16",
+          "J18",
+          "J23",
+          "J26",
+          "J29",
+          "J35",
+          "J36",
+          "J38",
+          "J40",
+          "J43",
+          "J46"
+        ]
+      }
+    ],
+    "L": [
+      {
+        "expresion": "capacidad instalada",
+        "notas": 4,
+        "base": 50,
+        "codigos": [
+          "L03",
+          "L05",
+          "L17",
+          "L19"
+        ]
+      },
+      {
+        "expresion": "mercado local",
+        "notas": 6,
+        "base": 50,
+        "codigos": [
+          "L05",
+          "L13",
+          "L23",
+          "L27",
+          "L35",
+          "L49"
+        ]
+      },
+      {
+        "expresion": "a largo plazo",
+        "notas": 5,
+        "base": 50,
+        "codigos": [
+          "L06",
+          "L08",
+          "L16",
+          "L17",
+          "L19"
+        ]
+      }
+    ]
+  },
+  "fuentes": [
+    {
+      "codigo": "N01",
+      "url": "https://www.forbesargentina.com/liderazgo/marcos-galperin-cumple-55-anos-50-frases-revelan-como-piensa-fundador-mercado-libre-n101491",
+      "parrafos": 22,
+      "palabras": 1082
+    },
+    {
+      "codigo": "N02",
+      "url": "https://www.forbesargentina.com/money/el-hackeo-binance-afecto-activos-us-6300-millones-impacto-bitcoin-acciones-cripto-n101451",
+      "parrafos": 16,
+      "palabras": 829
+    },
+    {
+      "codigo": "N03",
+      "url": "https://www.forbesargentina.com/today/milei-felicito-netanyahu-resultado-electoral-israel-aunque-su-bloque-tendra-mayoria-formar-gobierno-n101347",
+      "parrafos": 7,
+      "palabras": 374
+    },
+    {
+      "codigo": "N04",
+      "url": "https://www.forbesargentina.com/money/las-cuatro-medidas-fmi-acordo-gobierno-milei-reactivar-economia-argentina-n101345",
+      "parrafos": 19,
+      "palabras": 929
+    },
+    {
+      "codigo": "N05",
+      "url": "https://www.forbesargentina.com/today/confirmaron-flavio-bolsonaro-viajo-estados-unidos-pidio-asilo-politico-trump-n101208",
+      "parrafos": 10,
+      "palabras": 304
+    },
+    {
+      "codigo": "N06",
+      "url": "https://www.forbesargentina.com/innovacion/martin-varsavsky-vendio-su-sexto-unicornio-una-operacion-us-1380-millones-n101198",
+      "parrafos": 24,
+      "palabras": 1266
+    },
+    {
+      "codigo": "N07",
+      "url": "https://www.forbesargentina.com/today/la-nba-mete-negocio-us-53000-millones-firma-una-alianza-dos-gigantes-negocio-predicciones-n101162",
+      "parrafos": 22,
+      "palabras": 1148
+    },
+    {
+      "codigo": "N08",
+      "url": "https://www.forbesargentina.com/today/la-confianza-gobierno-milei-subio-octubre-pero-acumula-una-caida-207-fines-2025-n101138",
+      "parrafos": 13,
+      "palabras": 594
+    },
+    {
+      "codigo": "N09",
+      "url": "https://www.forbesargentina.com/today/lula-vs-bolsonaro-balotaje-define-futuro-brasil-pone-juego-su-relacion-argentina-n101046",
+      "parrafos": 26,
+      "palabras": 1362
+    },
+    {
+      "codigo": "N10",
+      "url": "https://www.forbesargentina.com/today/messi-recibio-premio-historico-espana-revelo-emotiva-historia-familiar-hay-detras-reconocimiento-n100968",
+      "parrafos": 17,
+      "palabras": 804
+    },
+    {
+      "codigo": "N11",
+      "url": "https://www.forbesargentina.com/innovacion/alerta-mundial-fallas-descubiertas-ia-amenazan-internet-millones-intentos-ataque-empresas-suspenden-sus-servicios-n100886",
+      "parrafos": 37,
+      "palabras": 1422
+    },
+    {
+      "codigo": "N12",
+      "url": "https://www.forbesargentina.com/money/milei-neuquen-vaca-muerta-siempre-estuvo-ahi-lo-cambiaron-fueron-reglas-n100656",
+      "parrafos": 36,
+      "palabras": 1545
+    },
+    {
+      "codigo": "N13",
+      "url": "https://www.forbesargentina.com/today/francia-anuncia-toques-queda-tras-ola-disturbios-mas-2500-detenidos-3000-comercios-afectados-n100623",
+      "parrafos": 12,
+      "palabras": 527
+    },
+    {
+      "codigo": "N14",
+      "url": "https://www.forbesargentina.com/today/lo-dejo-debate-lula-bolsonaro-acusaciones-cruzadas-menciones-milei-nuevas-encuestas-antes-balotaje-n100628",
+      "parrafos": 42,
+      "palabras": 1706
+    },
+    {
+      "codigo": "N15",
+      "url": "https://www.forbesargentina.com/money/la-inflacion-mayorista-acelero-32-septiembre-petroleo-gas-impulsaron-suba-n100492",
+      "parrafos": 21,
+      "palabras": 699
+    },
+    {
+      "codigo": "N16",
+      "url": "https://www.forbesargentina.com/money/caputo-consiguio-otro-mes-superavit-fiscal-cuentas-publicas-cerraron-septiembre-casi-1-billon-favor-n100489",
+      "parrafos": 11,
+      "palabras": 472
+    },
+    {
+      "codigo": "N17",
+      "url": "https://www.forbesargentina.com/money/milei-eeuu-dijo-riesgo-pais-baja-mientras-indicador-alcanza-maximos-ano-n100370",
+      "parrafos": 22,
+      "palabras": 946
+    },
+    {
+      "codigo": "N18",
+      "url": "https://www.forbesargentina.com/innovacion/apple-termino-misterio-welcome-home-cuatro-anuncios-busca-conquistar-hogar-inteligente-n100211",
+      "parrafos": 47,
+      "palabras": 1737
+    },
+    {
+      "codigo": "N19",
+      "url": "https://www.forbesargentina.com/today/caputo-recibio-respaldo-georgieva-pero-hay-us-869-millones-juego-obstaculo-resolver-n100187",
+      "parrafos": 13,
+      "palabras": 510
+    },
+    {
+      "codigo": "N20",
+      "url": "https://www.forbesargentina.com/lifestyle/subastan-40000-botellas-vino-cava-secreta-stalin-n92711",
+      "parrafos": 9,
+      "palabras": 523
+    },
+    {
+      "codigo": "N21",
+      "url": "https://www.forbesargentina.com/lifestyle/tiny-houses-chicos-tendencia-lujo-empezo-europa-eeuu-crece-argentina-n92704",
+      "parrafos": 10,
+      "palabras": 468
+    },
+    {
+      "codigo": "N22",
+      "url": "https://www.forbesargentina.com/negocios/elon-musk-ya-tiene-country-manager-tesla-argentina-uruguay-quien-planes-empresa-n92645",
+      "parrafos": 13,
+      "palabras": 570
+    },
+    {
+      "codigo": "N23",
+      "url": "https://www.forbesargentina.com/lifestyle/mundial-2026-records-historicos-messi-cristiano-ronaldo-mbappe-podrian-romper-n92548",
+      "parrafos": 14,
+      "palabras": 723
+    },
+    {
+      "codigo": "N24",
+      "url": "https://www.forbesargentina.com/lifestyle/cuanto-cobran-maximas-figuras-mundial-posteo-instagram-n92510",
+      "parrafos": 10,
+      "palabras": 430
+    },
+    {
+      "codigo": "N25",
+      "url": "https://www.forbesargentina.com/liderazgo/la-confianza-empresaria-enfria-ventas-empleo-rentabilidad-lupa-n92331",
+      "parrafos": 12,
+      "palabras": 519
+    },
+    {
+      "codigo": "N26",
+      "url": "https://www.forbesargentina.com/money/las-acciones-argentinas-dispararon-14-wall-street-tras-mejora-rating-soberano-n92289",
+      "parrafos": 9,
+      "palabras": 502
+    },
+    {
+      "codigo": "N27",
+      "url": "https://www.forbesargentina.com/money/moodys-subio-nota-credito-ciudad-tras-emision-bono-us500-millones-n92208",
+      "parrafos": 11,
+      "palabras": 464
+    },
+    {
+      "codigo": "N28",
+      "url": "https://www.forbesargentina.com/liderazgo/cohetes-realidad-virtual-neurorehabilitacion-proyectos-itba-anticipan-industrias-futuro-n92209",
+      "parrafos": 11,
+      "palabras": 489
+    },
+    {
+      "codigo": "N29",
+      "url": "https://www.forbesargentina.com/money/libre-radicacion-cuentas-bancarias-provincias-mas-impuestos-cobran-bancos-costo-credito-n92181",
+      "parrafos": 8,
+      "palabras": 408
+    },
+    {
+      "codigo": "N30",
+      "url": "https://www.forbesargentina.com/negocios/a-48-horas-mundial-atletico-rechazo-us-150-millones-real-madrid-julian-alvarez-n92151",
+      "parrafos": 8,
+      "palabras": 358
+    },
+    {
+      "codigo": "N31",
+      "url": "https://www.forbesargentina.com/innovacion/siri-ai-respuesta-apple-chatgpt-claude-gemini-n92115",
+      "parrafos": 16,
+      "palabras": 961
+    },
+    {
+      "codigo": "N32",
+      "url": "https://www.forbesargentina.com/money/el-oro-plata-tocan-sus-precios-mas-bajos-meses-impacto-negativo-reservas-argentinas-n92024",
+      "parrafos": 14,
+      "palabras": 882
+    },
+    {
+      "codigo": "N33",
+      "url": "https://www.forbesargentina.com/innovacion/fifa-rompe-ea-sports-apuesta-netflix-su-videojuego-mundial-cuando-llega-como-jugarlo-n91969",
+      "parrafos": 9,
+      "palabras": 470
+    },
+    {
+      "codigo": "N34",
+      "url": "https://www.forbesargentina.com/money/quienes-son-socios-suizos-jose-luis-manzano-quedaron-shell-argentina-n91937",
+      "parrafos": 25,
+      "palabras": 1359
+    },
+    {
+      "codigo": "N35",
+      "url": "https://www.forbesargentina.com/lifestyle/messi-agranda-su-leyenda-frase-emociono-todos-tras-recibir-trofeo-princesa-asturias-n91878",
+      "parrafos": 10,
+      "palabras": 441
+    },
+    {
+      "codigo": "N36",
+      "url": "https://www.forbesargentina.com/lifestyle/la-historia-detras-aleph-unicornio-argentino-conquisto-130-paises-explicado-una-docuserie-n91875",
+      "parrafos": 12,
+      "palabras": 653
+    },
+    {
+      "codigo": "N37",
+      "url": "https://www.forbesargentina.com/innovacion/ia-auditable-nuevo-estandar-exigen-industrias-reguladas-dar-salto-digital-n91850",
+      "parrafos": 16,
+      "palabras": 903
+    },
+    {
+      "codigo": "N38",
+      "url": "https://www.forbesargentina.com/today/abelardo-espriella-quien-milei-colombiano-disputara-presidencia-balotaje-n91736",
+      "parrafos": 24,
+      "palabras": 1245
+    },
+    {
+      "codigo": "N39",
+      "url": "https://www.forbesargentina.com/innovacion/la-carrera-billon-dolares-anthropic-acelera-su-ipo-desafia-dominio-openai-n91718",
+      "parrafos": 10,
+      "palabras": 451
+    },
+    {
+      "codigo": "N40",
+      "url": "https://www.forbesargentina.com/lifestyle/cuanto-cuesta-acompanar-seleccion-argentina-durante-todo-mundial-2026-n91534",
+      "parrafos": 29,
+      "palabras": 1606
+    },
+    {
+      "codigo": "N41",
+      "url": "https://www.forbesargentina.com/innovacion/ferrari-desafia-porsche-lamborghini-electrico-lujo-cuesta-us-640000-n91402",
+      "parrafos": 8,
+      "palabras": 454
+    },
+    {
+      "codigo": "N42",
+      "url": "https://www.forbesargentina.com/money/la-actividad-economica-crecio-55-marzo-marco-su-mayor-suba-junio-2025-indec-n91204",
+      "parrafos": 9,
+      "palabras": 454
+    },
+    {
+      "codigo": "N43",
+      "url": "https://www.forbesargentina.com/lifestyle/soy-amenazantemente-feliz-nueva-vida-antonio-banderas-como-empresario-teatral-n91083",
+      "parrafos": 13,
+      "palabras": 612
+    },
+    {
+      "codigo": "N44",
+      "url": "https://www.forbesargentina.com/money/tropfen-coloco-una-on-financiar-su-expansion-industrial-fortalecer-su-competitividad-agro-n91035",
+      "parrafos": 10,
+      "palabras": 485
+    },
+    {
+      "codigo": "N45",
+      "url": "https://www.forbesargentina.com/money/la-bolsa-mas-poderosa-mundo-cumple-234-anos-su-origen-sus-secretos-club-vip-prepara-wall-street-n90962",
+      "parrafos": 44,
+      "palabras": 2383
+    },
+    {
+      "codigo": "N46",
+      "url": "https://www.forbesargentina.com/innovacion/zuckerberg-pichai-ceos-tiktok-snap-vuelven-congreso-eeuu-seguridad-ninos-adolescentes-internet-n90892",
+      "parrafos": 11,
+      "palabras": 583
+    },
+    {
+      "codigo": "N47",
+      "url": "https://www.forbesargentina.com/innovacion/la-guerra-eeuu-china-chips-ia-pone-riesgos-gigantes-sector-n90863",
+      "parrafos": 18,
+      "palabras": 773
+    },
+    {
+      "codigo": "N48",
+      "url": "https://www.forbesargentina.com/money/avanza-privatizacion-aysa-manana-pubicaran-pliegos-vender-90-empresa-n90823",
+      "parrafos": 10,
+      "palabras": 566
+    },
+    {
+      "codigo": "N49",
+      "url": "https://www.forbesargentina.com/money/los-negocios-disputan-trump-xi-jinping-china-tregua-us-30000-millones-define-futuro-elon-musk-nvidia-n90785",
+      "parrafos": 30,
+      "palabras": 1742
+    },
+    {
+      "codigo": "N50",
+      "url": "https://www.forbesargentina.com/lifestyle/el-primer-fifa-ingreso-salon-fama-videojuegos-nacimiento-datos-curiosidades-una-franquicia-historica-n90645",
+      "parrafos": 19,
+      "palabras": 1032
+    },
+    {
+      "codigo": "J01",
+      "url": "https://www.forbesargentina.com/negocios/anthropic-avanza-su-salida-bolsa-negocio-multimillonario-estructura-amodei-conserve-poder-n101110",
+      "parrafos": 28,
+      "palabras": 1149
+    },
+    {
+      "codigo": "J02",
+      "url": "https://www.forbesargentina.com/negocios/youtube-netflix-audiencia-modelo-negocio-n101011",
+      "parrafos": 16,
+      "palabras": 801
+    },
+    {
+      "codigo": "J03",
+      "url": "https://www.forbesargentina.com/negocios/las-fintech-destinaran-us-2200-millones-crecer-2027-donde-invertiran-n100926",
+      "parrafos": 40,
+      "palabras": 1441
+    },
+    {
+      "codigo": "J04",
+      "url": "https://www.forbesargentina.com/negocios/balance-tesla-gana-43-menos-acelera-su-apuesta-robotaxis-robots-n100811",
+      "parrafos": 30,
+      "palabras": 1215
+    },
+    {
+      "codigo": "J05",
+      "url": "https://www.forbesargentina.com/today/llegar-fin-mes-dejar-pagar-uso-tarjetas-recortes-otros-ingresos-lograrlo-n100802",
+      "parrafos": 18,
+      "palabras": 788
+    },
+    {
+      "codigo": "J06",
+      "url": "https://www.forbesargentina.com/negocios/otro-banco-argentino-mejora-su-calificacion-crediticia-n100637",
+      "parrafos": 12,
+      "palabras": 514
+    },
+    {
+      "codigo": "J07",
+      "url": "https://www.forbesargentina.com/negocios/la-chocolateria-premium-nacio-pandemia-llega-buenos-aires-una-inversion-us-300000-n100588",
+      "parrafos": 17,
+      "palabras": 933
+    },
+    {
+      "codigo": "J08",
+      "url": "https://www.forbesargentina.com/innovacion/un-documental-reabre-caso-theranos-promesa-us-9000-millones-termino-fraude-sacudio-silicon-valley-n100561",
+      "parrafos": 27,
+      "palabras": 1263
+    },
+    {
+      "codigo": "J09",
+      "url": "https://www.forbesargentina.com/negocios/la-familia-detras-wagyu-argentino-redobla-su-apuesta-negocio-la-carne-mas-codiciada-mundo-n100556",
+      "parrafos": 13,
+      "palabras": 756
+    },
+    {
+      "codigo": "J10",
+      "url": "https://www.forbesargentina.com/negocios/las-pymes-miran-exterior-nuevas-herramientas-pagar-proveedores-globales-n100385",
+      "parrafos": 17,
+      "palabras": 780
+    },
+    {
+      "codigo": "J11",
+      "url": "https://www.forbesargentina.com/negocios/telecom-acepto-oferta-us-450-millones-metrotel-pasa-ser-tercer-gigante-telefonia-argentina-n100268",
+      "parrafos": 21,
+      "palabras": 942
+    },
+    {
+      "codigo": "J12",
+      "url": "https://www.forbesargentina.com/negocios/la-fintech-controla-cuentas-mercado-libre-nubank-apuesta-ia-detectar-dinero-llega-n100245",
+      "parrafos": 21,
+      "palabras": 955
+    },
+    {
+      "codigo": "J13",
+      "url": "https://www.forbesargentina.com/negocios/milei-apuesta-data-centers-esfuerzos-gobierno-cautivar-inversores-sector-n100009",
+      "parrafos": 28,
+      "palabras": 1394
+    },
+    {
+      "codigo": "J14",
+      "url": "https://www.forbesargentina.com/innovacion/como-una-ceo-enfrento-ciberataque-us-388-millones-decisiones-detras-una-crisis-preocupa-empresas-n99929",
+      "parrafos": 17,
+      "palabras": 793
+    },
+    {
+      "codigo": "J15",
+      "url": "https://www.forbesargentina.com/negocios/disney-amplia-su-estrategia-negocios-argentina-cuales-son-nuevos-beneficios-usuarios-n99871",
+      "parrafos": 17,
+      "palabras": 744
+    },
+    {
+      "codigo": "J16",
+      "url": "https://www.forbesargentina.com/negocios/filiberti-roman-paso-quedarse-aysa-quienes-son-numeros-empresa-n99759",
+      "parrafos": 30,
+      "palabras": 1267
+    },
+    {
+      "codigo": "J17",
+      "url": "https://www.forbesargentina.com/negocios/dolares-cripto-bcra-descarto-avances-ano-anticipo-mas-controles-fintech-n99679",
+      "parrafos": 17,
+      "palabras": 711
+    },
+    {
+      "codigo": "J18",
+      "url": "https://www.forbesargentina.com/negocios/el-imperio-ellison-plan-negocios-detras-gigante-reune-harry-potter-hbo-cnn-sacude-hollywood-n99624",
+      "parrafos": 26,
+      "palabras": 1100
+    },
+    {
+      "codigo": "J19",
+      "url": "https://www.forbesargentina.com/innovacion/el-efecto-spacex-como-una-sola-accion-revitalizo-competencia-fintech-argentinas-n92532",
+      "parrafos": 13,
+      "palabras": 664
+    },
+    {
+      "codigo": "J21",
+      "url": "https://www.forbesargentina.com/innovacion/spacex-crece-92-starlink-ya-genera-ganancias-pero-gasto-record-ia-golpea-accion-n94811",
+      "parrafos": 37,
+      "palabras": 1484
+    },
+    {
+      "codigo": "J23",
+      "url": "https://www.forbesargentina.com/negocios/la-argentina-una-ganga-inversor-detras-farmacity-freddo-pone-fin-mito-las-empresas-locales-baratas-n94753",
+      "parrafos": 10,
+      "palabras": 510
+    },
+    {
+      "codigo": "J26",
+      "url": "https://www.forbesargentina.com/money/bitcoin-presion-giro-strategy-salida-etf-senales-amenazan-llevarlo-nuevamente-us-60000-n94603",
+      "parrafos": 26,
+      "palabras": 1239
+    },
+    {
+      "codigo": "J27",
+      "url": "https://www.forbesargentina.com/negocios/cumbre-inversores-argentinos-avance-ia-elecciones-2027-principales-preocupaciones-n94564",
+      "parrafos": 19,
+      "palabras": 774
+    },
+    {
+      "codigo": "J29",
+      "url": "https://www.forbesargentina.com/money/el-mundo-necesita-argentina-produzca-vision-citi-sobre-oportunidad-abre-pais-n94535",
+      "parrafos": 26,
+      "palabras": 1076
+    },
+    {
+      "codigo": "J30",
+      "url": "https://www.forbesargentina.com/money/el-nuevo-examen-wall-street-inteligencia-artificial-microsoft-subio-meta-desplomo-n94493",
+      "parrafos": 33,
+      "palabras": 1436
+    },
+    {
+      "codigo": "J31",
+      "url": "https://www.forbesargentina.com/negocios/de-paredes-lisandro-martinez-mirtha-legrand-dos-argentinos-impulsan-negocio-wellness-deportivo-cuidado-corporal-n94451",
+      "parrafos": 26,
+      "palabras": 1205
+    },
+    {
+      "codigo": "J32",
+      "url": "https://www.forbesargentina.com/innovacion/la-ia-reduce-90-costo-crear-startups-cambia-estrategia-fondos-america-latina-n94419",
+      "parrafos": 36,
+      "palabras": 1609
+    },
+    {
+      "codigo": "J33",
+      "url": "https://www.forbesargentina.com/innovacion/jensen-huang-anticipa-fin-programacion-revela-aprender-trabajar-ia-n94410",
+      "parrafos": 8,
+      "palabras": 342
+    },
+    {
+      "codigo": "J35",
+      "url": "https://www.forbesargentina.com/innovacion/los-consejos-sam-altman-construir-una-startup-era-ia-cree-modelo-tradicional-quedo-viejo-n94365",
+      "parrafos": 35,
+      "palabras": 1570
+    },
+    {
+      "codigo": "J36",
+      "url": "https://www.forbesargentina.com/negocios/el-negocio-competir-40-messi-lebron-ronaldo-djokovic-caras-detras-mercado-longevidad-deportiva-n94322",
+      "parrafos": 32,
+      "palabras": 1419
+    },
+    {
+      "codigo": "J38",
+      "url": "https://www.forbesargentina.com/negocios/fabian-kon-ceo-grupo-galicia-si-argentina-crece-habra-falta-talento-muchas-areas-n94216",
+      "parrafos": 21,
+      "palabras": 872
+    },
+    {
+      "codigo": "J39",
+      "url": "https://www.forbesargentina.com/innovacion/una-ia-openai-escapo-una-prueba-ataco-otra-empresa-explicacion-sam-altman-n94152",
+      "parrafos": 20,
+      "palabras": 821
+    },
+    {
+      "codigo": "J40",
+      "url": "https://www.forbesargentina.com/innovacion/terraflos-apuesta-longevidad-levanta-us-35-millones-combinar-ia-biotecnologia-biodiversidad-latinoamericana-n93167",
+      "parrafos": 14,
+      "palabras": 556
+    },
+    {
+      "codigo": "J41",
+      "url": "https://www.forbesargentina.com/negocios/la-tercera-vaca-muerta-sector-ya-exporta-mas-us-10000-millones-ano-n93098",
+      "parrafos": 14,
+      "palabras": 632
+    },
+    {
+      "codigo": "J42",
+      "url": "https://www.forbesargentina.com/negocios/despues-ganar-hidrovia-jan-nul-presento-oferta-mas-baja-quedarse-otra-licitacion-clave-n93014",
+      "parrafos": 18,
+      "palabras": 782
+    },
+    {
+      "codigo": "J43",
+      "url": "https://www.forbesargentina.com/innovacion/la-memoria-nuevo-activo-estrategico-ia-revelan-resultados-record-micron-sobre-futuro-sector-n92978",
+      "parrafos": 19,
+      "palabras": 817
+    },
+    {
+      "codigo": "J44",
+      "url": "https://www.forbesargentina.com/negocios/del-televisor-youtube-como-mundial-2026-acelero-negocio-creadores-deportivos-fenomeno-davoo-xeneize-n92960",
+      "parrafos": 16,
+      "palabras": 658
+    },
+    {
+      "codigo": "J45",
+      "url": "https://www.forbesargentina.com/negocios/despues-quedarse-hidrovia-jan-nul-va-otro-negocio-clave-logistica-argentina-n92890",
+      "parrafos": 24,
+      "palabras": 955
+    },
+    {
+      "codigo": "J46",
+      "url": "https://www.forbesargentina.com/millonarios/javier-milei-busca-inversores-ia-su-cercania-campamento-millonarios-n92745",
+      "parrafos": 21,
+      "palabras": 1026
+    },
+    {
+      "codigo": "J48",
+      "url": "https://www.forbesargentina.com/innovacion/milei-respondio-harari-defendio-empresas-controladas-ia-tengan-personalidad-juridica-n92613",
+      "parrafos": 12,
+      "palabras": 489
+    },
+    {
+      "codigo": "J49",
+      "url": "https://www.forbesargentina.com/negocios/el-gobierno-reduce-impuestos-fintech-empresas-cripto-cambia-sector-celebra-medida-n92594",
+      "parrafos": 10,
+      "palabras": 424
+    },
+    {
+      "codigo": "J50",
+      "url": "https://www.forbesargentina.com/negocios/el-gobierno-pone-jaque-millonaria-compra-telefonica-exige-telecom-ceder-6-millones-clientes-n92590",
+      "parrafos": 14,
+      "palabras": 497
+    },
+    {
+      "codigo": "L01",
+      "url": "https://www.forbesargentina.com/negocios/pymes-15-fabricas-ya-enfrenta-embargos-arca-deudas-impositivas-n101394",
+      "parrafos": 15,
+      "palabras": 833
+    },
+    {
+      "codigo": "L02",
+      "url": "https://www.forbesargentina.com/negocios/clima-negocios-proyectan-una-caida-266-actividad-economica-tercer-trimestre-complica-balances-n101325",
+      "parrafos": 9,
+      "palabras": 440
+    },
+    {
+      "codigo": "L03",
+      "url": "https://www.forbesargentina.com/negocios/desembolsos-industria-una-compania-nacional-invierte-us-30-millones-modernizar-sus-plantas-n101245",
+      "parrafos": 10,
+      "palabras": 518
+    },
+    {
+      "codigo": "L04",
+      "url": "https://www.forbesargentina.com/liderazgo/ranking-global-empleabilidad-uba-itba-universidades-preferidas-reclutadores-empresas-n101237",
+      "parrafos": 13,
+      "palabras": 682
+    },
+    {
+      "codigo": "L05",
+      "url": "https://www.forbesargentina.com/negocios/la-pyme-textil-invirtio-us-3-millones-quintuplico-su-produccion-toallas-dar-pelea-ola-importadora-n101168",
+      "parrafos": 13,
+      "palabras": 623
+    },
+    {
+      "codigo": "L06",
+      "url": "https://www.forbesargentina.com/negocios/tras-reeleccion-lula-sectores-lideran-agenda-negocios-argentina-brasil-n101081",
+      "parrafos": 7,
+      "palabras": 350
+    },
+    {
+      "codigo": "L07",
+      "url": "https://www.forbesargentina.com/negocios/desafios-industria-vino-argentina-aranceles-logistica-clave-acuerdos-comerciales-n101060",
+      "parrafos": 6,
+      "palabras": 310
+    },
+    {
+      "codigo": "L08",
+      "url": "https://www.forbesargentina.com/negocios/la-pyme-perico-jujuy-desafia-importaciones-vehiculos-infantiles-alta-gama-busca-llevar-sus-modelos-exterior-n101033",
+      "parrafos": 12,
+      "palabras": 632
+    },
+    {
+      "codigo": "L09",
+      "url": "https://www.forbesargentina.com/liderazgo/las-claves-luciana-aymar-transformar-talento-individual-equipo-alto-rendimiento-n101018",
+      "parrafos": 1,
+      "palabras": 59
+    },
+    {
+      "codigo": "L10",
+      "url": "https://www.forbesargentina.com/negocios/la-confianza-empresarios-pyme-cayo-nivel-mas-tres-anos-preve-sector-cierre-ano-n100931",
+      "parrafos": 11,
+      "palabras": 593
+    },
+    {
+      "codigo": "L11",
+      "url": "https://www.forbesargentina.com/negocios/supero-1-millon-usuarios-cuatro-meses-busca-crecer-america-latina-startup-da-premios-descuentos-caminar-n100928",
+      "parrafos": 10,
+      "palabras": 490
+    },
+    {
+      "codigo": "L12",
+      "url": "https://www.forbesargentina.com/negocios/apuesta-pistacho-valor-agregado-plan-us-195-millones-solfrut-san-juan-n100789",
+      "parrafos": 8,
+      "palabras": 449
+    },
+    {
+      "codigo": "L13",
+      "url": "https://www.forbesargentina.com/negocios/m-a-argentina-empresas-estados-unidos-lideran-compras-activos-locales-n100800",
+      "parrafos": 12,
+      "palabras": 638
+    },
+    {
+      "codigo": "L14",
+      "url": "https://www.forbesargentina.com/negocios/mastercard-lanza-argentina-world-legend-su-nueva-tarjeta-encima-nivel-black-n100736",
+      "parrafos": 8,
+      "palabras": 467
+    },
+    {
+      "codigo": "L15",
+      "url": "https://www.forbesargentina.com/negocios/estrategias-canal-batalla-ganar-gondola-kiosco-e-commerce-n100593",
+      "parrafos": 5,
+      "palabras": 330
+    },
+    {
+      "codigo": "L16",
+      "url": "https://www.forbesargentina.com/liderazgo/sesgos-inteligencia-artificial-economia-creadores-nuevos-desafios-empresas-construir-narrativas-negocio-n100573",
+      "parrafos": 17,
+      "palabras": 883
+    },
+    {
+      "codigo": "L17",
+      "url": "https://www.forbesargentina.com/negocios/el-nuevo-mapa-productivo-argentina-donde-estan-oportunidades-negocio-n100566",
+      "parrafos": 15,
+      "palabras": 693
+    },
+    {
+      "codigo": "L18",
+      "url": "https://www.forbesargentina.com/negocios/de-cafe-san-juan-imperio-ruta-como-lele-cristobal-redefinio-negocio-gastronomico-n100565",
+      "parrafos": 9,
+      "palabras": 480
+    },
+    {
+      "codigo": "L19",
+      "url": "https://www.forbesargentina.com/negocios/nacio-garage-hoy-produce-2500-unidades-hora-claves-marca-alimentos-fermentados-busca-liderar-gondola-n100529",
+      "parrafos": 14,
+      "palabras": 639
+    },
+    {
+      "codigo": "L20",
+      "url": "https://www.forbesargentina.com/negocios/tension-pymes-industriales-duplican-atrasos-pagos-6-cada-10-sufren-demoras-cobro-n95916",
+      "parrafos": 10,
+      "palabras": 513
+    },
+    {
+      "codigo": "L21",
+      "url": "https://www.forbesargentina.com/negocios/diseno-argentino-exportacion-pyme-textiles-artesanales-llega-estados-unidos-europa-n95915",
+      "parrafos": 5,
+      "palabras": 256
+    },
+    {
+      "codigo": "L22",
+      "url": "https://www.forbesargentina.com/liderazgo/ia-trabajo-empleados-ganan-tiempo-pero-empresas-todavia-ven-retorno-n95727",
+      "parrafos": 11,
+      "palabras": 646
+    },
+    {
+      "codigo": "L23",
+      "url": "https://www.forbesargentina.com/negocios/otra-marca-internacional-llega-kohler-gigante-banos-cocinas-invierte-us-45-millones-desembarca-argentina-n95710",
+      "parrafos": 8,
+      "palabras": 390
+    },
+    {
+      "codigo": "L24",
+      "url": "https://www.forbesargentina.com/negocios/el-penthouse-mas-caro-argentina-sale-venta-us-21-millones-puerto-madero-n95507",
+      "parrafos": 13,
+      "palabras": 642
+    },
+    {
+      "codigo": "L25",
+      "url": "https://www.forbesargentina.com/negocios/con-mas-us-10-millones-levantados-una-proyeccion-triplicar-ventas-asi-escala-mundo-una-biotecnologica-nacida-conicet-n95493",
+      "parrafos": 6,
+      "palabras": 370
+    },
+    {
+      "codigo": "L26",
+      "url": "https://www.forbesargentina.com/negocios/dia-nino-2026-industria-juguete-redefine-su-negocio-caida-consumo-salto-digital-n95418",
+      "parrafos": 17,
+      "palabras": 862
+    },
+    {
+      "codigo": "L27",
+      "url": "https://www.forbesargentina.com/negocios/tras-tomar-100-definit-sus-fundadores-apuestan-us-5-millones-en-argentina-esta-casi-todo-hacer-n95341",
+      "parrafos": 8,
+      "palabras": 484
+    },
+    {
+      "codigo": "L28",
+      "url": "https://www.forbesargentina.com/liderazgo/las-reglas-escritas-cofundador-apple-ensena-steve-wozniak-sobre-liderar-emprender-mirar-ia-n95226",
+      "parrafos": 2,
+      "palabras": 101
+    },
+    {
+      "codigo": "L29",
+      "url": "https://www.forbesargentina.com/negocios/consumo-baja-e-commerce-alza-apuesta-p-g-le-dio-newsan-salto-11-consumo-masivo-prepara-su-desembarco-silver-n95162",
+      "parrafos": 10,
+      "palabras": 509
+    },
+    {
+      "codigo": "L30",
+      "url": "https://www.forbesargentina.com/negocios/el-dia-cero-internet-netscape-burbuja-puntocom-fiebre-wall-street-ia-n95113",
+      "parrafos": 18,
+      "palabras": 984
+    },
+    {
+      "codigo": "L31",
+      "url": "https://www.forbesargentina.com/negocios/radiografia-mercado-cervecero-fenomeno-artesanal-distribuidores-auge-delivery-opciones-alcohol-n94987",
+      "parrafos": 11,
+      "palabras": 529
+    },
+    {
+      "codigo": "L32",
+      "url": "https://www.forbesargentina.com/negocios/las-exportaciones-vino-buscan-recuperar-valor-estrategia-tras-salto-47-blancos-meta-triplicar-mercado-2030-n94984",
+      "parrafos": 6,
+      "palabras": 254
+    },
+    {
+      "codigo": "L33",
+      "url": "https://www.forbesargentina.com/liderazgo/philip-morris-argentina-abrio-convocatoria-su-programa-pasantias-cubrir-30-posiciones-laborales-n94932",
+      "parrafos": 17,
+      "palabras": 848
+    },
+    {
+      "codigo": "L34",
+      "url": "https://www.forbesargentina.com/negocios/soledad-fundador-inteligencia-artificial-acceso-credito-desafios-marcan-agenda-emprendedores-argentinos-n94909",
+      "parrafos": 7,
+      "palabras": 345
+    },
+    {
+      "codigo": "L35",
+      "url": "https://www.forbesargentina.com/negocios/tension-diplomatica-negocios-brasil-salida-embajador-medio-intercambio-busca-consolidar-su-recuperacion-n94834",
+      "parrafos": 18,
+      "palabras": 951
+    },
+    {
+      "codigo": "L36",
+      "url": "https://www.forbesargentina.com/negocios/crearon-una-marca-cosmetica-una-habitacion-llamaron-atencion-harvard-proyectan-facturar-us-3-millones-n94762",
+      "parrafos": 8,
+      "palabras": 297
+    },
+    {
+      "codigo": "L37",
+      "url": "https://www.forbesargentina.com/liderazgo/gestion-conocimiento-liderazgo-t-claves-resolver-nuevo-dilema-corporativo-datos-n94692",
+      "parrafos": 9,
+      "palabras": 330
+    },
+    {
+      "codigo": "L38",
+      "url": "https://www.forbesargentina.com/negocios/la-bodeguera-francesa-apuesta-argentina-avanza-megaproyecto-bienestar-real-estate-mendoza-n94658",
+      "parrafos": 9,
+      "palabras": 519
+    },
+    {
+      "codigo": "L39",
+      "url": "https://www.forbesargentina.com/negocios/vacaciones-invierno-2026-buscan-cuanto-gastan-argentinos-n93776",
+      "parrafos": 16,
+      "palabras": 825
+    },
+    {
+      "codigo": "L40",
+      "url": "https://www.forbesargentina.com/negocios/el-emprendedor-cambio-paradigma-editorial-quebrar-2001-facturar-85-millones-euros-airbnb-libros-n93688",
+      "parrafos": 11,
+      "palabras": 573
+    },
+    {
+      "codigo": "L41",
+      "url": "https://www.forbesargentina.com/negocios/el-imperio-gianluigi-aponte-hombre-mas-rico-suiza-desafia-mercado-global-n93660",
+      "parrafos": 17,
+      "palabras": 935
+    },
+    {
+      "codigo": "L42",
+      "url": "https://www.forbesargentina.com/liderazgo/la-otra-cara-ola-ia-algunos-lideres-eligen-invertir-talento-lugar-recortar-n93616",
+      "parrafos": 9,
+      "palabras": 394
+    },
+    {
+      "codigo": "L43",
+      "url": "https://www.forbesargentina.com/liderazgo/marca-personal-clave-reinvencion-profesional-era-ia-incertidumbre-laboral-n93535",
+      "parrafos": 18,
+      "palabras": 913
+    },
+    {
+      "codigo": "L44",
+      "url": "https://www.forbesargentina.com/negocios/la-seleccion-excusa-como-mundial-reordena-consumo-movilidad-picadas-argentinos-n93502",
+      "parrafos": 17,
+      "palabras": 934
+    },
+    {
+      "codigo": "L45",
+      "url": "https://www.forbesargentina.com/negocios/el-espejismo-ia-plan-expertos-pymes-aprovechen-su-presupuesto-tecnologico-n93450",
+      "parrafos": 1,
+      "palabras": 35
+    },
+    {
+      "codigo": "L46",
+      "url": "https://www.forbesargentina.com/negocios/de-argentina-mundo-plan-proveedores-vaca-muerta-repliquen-modelo-australiano-n93303",
+      "parrafos": 10,
+      "palabras": 460
+    },
+    {
+      "codigo": "L47",
+      "url": "https://www.forbesargentina.com/negocios/el-mundial-ya-cambio-como-mueven-gastan-argentinos-numeros-detras-tendencia-n93245",
+      "parrafos": 16,
+      "palabras": 822
+    },
+    {
+      "codigo": "L48",
+      "url": "https://www.forbesargentina.com/negocios/el-proximo-silicon-valley-africano-como-cabo-verde-rival-enfrenta-argentina-transformo-iman-startups-tecnologico-n93235",
+      "parrafos": 21,
+      "palabras": 1023
+    },
+    {
+      "codigo": "L49",
+      "url": "https://www.forbesargentina.com/negocios/el-desafio-consumo-medio-apertura-economica-credito-baja-tasas-claves-espera-mercado-bienes-durables-n93214",
+      "parrafos": 13,
+      "palabras": 710
+    },
+    {
+      "codigo": "L50",
+      "url": "https://www.forbesargentina.com/lifestyle/de-posguera-una-barra-altura-como-cocina-japonesa-volvio-una-grandes-protagonistas-gastronomicas-buenos-aires-n93184",
+      "parrafos": 17,
+      "palabras": 906
+    }
+  ],
+  "advertencias": [
+    "Las palabras de negocio también reflejan el tema, no una marca exclusiva del autor.",
+    "Los conectores y verbos no se aplican por cuota.",
+    "La lista negra y las correcciones del periodista tienen prioridad.",
+    "No se copian al repositorio los cuerpos de los artículos."
+  ]
+}

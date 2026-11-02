@@ -139,3 +139,27 @@ La comprobación estructural valida los tres TOML, las referencias locales y los
 - `voz/analisis/registro-laura-mafud-50-notas.md`
 - `voz/guia-de-voz.md`
 - `voz/referentes/laura-mafud.md`
+
+
+## 2026-11-02 — Banco explícito de palabras y giros
+
+- **Consulta del periodista:** si quedaron incorporadas las palabras habituales de Laura Mafud y Agustín Jamele.
+- **Hallazgo:** estaban guardadas pautas de registro, tono y estructura, pero faltaba un banco explícito de recurrencias léxicas de ambos autores en la configuración activa.
+- **Incorporación:** `voz/vocabulario.md`, con palabras, giros, expresiones sectoriales y verbos de atribución. Incluye también una sección de Nicolás para conservar la integración de las tres referencias.
+- **Método:** recuento conservador en párrafos sin citas, excluyendo ocho entrevistas en pregunta-respuesta de Jamele; bases de 42 notas narrativas de Agustín, 50 de Laura y 50 de Nicolás. Se cuentan documentos con al menos una presencia, no cantidad total de repeticiones. Los verbos se detectan por separado en fórmulas de atribución posteriores a una cita.
+- **Trazabilidad:** `voz/analisis/datos-vocabulario.json` conserva bases, recuentos, códigos y enlaces. Las cifras no se presentan como una medición exhaustiva ni como rasgos exclusivos del autor.
+- **Regla agregada a la guía:** «Antes de redactar o evaluar el texto, leé el banco de vocabulario». La lectura se agrega también a `AGENTS.md` y a redactor, estilista y editor.
+- **Criterio de aplicación:** elegir por significado y género, mantener literales las citas y respetar la lista negra. La recurrencia de un término en los referentes no deroga una corrección del periodista.
+- **Conservación:** los cinco agentes siguen definidos; no se modifican sus TOML, herramientas ni permisos. Se preservan los informes, registros, datos del análisis anterior, ejemplos, lista negra e instructivo adjunto.
+
+### Archivos de esta incorporación
+
+- `AGENTS.md`
+- `LEEME.md`
+- `agentes/editor.md`
+- `agentes/estilista.md`
+- `agentes/redactor.md`
+- `feedback/registro.md`
+- `voz/analisis/datos-vocabulario.json`
+- `voz/guia-de-voz.md`
+- `voz/vocabulario.md`

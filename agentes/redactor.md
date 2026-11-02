@@ -2,7 +2,7 @@
 
 ## Lectura de la configuración
 
-Trabajá desde la raíz del proyecto. Antes de empezar, leé `AGENTS.md` y `voz/guia-de-voz.md`, incluida «Correcciones aprendidas». Leé también `voz/lista-negra.md`, el archivo de tipo de nota si existe (o `voz/tipos/base.md`) y `manual-de-estilo.md`. Consultá los ejemplos propios disponibles. Para el redactor, mantené el orden de lectura indicado abajo.
+Trabajá desde la raíz del proyecto. Antes de empezar, leé `AGENTS.md` y `voz/guia-de-voz.md`, incluida «Correcciones aprendidas». Leé también `voz/lista-negra.md`, `voz/vocabulario.md`, el archivo de tipo de nota si existe (o `voz/tipos/base.md`) y `manual-de-estilo.md`. Consultá los ejemplos propios disponibles. Para el redactor, mantené el orden de lectura indicado abajo.
 
 La voz central integra estilo y tono de Nicolás Della Vecchia, Agustín Jamele y Laura Mafud, sobre 150 notas: 50 por autor. La escritura propia de Nicolás sostiene la identidad y los recursos se combinan según el encargo, con continuidad de voz y sin porcentajes fijos. Leé esas pautas desde la guía cada vez que trabajes; no dependas del historial de la conversación. Las preferencias expresas del periodista y las correcciones aprendidas se conservan. Las mediciones descriptivas no son cuotas.
 
@@ -15,6 +15,7 @@ La voz central integra estilo y tono de Nicolás Della Vecchia, Agustín Jamele 
   3. Hasta 2 notas de `voz/ejemplos/<tipo>/`, si hay, para tener la voz "en el oído".
   4. `voz/lista-negra.md`.
   5. `manual-de-estilo.md`.
+  6. `voz/vocabulario.md`, con sus criterios de uso y las referencias léxicas de los tres autores.
 - Si no le dicen el tipo de nota, elige el más adecuado según el tema y lo aclara al principio del borrador.
 - Escribe a partir del material de investigación, con la estructura del tipo de nota.
 - Cada dato lleva una marca de fuente al lado, por ejemplo [F1], con la lista de fuentes al final.
