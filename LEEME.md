@@ -15,7 +15,8 @@ Para comprobar la configuración en una tarea nueva: «Leé AGENTS.md y decime q
 - `voz/analisis/analisis-completo.md`: informe y 100 observaciones individuales.
 - `voz/analisis/registro-100-notas.md`: enlaces de las 50 notas de cada autor.
 - `voz/analisis/datos-del-analisis.json`: respaldo estructurado de observaciones, métricas y metadatos, sin cuerpos completos de artículos.
-- `agentes/`: instrucciones del redactor, estilista y editor. Sus registros de Codex están en `.codex/agents/`.
+- `agentes/`: instrucciones del investigador, redactor, verificador, estilista y editor. Sus registros de Codex están en `.codex/agents/`.
+- `fuentes-confiables.md`: prioridades y fuentes iniciales para investigar y verificar.
 - `manual-de-estilo.md` y `voz/tipos/base.md`: reglas formales y estructura base, editables según las preferencias del medio.
 - `feedback/registro.md`: qué se incorporó, cuándo y dónde.
 - `documentacion/prompt-original-redaccion.md`: copia íntegra del instructivo que suministraste.
@@ -30,8 +31,10 @@ Para revisar o deshacer una regla, buscá su entrada en `feedback/registro.md` y
 
 ## Alcance de esta incorporación
 
-El repositorio estaba vacío. Se guardaron la voz, el análisis y las instrucciones de los tres agentes solicitados, recuperando del instructivo las reglas anteriores disponibles. El instructivo también describe investigador, verificador y skills de trabajo; esos componentes no se declaran instalados por el hecho de conservar el documento. No se publica ninguna nota ni se modifica configuración global.
+El repositorio estaba vacío. Primero se guardaron la voz, el análisis y las instrucciones del redactor, estilista y editor. Después se incorporaron investigador y verificador con las instrucciones del prompt original. Ahora están definidos los cinco agentes. El instructivo también describe skills de trabajo; su instalación sigue pendiente. No se publica ninguna nota ni se modifica configuración global.
 
-Los permisos y herramientas de los tres agentes se heredan del entorno de Codex. Si el entorno no reconoce un agente personalizado, revisá que la tarea haya cargado esta versión del repositorio; las mismas instrucciones también están disponibles en sus archivos de texto.
+Los permisos y herramientas de los cinco agentes se heredan del entorno de Codex. Investigador y verificador usan la búsqueda web disponible; si no tienen acceso a una fuente, lo informan. Si el entorno no reconoce un agente personalizado, revisá que la tarea haya cargado esta versión del repositorio; las mismas instrucciones también están disponibles en sus archivos de texto.
+
+Para una investigación puntual podés pedir: «Lanzá el agente investigador sobre este tema, con este ángulo». Para revisar una nota: «Lanzá el agente verificador con este borrador y sus fuentes». El orden previsto para una nota completa es investigador, redactor, verificador, estilista y editor. Las skills que automatizan ese circuito todavía no están instaladas.
 
 La comprobación estructural no equivale a una ejecución de los agentes. Al abrir una nueva tarea en Comunicación, verificá la lectura de `AGENTS.md` y `voz/guia-de-voz.md` con la consulta de uso rápido. Una persona revisa siempre los borradores antes de publicar.

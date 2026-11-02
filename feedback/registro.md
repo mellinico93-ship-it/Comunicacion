@@ -98,3 +98,14 @@ Los tres TOML usan `name`, `description` y `developer_instructions`; remiten a s
 ### Verificación y alcance
 
 La comprobación estructural valida los tres TOML, las referencias locales y los 100 registros únicos, y compara el instructivo preservado con el adjunto. La activación efectiva debe confirmarse al abrir una nueva tarea de Comunicación que cargue esta versión del repositorio. El instructivo completo contiene otros agentes y skills; su existencia no se afirma a partir de este respaldo documental.
+
+## 2026-11-02 — Incorporación de investigador y verificador
+
+- **Corrección señalada por el periodista:** ambos agentes estaban incluidos en el prompt original y faltaban en la configuración guardada.
+- **Motivo de la omisión anterior:** la incorporación de voz se limitó a los tres roles nombrados en ese pedido de actualización. Eso dejó incompleto el esquema de cinco agentes del instructivo.
+- **Archivos nuevos:** `agentes/investigador.md`, `agentes/verificador.md`, `.codex/agents/investigador.toml` y `.codex/agents/verificador.toml`. Se conservan las instrucciones específicas de ambos roles del prompt original y se agregan sus requisitos de lectura, formato y límites de actuación.
+- **Apoyo necesario:** `fuentes-confiables.md`, con una base editable de prioridades y fuentes originales. Se mantiene la escritura del investigador dentro de `investigaciones/` y la revisión del verificador en modo de solo lectura.
+- **Archivos actualizados:** `AGENTS.md` y `LEEME.md`, para enumerar los cinco agentes y explicar el orden de trabajo.
+- **Texto de alcance incorporado:** «Los cinco agentes se registran en `.codex/agents/`. Sus instrucciones completas están en `agentes/`». El investigador reúne hechos y material documentado; el verificador contrasta cada afirmación contra su fuente original sin editar el borrador.
+- **Conservación:** la guía de voz, la lista negra, el análisis de las 100 notas, los tres roles anteriores y el instructivo adjunto permanecen sin cambios.
+- **Verificación:** se comprueban los cinco TOML y la presencia de las instrucciones originales de los dos roles. La configuración hereda permisos y herramientas del entorno; no se afirma una ejecución de investigación o verificación durante esta actualización. Las skills del instructivo siguen pendientes.

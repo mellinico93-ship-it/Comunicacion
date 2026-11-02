@@ -29,7 +29,17 @@ El detalle del análisis está en `voz/analisis/analisis-completo.md` y sus fuen
 
 ## Agentes y alcance de esta incorporación
 
-Los tres roles de redacción se registran en `.codex/agents/`. Sus instrucciones completas están en `agentes/`. Los permisos efectivos los determina el entorno; las indicaciones de cada rol delimitan su ámbito editorial y no amplían esos permisos.
+Los cinco agentes se registran en `.codex/agents/`. Sus instrucciones completas están en `agentes/`. Los permisos efectivos los determina el entorno; las indicaciones de cada rol delimitan su ámbito editorial y no amplían esos permisos.
+
+| Agente | Instrucciones | Trabajo |
+|---|---|---|
+| investigador | `agentes/investigador.md` | Reunir hechos, cifras, citas y detalles documentados sobre un tema y un ángulo. |
+| redactor | `agentes/redactor.md` | Escribir el borrador con la guía de voz y las fuentes disponibles. |
+| verificador | `agentes/verificador.md` | Contrastar cada afirmación con sus fuentes sin modificar la nota. |
+| estilista | `agentes/estilista.md` | Evaluar la voz y proponer ajustes sin alterar datos ni citas. |
+| editor | `agentes/editor.md` | Preparar títulos, bajadas y versión final del borrador revisado. |
+
+Investigador y verificador leen `fuentes-confiables.md` y usan la búsqueda web disponible para consultar fuentes originales. Si una herramienta o una fuente no está disponible, lo informan; no simulan búsquedas ni verificaciones. La secuencia prevista por el instructivo es investigación, redacción, verificación, revisión de voz y edición. La existencia de las definiciones no demuestra que se hayan ejecutado esos pasos.
 
 Conservamos el instructivo original íntegro en `documentacion/prompt-original-redaccion.md`. Es una referencia histórica para el sistema completo, no una orden de volver a entrevistar al usuario, reinstalar todo o ejecutar una nota de prueba en cada tarea. Esta incorporación no declara instalados los demás agentes o skills descriptos en ese documento si no existen sus archivos.
 
