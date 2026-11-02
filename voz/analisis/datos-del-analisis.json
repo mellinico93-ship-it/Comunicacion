@@ -1,0 +1,2448 @@
+{
+  "incorporacion": "2026-11-02",
+  "referencia_principal": "Nicolás Della Vecchia",
+  "referencia_complementaria": "Agustín Jamele",
+  "advertencias": [
+    "Muestra descriptiva: sus mediciones no fijan cuotas editoriales.",
+    "La distribución de géneros y la edición del medio influyen en las diferencias.",
+    "Las respuestas de entrevistas se excluyeron de las mediciones de prosa editorial.",
+    "El campo body_words de metricas_originales.jamele conserva el cálculo bruto, que incluye ceros de entrevistas excluidas; no usarlo como comparación de largo de nota."
+  ],
+  "informe_nicolas_original": [
+    {
+      "type": "title",
+      "text": "Nicolás Della Vecchia: análisis de 50 notas y guía de redacción"
+    },
+    {
+      "type": "subtitle",
+      "text": "Referencia editorial basada en artículos publicados en Forbes Argentina · 2 de noviembre de 2026"
+    },
+    {
+      "type": "p",
+      "text": "Tu escritura publicada combina un ángulo de actualidad, explicación accesible y una lectura de negocio. El foco suele estar en quién toma una decisión, qué intereses persigue y qué cambia para empresas, personas o la Argentina. La voz se vuelve más narrativa cuando el tema ofrece una trayectoria, una escena o una dimensión humana."
+    },
+    {
+      "type": "h1",
+      "text": "Alcance de la muestra"
+    },
+    {
+      "type": "p",
+      "text": "Se analizaron 50 artículos distintos, con la firma de Nicolás Della Vecchia verificada en cada página. Las fechas mostradas por el sitio van del 11 de mayo al 31 de octubre de 2026. La selección reúne notas accesibles desde las primeras tres páginas del perfil; combina temas y momentos de publicación y no equivale a una selección cronológica de las últimas 50."
+    },
+    {
+      "type": "p",
+      "text": "Distribución por sección: Money, 16; Today, 10; Innovación, 10; Lifestyle, 9; Liderazgo, 3; Negocios, 2. El registro del final identifica cada nota, su fecha, su enlace y una decisión narrativa particular."
+    },
+    {
+      "type": "p",
+      "text": "Se revisaron títulos, bajadas, aperturas, desarrollo, subtítulos, fuentes y cierres. Para medir el ritmo se excluyeron navegación, imágenes, publicaciones incrustadas, listas y bloques de declaraciones. El objeto del análisis es la escritura publicada en Forbes, que también refleja edición y formatos del medio. Las observaciones de estilo no verifican ni convierten en actuales los hechos de esas notas."
+    },
+    {
+      "type": "h1",
+      "text": "Lo que muestra la muestra"
+    },
+    {
+      "type": "p",
+      "text": "Titulares: mediana de 17 palabras, con un rango de 11 a 26. En 28 de los 50 aparecen dos puntos; 21 incluyen dígitos; 10 mencionan moneda o importes; 8 contienen palabras interrogativas y 2 usan signos de pregunta. La cifra es un recurso disponible, no un requisito de todos los títulos."
+    },
+    {
+      "type": "p",
+      "text": "Organización: 48 notas tienen subtítulos, con una mediana de 3 por artículo. En 46 se identificó una bajada diferenciada, con una mediana de 33,5 palabras. Las cuatro restantes emplean el formato Topline y datos clave."
+    },
+    {
+      "type": "p",
+      "text": "Ritmo: los párrafos de desarrollo extraídos tienen una mediana de 50 palabras; la mitad central queda entre 39 y 61. El texto combina esos párrafos con pausas breves de énfasis. Estas medidas describen la muestra: orientan la cadencia y no fijan una extensión obligatoria. Se contaron palabras separadas por espacios y unidades de párrafo de la extracción del sitio."
+    },
+    {
+      "type": "h1",
+      "text": "Los rasgos que conviene trasladar a la redacción"
+    },
+    {
+      "type": "h2",
+      "text": "Un ángulo concreto organiza el título"
+    },
+    {
+      "type": "p",
+      "text": "Los títulos suelen reunir una acción con su importancia: una operación y su tamaño, un cambio y su consecuencia, una figura y una nueva etapa. Los dos puntos permiten desplegar un segundo plano de la noticia. En la nota sobre Binance, el ataque se conecta con el mercado; en la de Anthropic, el calendario bursátil se convierte en competencia; en el viaje al Mundial, la pregunta de servicio organiza el presupuesto. [N02] [N39] [N40]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: identificar primero qué cambió y por qué merece atención. Elegir la cifra, el conflicto, la consecuencia o la pregunta que mejor exprese ese ángulo. La bajada debe sumar alcance, contexto o condiciones."
+    },
+    {
+      "type": "h2",
+      "text": "La apertura cambia con el género"
+    },
+    {
+      "type": "p",
+      "text": "En noticias e indicadores, la entrada suele entregar el hecho y una comparación. En perfiles, puede comenzar por una conducta o una trayectoria: el cumpleaños de Galperin se cuenta desde sus sucesivos planes de retiro. En el riesgo país, la entrada nace del contraste entre una declaración y las cotizaciones. La historia de la NYSE usa una escena fundacional y enseguida la conecta con la actualidad. [N01] [N17] [N45]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: elegir entre hecho, contraste o escena documentada según el material. En una explicación, aclarar temprano el mecanismo; en un perfil, dejar que la historia sostenga la entrada antes de ampliar el contexto."
+    },
+    {
+      "type": "h2",
+      "text": "Explicar significa mostrar cómo funciona"
+    },
+    {
+      "type": "p",
+      "text": "La traducción de jerga suele hacerse mediante acciones. El perfil de Mercuria explica quién compra, vende, financia y transporta. La nota de PHP usa operaciones cotidianas para volver comprensible una tecnología invisible. En los mercados de predicción, un ejemplo numérico permite seguir el funcionamiento del contrato. La explicación incorpora un proceso que el lector puede reconstruir. [N34] [N11] [N07]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: presentar un concepto con una definición breve y seguir con un caso, una comparación o una secuencia de acciones. Al describir una empresa, explicar quién paga, qué recibe, de dónde salen los ingresos y qué costo o problema resuelve."
+    },
+    {
+      "type": "h2",
+      "text": "El dato fuerte viene acompañado de alcance"
+    },
+    {
+      "type": "p",
+      "text": "Una marca reconocible es precisar qué representa una cifra o una afirmación. En Gameto se diferencia el valor potencial del acuerdo del pago inmediato. En la NBA se distingue volumen negociado de ingresos. En el oro se separa una variación contable de una salida de divisas. El ranking de Instagram termina aclarando que los importes son estimaciones. [N06] [N07] [N32] [N24]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: conservar períodos, unidades, bases de comparación y condiciones. Distinguir resultados, proyecciones, autorizaciones y hechos consumados. Ubicar la precisión junto al dato que modifica."
+    },
+    {
+      "type": "h2",
+      "text": "El ritmo alterna desarrollo y énfasis"
+    },
+    {
+      "type": "p",
+      "text": "La prosa admite explicaciones de varias oraciones. Los párrafos breves aparecen para marcar una transición, una consecuencia o un detalle humano. En los perfiles de Galperin y del ejecutivo de Tesla, esas pausas ayudan a interpretar lo anterior. Los subtítulos suelen anunciar información que viene, con nombres, temas o preguntas concretas. [N01] [N22]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: desarrollar una idea por párrafo, variando su longitud con el contenido. Usar una frase breve cuando aporte un giro o una consecuencia. Colocar subtítulos al cambiar de problema, escala, actor o etapa."
+    },
+    {
+      "type": "h2",
+      "text": "La cercanía tiene vocabulario argentino"
+    },
+    {
+      "type": "p",
+      "text": "Predomina la tercera persona, con un narrador que explica y conecta. En algunas notas aparecen palabras como plata o chicos, y giros locales más conversados. La nota de Tesla es un ejemplo marcado de ese registro. En finanzas, regulación e indicadores, el tono suele sostener mayor precisión institucional. Los anglicismos del sector conviven con traducciones y explicaciones de su función. [N22] [N29] [N32]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: escribir en español argentino natural, con verbos concretos y cercanía medida. Mantener los términos técnicos útiles y explicar los que sostienen el argumento. Ajustar el grado de conversación al tema y al destinatario."
+    },
+    {
+      "type": "h2",
+      "text": "La dimensión de negocio cruza las secciones"
+    },
+    {
+      "type": "p",
+      "text": "Las notas preguntan qué cambia para un mercado, una empresa, un consumidor o un inversor. Una elección brasileña se conecta con comercio y energía argentinos. Un lanzamiento tecnológico se examina por precios, competencia, servicios y disponibilidad local. Una colección histórica lleva a procedencia, compradores y exportaciones. [N09] [N18] [N20]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: convertir la importancia general de una novedad en consecuencias identificables. Incorporar el vínculo argentino cuando exista evidencia concreta para desarrollarlo."
+    },
+    {
+      "type": "h2",
+      "text": "La temperatura narrativa sube en historias humanas"
+    },
+    {
+      "type": "p",
+      "text": "En deportes y cultura aumenta el uso de escenas, memoria, expectativa y adjetivación. La entrega del premio a Messi se apoya en emoción y recuerdos. La NYSE organiza su recorrido alrededor del acceso y la pertenencia. La historia de FIFA vuelve del origen del videojuego al presente del torneo. Esos recursos pertenecen a notas con una intención narrativa reconocible. [N10] [N45] [N50]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: dar espacio a la emoción y a las imágenes cuando estén sostenidas por testimonios, hechos o escenas disponibles. En notas técnicas, concentrar la energía en claridad, consecuencias y precisión."
+    },
+    {
+      "type": "h2",
+      "text": "Las fuentes entran dentro del relato"
+    },
+    {
+      "type": "p",
+      "text": "Las referencias suelen incluir nombre, función y procedencia de la información. Se combinan documentos o anuncios con agencias, especialistas y testimonios. Las declaraciones se acompañan de explicación; algunas notas conservan también el registro de quién no respondió o de qué dato no se publicó. [N02] [N07] [N46]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: presentar cada voz por su aporte al argumento. Mantener literales las citas y visible la atribución de hipótesis, previsiones y valoraciones."
+    },
+    {
+      "type": "h2",
+      "text": "El cierre responde al recorrido"
+    },
+    {
+      "type": "p",
+      "text": "En noticias puede terminar con un detalle nuevo o un próximo paso; en negocios, con una condición para que avance la oportunidad; en historias, con una imagen o una tensión que reaparece. La nota de chips concluye con el bloqueo de la operación. Anthropic comprime la competencia en frases breves. La NYSE vuelve sobre los objetos y espacios que sostuvieron su relato. [N47] [N39] [N45]"
+    },
+    {
+      "type": "p",
+      "text": "Aplicación: elegir una consecuencia, una condición pendiente, un dato final o un retorno narrativo que deje avanzar la historia. La forma del cierre debe surgir del material disponible."
+    },
+    {
+      "type": "h1",
+      "text": "Cómo cambia el registro según la nota"
+    },
+    {
+      "type": "h2",
+      "text": "Actualidad y noticias estructuradas"
+    },
+    {
+      "type": "p",
+      "text": "Poner el hecho y su alcance al comienzo. Cuando el formato lo requiera, ordenar datos clave, contexto, preguntas abiertas y próximos pasos. Las piezas sobre Netanyahu, Bolsonaro, Francia y el FMI muestran esa arquitectura. El formato Topline es una opción vinculada al tipo de cobertura. [N03] [N05] [N13] [N19]"
+    },
+    {
+      "type": "h2",
+      "text": "Indicadores y economía"
+    },
+    {
+      "type": "p",
+      "text": "Avanzar desde el resultado a la comparación, sus componentes y su significado. Explicar escalas, bases, nominalidad, inflación o composición cuando cambian la lectura. Los casos de confianza, mayoristas y cuentas fiscales muestran distintos niveles de desglose. [N08] [N15] [N16] [N25] [N42]"
+    },
+    {
+      "type": "h2",
+      "text": "Tecnología y servicio"
+    },
+    {
+      "type": "p",
+      "text": "Combinar novedad, funcionamiento, uso y condiciones. El precio, la compatibilidad, el calendario y la disponibilidad local aparecen cuando resuelven decisiones del lector. En una estimación de costos, detallar supuestos y fuentes. [N11] [N18] [N31] [N33] [N40]"
+    },
+    {
+      "type": "h2",
+      "text": "Perfiles y negocios"
+    },
+    {
+      "type": "p",
+      "text": "Anclar la historia en una noticia actual y elegir antecedentes que expliquen la decisión presente. Conectar persona, trayectoria, capacidades y modelo económico. La cercanía puede crecer cuando el protagonista y el recorrido lo permiten. [N01] [N22] [N34] [N36] [N43]"
+    },
+    {
+      "type": "h2",
+      "text": "Historias, cultura y deporte"
+    },
+    {
+      "type": "p",
+      "text": "Construir una escena o un motivo, alternar información y desarrollo narrativo, y volver al presente. Las cifras ayudan a dimensionar el recorrido; el tono puede incorporar emoción, memoria o expectativa. [N10] [N23] [N45] [N50]"
+    },
+    {
+      "type": "h1",
+      "text": "Instrucciones de redacción listas para reutilizar"
+    },
+    {
+      "type": "p",
+      "text": "Usar como referencia la escritura publicada de Nicolás Della Vecchia estudiada en esta muestra de 50 notas. Mantener una voz periodística argentina, informativa, explicativa y atenta a las personas y al funcionamiento de los negocios. Respetar el género, la extensión y el destinatario de cada encargo."
+    },
+    {
+      "type": "bullet",
+      "text": "Definir un ángulo concreto: qué cambió, quién actúa y qué consecuencia importa. Construir el título alrededor de ese ángulo; usar cifras, preguntas o dos puntos cuando ayuden."
+    },
+    {
+      "type": "bullet",
+      "text": "Escribir una bajada que amplíe la información con alcance, contexto o condiciones."
+    },
+    {
+      "type": "bullet",
+      "text": "Elegir la entrada según el material: hecho relevante en actualidad, contraste documentado en análisis, escena o trayectoria en perfiles e historias."
+    },
+    {
+      "type": "bullet",
+      "text": "Desarrollar una idea por párrafo. Alternar explicación con pausas breves de énfasis. La franja de 40 a 60 palabras puede orientar párrafos de desarrollo, con libertad para variar."
+    },
+    {
+      "type": "bullet",
+      "text": "Explicar los mecanismos con acciones, ejemplos y comparaciones. En negocios, mostrar quién paga, qué recibe y cómo se genera valor."
+    },
+    {
+      "type": "bullet",
+      "text": "Presentar términos técnicos y siglas con una explicación suficiente para seguir la historia. Mantener el vocabulario argentino y los términos del sector que resulten naturales."
+    },
+    {
+      "type": "bullet",
+      "text": "Conservar unidades, períodos y bases de comparación. Diferenciar proyecciones de resultados, montos autorizados de ejecutados y valoraciones de ingresos."
+    },
+    {
+      "type": "bullet",
+      "text": "Integrar fuentes y citas dentro del desarrollo. Identificar personas y funciones, conservar la literalidad y atribuir afirmaciones pendientes de confirmación."
+    },
+    {
+      "type": "bullet",
+      "text": "Explicar el impacto para usuarios, empresas, inversores o el país. Desarrollar el vínculo con Argentina cuando esté respaldado."
+    },
+    {
+      "type": "bullet",
+      "text": "Usar subtítulos informativos para cambios de tema, escala o etapa. Adaptar las listas y el formato de datos clave al género solicitado."
+    },
+    {
+      "type": "bullet",
+      "text": "En perfiles, cultura y deporte, incorporar escenas y emoción apoyadas en el material. En economía y tecnología, priorizar mecanismo, consecuencias y límites."
+    },
+    {
+      "type": "bullet",
+      "text": "Cerrar con una consecuencia, una condición, un paso siguiente, un dato final o el regreso a un motivo narrativo."
+    },
+    {
+      "type": "bullet",
+      "text": "Revisar erratas, reiteraciones y precisión factual. Verificar los hechos de cada nuevo encargo con sus propias fuentes; esta muestra funciona como referencia de escritura."
+    },
+    {
+      "type": "h1",
+      "text": "Registro individual de las 50 notas"
+    },
+    {
+      "type": "p",
+      "text": "Cada fila enlaza al artículo examinado y sintetiza una decisión de escritura observada. Los números N01 a N50 permiten localizar los ejemplos citados en la guía. Las fechas y los títulos corresponden a las páginas consultadas."
+    }
+  ],
+  "observaciones_nicolas_originales": [
+    [
+      1,
+      "Perfil narrativo",
+      "Abre con las edades a las que Galperin imaginó retirarse. Alterna cronología, sucesión y pausas breves; después organiza las declaraciones por temas. La voz del perfil se distingue de las frases recopiladas."
+    ],
+    [
+      2,
+      "Noticia explicativa",
+      "Presenta el ataque por su impacto económico y luego reconstruye el mecanismo. Ordena las consecuencias por activos y empresas, atribuye hipótesis y cierra con las medidas pendientes de la plataforma."
+    ],
+    [
+      3,
+      "Actualidad estructurada",
+      "Usa Topline y datos clave para ordenar una felicitación política cuyo resultado electoral exige matices. Agrega contexto, un contraste regional y los pasos siguientes de la negociación parlamentaria."
+    ],
+    [
+      4,
+      "Explicación económica",
+      "Convierte un acuerdo institucional en cuatro líneas de acción. Cada bloque explica el mecanismo y sus condiciones; el final vuelve al estado de la revisión y al desembolso todavía pendiente."
+    ],
+    [
+      5,
+      "Actualidad estructurada",
+      "Distribuye la información entre datos clave, cuestiones abiertas, antecedentes judiciales y próximos pasos. Mantiene la atribución de las versiones y hace visible qué parte del recorrido aún no se confirmó."
+    ],
+    [
+      6,
+      "Negocio y explicación técnica",
+      "Abre con una operación empresarial y aclara enseguida el alcance de su valuación. Después explica el producto, la evidencia disponible y los protagonistas; integra historia familiar y lógica de adquisición."
+    ],
+    [
+      7,
+      "Negocio explicado",
+      "Parte de una alianza, explica el funcionamiento de los contratos con un ejemplo numérico y distingue volumen de ingresos. Relaciona incentivos comerciales, controles deportivos y disputa regulatoria."
+    ],
+    [
+      8,
+      "Lectura de indicadores",
+      "Presenta una mejora mensual junto con el deterioro acumulado. Explica la escala del índice, compara períodos y segmentos, y termina delimitando lo que puede inferirse de la encuesta."
+    ],
+    [
+      9,
+      "Análisis con impacto local",
+      "Abre una elección extranjera desde sus consecuencias para Argentina. Encadena propuestas fiscales, reacción del mercado, comercio y energía; transforma el escenario político en preguntas de negocio."
+    ],
+    [
+      10,
+      "Crónica humana",
+      "Presenta la entrega de un premio con una temperatura emocional alta. Alterna datos del reconocimiento, escenas públicas y recuerdos familiares; los párrafos breves remarcan el significado personal."
+    ],
+    [
+      11,
+      "Explicación tecnológica",
+      "Escala desde la alerta hasta sus efectos en organizaciones. Define la tecnología con acciones cotidianas, distingue exposición de daño comprobado y termina con medidas concretas para los afectados."
+    ],
+    [
+      12,
+      "Cobertura de discurso",
+      "Organiza una intervención extensa por ejes productivos y económicos. Alterna citas, cifras y traducciones de conceptos; identifica las estimaciones del orador y suma un apartado de frases destacadas."
+    ],
+    [
+      13,
+      "Actualidad estructurada",
+      "Condensa medidas y daños en Topline y datos clave. Luego precisa alcance territorial, horarios y origen de las protestas: convierte una noticia amplia en información localizada y atribuida."
+    ],
+    [
+      14,
+      "Cobertura explicativa",
+      "Reconstruye un debate por conflictos y propuestas. Después introduce encuestas con metodología y límites temporales; el cierre desplaza la atención hacia la campaña y el escenario todavía abierto."
+    ],
+    [
+      15,
+      "Explicación de indicadores",
+      "Presenta el dato general y desciende a sus componentes. Explica aportes en puntos porcentuales, compara otros índices y cierra con el significado de esos costos para la cadena productiva."
+    ],
+    [
+      16,
+      "Noticia fiscal",
+      "Entrega el resultado y su comparación al comienzo. Separa saldo primario y financiero, agrega el efecto de la inflación y la base de comparación, y termina con el desglose del gasto."
+    ],
+    [
+      17,
+      "Contraste documentado",
+      "Abre con la distancia entre una declaración y el mercado. Reconstruye la serie temporal, explica el indicador y vuelve sobre la diferencia entre una mejora de largo plazo y la tendencia reciente."
+    ],
+    [
+      18,
+      "Tecnología y servicio",
+      "Ordena un lanzamiento por productos. En cada bloque combina función, uso, precio y limitaciones; después examina competencia e ingresos por servicios y termina con disponibilidad e idioma en Argentina."
+    ],
+    [
+      19,
+      "Actualidad estructurada",
+      "Presenta una reunión favorable junto con el desembolso pendiente. Los datos clave anticipan cifras y obstáculos; el desarrollo explica la dispensa y los pasos institucionales necesarios."
+    ],
+    [
+      20,
+      "Historia y negocio",
+      "Abre una colección histórica desde su posible subasta. Integra procedencia, patrimonio y testimonio; luego explica por qué ese origen genera valor comercial y conecta la pieza con el vino georgiano."
+    ],
+    [
+      21,
+      "Tendencia y servicio",
+      "Presenta la tendencia con precio y casos reconocibles. Baja a materiales, equipamiento y personalización; el cierre vuelve al costo y lo compara con una categoría cercana."
+    ],
+    [
+      22,
+      "Perfil de negocios",
+      "Parte de un nombramiento y vincula cada etapa profesional con el desafío actual de la empresa. Usa giros argentinos y frases breves para traducir la estrategia a operaciones concretas."
+    ],
+    [
+      23,
+      "Previa narrativa",
+      "Abre con legado y expectativa, luego ordena los récords por figuras y selecciones. La estadística sostiene una narración más enfática que termina proyectando el significado histórico del torneo."
+    ],
+    [
+      24,
+      "Ranking explicado",
+      "Responde la pregunta con las figuras de mayor valor y luego desarrolla rankings. Añade comparaciones de escala y reserva el cierre para explicar la metodología y el carácter estimado de las cifras."
+    ],
+    [
+      25,
+      "Informe empresarial",
+      "Empieza por la caída del índice y el tamaño de la muestra. Desagrega ventas, rentabilidad, inversión, empleo y precios; intercala una voz institucional y cierra con expectativas macroeconómicas."
+    ],
+    [
+      26,
+      "Noticia de mercados",
+      "Abre con los movimientos de activos y la decisión que los desencadena. Precisa horarios, explica la lectura de los inversores y termina con los riesgos que condicionan la continuidad de la mejora."
+    ],
+    [
+      27,
+      "Explicación financiera",
+      "Presenta el cambio de calificación y lo conecta con una emisión de deuda. Traduce la nota local, desarrolla los fundamentos fiscales y conserva el riesgo cambiario dentro de una lectura favorable."
+    ],
+    [
+      28,
+      "Cobertura institucional",
+      "Introduce un evento desde su relación con sectores productivos. Recorre proyectos concretos, los agrupa por aplicación y suma voces responsables; el cierre conecta formación, tecnología y demanda profesional."
+    ],
+    [
+      29,
+      "Regulación explicada",
+      "Abre una norma como movimiento dentro de una disputa de intereses. Traduce su efecto operativo y ordena las diferencias provinciales para explicar su posible incidencia en el costo del crédito."
+    ],
+    [
+      30,
+      "Deporte como negocio",
+      "Presenta una oferta y un rechazo como conflicto central. Usa antecedentes y reacciones para elevar la tensión; el ranking final dimensiona la operación dentro de la historia de transferencias argentinas."
+    ],
+    [
+      31,
+      "Tecnología y estrategia",
+      "Ancla una novedad de producto en competencia y recambio de liderazgo. Alterna capacidades, ejemplos de uso, privacidad y límites geográficos; el cierre enlaza la tecnología con la transición empresarial."
+    ],
+    [
+      32,
+      "Explicación con impacto local",
+      "Parte de un movimiento internacional, explica su mecanismo financiero y calcula una consecuencia argentina. Expone supuestos y separa un cambio de valuación de una salida efectiva de divisas."
+    ],
+    [
+      33,
+      "Servicio y modelo de negocio",
+      "Presenta un lanzamiento desde la ruptura de una alianza. Explica cómo acceder y jugar, qué incluye y dónde estará disponible; después relaciona el producto con la estrategia de distribución."
+    ],
+    [
+      34,
+      "Perfil y cadena de valor",
+      "Usa una compra como puerta de entrada a dos empresarios. Explica el trading con situaciones concretas, reconstruye la alianza local y conecta producción, refinación y venta al consumidor."
+    ],
+    [
+      35,
+      "Noticia con dimensión humana",
+      "Entrega primero el reconocimiento y sus datos básicos. Integra la reacción personal, los argumentos del jurado y una biografía breve; el componente emotivo se apoya especialmente en las declaraciones."
+    ],
+    [
+      36,
+      "Historia emprendedora",
+      "Abre con un origen pequeño y un resultado de gran escala. Combina recorrido humano, análisis del relato audiovisual y explicación del modelo comercial; el cierre vuelve al contraste entre origen y expansión."
+    ],
+    [
+      37,
+      "Negocio tecnológico",
+      "Traduce una categoría de alianza corporativa a capacidades operativas. Explica herramientas mediante sus usos y desarrolla barreras de adopción; termina con el desafío de demostrar impacto en el negocio."
+    ],
+    [
+      38,
+      "Perfil político explicativo",
+      "Parte de una irrupción electoral y examina una comparación reconocible para Argentina. Suma trayectoria, propuestas, financiamiento y un analista; el final devuelve la definición al resultado del balotaje."
+    ],
+    [
+      39,
+      "Competencia empresarial",
+      "Abre con una ventaja de calendario entre rivales y explica su valor financiero. Amplía el conflicto al capital disponible; termina con frases breves que condensan posiciones y dejan una pregunta de valuación."
+    ],
+    [
+      40,
+      "Servicio con desarrollo numérico",
+      "Presenta el viaje desde un presupuesto llamativo. Desglosa rubros e itinerario, compara escalas y detalla fuentes y supuestos; combina cercanía futbolera con una explicación larga de costos."
+    ],
+    [
+      41,
+      "Producto y posicionamiento",
+      "Presenta precio y contraste competitivo. Convierte especificaciones en usos, sensaciones y público objetivo; cierra situando el producto en un mercado relevante para su posicionamiento."
+    ],
+    [
+      42,
+      "Indicador y lectura económica",
+      "Entrega variación, comparación y sectores que explican el resultado. Integra voces oficiales y económicas; el cierre interpreta qué respaldo ofrece el dato a una narrativa de recuperación."
+    ],
+    [
+      43,
+      "Perfil desde una desmentida",
+      "Toma una controversia como acceso al modelo de una empresa cultural. Reconstruye financiamiento, decisiones y trayectoria; el tono se vuelve más conversado y el comunicado queda identificado como voz del protagonista."
+    ],
+    [
+      44,
+      "Financiamiento y operación",
+      "Presenta una colocación por su utilidad industrial. Conecta condiciones financieras, obra y procesos; las citas añaden motivaciones y obligaciones, y el cierre incorpora proveedores y empleo local."
+    ],
+    [
+      45,
+      "Relato histórico interpretativo",
+      "Abre con una escena fundacional y la conecta con un proyecto actual. Alterna cronología, mecanismos financieros e imágenes; el acceso y la pertenencia funcionan como motivos que regresan en el cierre."
+    ],
+    [
+      46,
+      "Actualidad tecnológica",
+      "Presenta una convocatoria política y abre tres frentes: legislación, tribunales y estructura de una plataforma. Explica instituciones y antecedentes; registra también la falta de respuestas de las compañías."
+    ],
+    [
+      47,
+      "Geopolítica de negocios",
+      "Abre con una autorización que todavía no produce ventas. Cada bloque incorpora una traba, un interés o una condición; el cierre resume las decisiones incompatibles que mantienen la operación detenida."
+    ],
+    [
+      48,
+      "Regulación e infraestructura",
+      "Presenta el avance formal y explica participación accionaria, concesión e inversión. Traduce reglas contractuales a efectos operativos y vuelve al paso administrativo que activa el proceso."
+    ],
+    [
+      49,
+      "Análisis de intereses",
+      "Ordena una cumbre mediante negocios y actores concretos. Alterna comercio, tecnología, energía y restricciones políticas; conecta los incentivos de gobiernos y empresas y cierra con el margen de incertidumbre."
+    ],
+    [
+      50,
+      "Historia cultural y comercial",
+      "Parte de un reconocimiento actual y viaja al origen de un producto. Alterna negocio, diseño y memoria de uso; vuelve al presente con una imagen que enlaza la franquicia con el torneo."
+    ]
+  ],
+  "observaciones_jamele_originales": [
+    [
+      1,
+      "Balance y gobierno corporativo",
+      "Ordena el prospecto por ingresos, modelo comercial, infraestructura, caja y control. La explicación financiera acompaña cada cifra y lleva al lector hasta los derechos del futuro accionista."
+    ],
+    [
+      2,
+      "Comparación de negocios",
+      "Parte de una diferencia de audiencia y formula una pregunta económica. Compara quién financia los contenidos y cómo se reparte el riesgo, antes de volver a la disputa por el televisor."
+    ],
+    [
+      3,
+      "Informe sectorial",
+      "Presenta la inversión proyectada y desagrega madurez, escala, empleo y regulación. Cada bloque precisa qué mide el dato; la conclusión conecta crecimiento con viabilidad económica."
+    ],
+    [
+      4,
+      "Lectura de balance",
+      "Abre con ganancias e inversión en sentidos opuestos. Avanza por segmentos y distingue resultados comerciales, desarrollo industrial y promesas, hasta plantear la prueba pendiente de monetización."
+    ],
+    [
+      5,
+      "Problema cotidiano y encuesta",
+      "Ancla el relevamiento en prácticas reconocibles del presupuesto familiar. Define los grupos y las bases de respuesta, y convierte porcentajes en decisiones financieras cotidianas."
+    ],
+    [
+      6,
+      "Noticia financiera breve",
+      "Presenta una calificación y luego compara tres casos. Explica los fundamentos particulares de cada decisión y reserva el cierre para delimitar la escala nacional de las notas."
+    ],
+    [
+      7,
+      "Perfil desde un objeto",
+      "Abre con una pieza de chocolate que anticipa el producto y la trayectoria del fundador. Intercala escenas, decisiones de costos y citas; el cierre convierte una apertura comercial en prueba de expansión."
+    ],
+    [
+      8,
+      "Reconstrucción histórica",
+      "Une una fecha periodística con un estreno y organiza el caso por promesa, alertas y condena. La historia empresarial enmarca el documental y vuelve sobre la distancia entre credibilidad y evidencia."
+    ],
+    [
+      9,
+      "Negocio agropecuario",
+      "Presenta el remate como respuesta a una demanda. Las voces de los productores explican canales y genética; la narración incorpora costos, tiempos y la incertidumbre del resultado comercial."
+    ],
+    [
+      10,
+      "Necesidad operativa",
+      "Abre con las tareas de una pyme antes de nombrar el producto. Recorre el circuito de pago, costos y requisitos; conecta el servicio visible con la distribución mediante otras plataformas."
+    ],
+    [
+      11,
+      "Operación y ejecución",
+      "Presenta una oferta y descompone su precio, activos y contratos asociados. Después reconstruye la condición regulatoria y termina con el trabajo necesario para convertir escala en competencia."
+    ],
+    [
+      12,
+      "Escena funcional",
+      "Una venta aparentemente terminada abre la pregunta sobre el dinero recibido. La escena permite explicar conciliación, producto y tecnología; las citas acompañan el proceso y el cierre retoma el control de los pagos."
+    ],
+    [
+      13,
+      "Análisis de condiciones",
+      "Reúne gestiones, incentivos, oferta energética y voces del sector. Distingue anuncios, contratos y obras; el cierre propone resultados observables para evaluar la oportunidad."
+    ],
+    [
+      14,
+      "Entrevista reconstruida",
+      "Abre con un dilema de gestión y ordena la crisis por decisiones. Entre citas incorpora cronología, datos y preguntas pendientes; la lectura del periodista conserva autonomía frente al relato empresarial."
+    ],
+    [
+      15,
+      "Usuario y estrategia",
+      "Entrega beneficios concretos y luego explica su función dentro del ecosistema. Alterna condiciones de uso, entrevista y análisis comercial; señala las métricas todavía ausentes."
+    ],
+    [
+      16,
+      "Perfil y lectura contable",
+      "Combina empresarios, oferta y obligaciones futuras. La revisión del balance identifica qué explica la ganancia y diferencia compra de acciones, infraestructura, caja y compromisos de inversión."
+    ],
+    [
+      17,
+      "Declaración y voces propias",
+      "Abre con una frase de cierre que concentra la noticia. Añade respuestas de distintos actores y luego reconstruye la agenda regulatoria, separando posiciones y normas nuevas."
+    ],
+    [
+      18,
+      "Integración empresarial",
+      "Usa franquicias conocidas como entrada a un negocio complejo. Desarrolla ventanas de ingresos, plataformas, ahorros, financiamiento y control; la conclusión desplaza el foco de tamaño a ejecución."
+    ],
+    [
+      19,
+      "Tendencia por varios casos",
+      "Conecta un lanzamiento global con datos de plataformas locales. Organiza la evidencia por empresas y luego interpreta el cambio en adquisición, actividad y comportamiento de usuarios."
+    ],
+    [
+      20,
+      "Entrevista breve",
+      "Pregunta por competencia, experiencia internacional y datos. El recorrido mueve la conversación de una idea general a diferencias entre mercados; la cercanía procede de preguntas directas."
+    ],
+    [
+      21,
+      "Balance por segmentos",
+      "Contrapone crecimiento y gasto con un eje financiero claro. Identifica qué unidad sostiene al grupo y cuál consume capital; el cierre vincula caja, ritmo de expansión y valuación."
+    ],
+    [
+      22,
+      "Entrevista con repregunta",
+      "Abre pidiendo valor concreto y después dirige la respuesta hacia el uso interno. La repregunta breve deja espacio para métricas y conduce desde tecnología a organización y costos."
+    ],
+    [
+      23,
+      "Tesis de un entrevistado",
+      "Toma una afirmación que cuestiona una expectativa y reconstruye sus razones. Las citas se alternan con explicación sobre capital, plazos y valuaciones; luego baja a planes del portafolio."
+    ],
+    [
+      24,
+      "Entrevista de consecuencias",
+      "Introduce trabajo remoto y repregunta por los cambios que provoca. Recorre cultura, espacios, IA e infraestructura con preguntas breves que ayudan a pasar del concepto a sus efectos."
+    ],
+    [
+      25,
+      "Entrevista de estrategia",
+      "Ordena preguntas sobre horizonte, volatilidad y capacidades. Combina el contexto argentino con decisiones de empresa, inversiones y transformación operativa."
+    ],
+    [
+      26,
+      "Mercado y mecanismo",
+      "Presenta presión sobre un activo y explica cómo cambia el papel de un comprador importante. Suma balance, flujos y señales técnicas; el cierre concentra la tensión entre oferta y demanda."
+    ],
+    [
+      27,
+      "Marco de dos tiempos",
+      "La apertura reúne dos horizontes de inversión y organiza alrededor de ellos las voces del foro. Cada bloque vuelve al riesgo que enfrenta un tipo de fondo; el final recupera ambas preguntas."
+    ],
+    [
+      28,
+      "Entrevista de gestión",
+      "Lleva la conversación desde IA a liderazgo, competencia y cooperación. Las preguntas piden consecuencias para el negocio; el tono conversado corresponde a la estructura del intercambio."
+    ],
+    [
+      29,
+      "Exposición interpretada",
+      "Presenta la oportunidad del país y desarrolla sus condiciones a través de una voz central. Alterna citas y explicación, hasta conectar recursos, financiamiento, continuidad y empleo."
+    ],
+    [
+      30,
+      "Balance comparado",
+      "Usa dos reacciones bursátiles como pregunta de apertura. Compara monetización, costos y caja y luego incorpora las tasas; el cierre formula el criterio económico que reúne los casos."
+    ],
+    [
+      31,
+      "Empresa y cambio de categoría",
+      "Parte de una tecnología de nicho que amplía su público. Reconstruye fundación, recomendaciones, contratos y canales para explicar cómo una práctica deportiva se convierte en mercado."
+    ],
+    [
+      32,
+      "Tecnología y tesis inversora",
+      "Conecta un cambio en costos de desarrollo con decisiones de un fondo. Explica distribución, productos embebidos y salidas; cierra con los factores que podrían sostener una ventaja."
+    ],
+    [
+      33,
+      "Ideas ordenadas por aplicación",
+      "Transforma una conversación pública en preguntas sobre tareas, formación, trabajo y emprendimiento. Traduce afirmaciones en mecanismos y recupera un episodio biográfico para sostener el argumento."
+    ],
+    [
+      34,
+      "Entrevista con pedido de dato",
+      "Pasa de capacidades de plataforma a productividad y solicita una medida concreta del uso bancario. La secuencia muestra cómo una repregunta puede convertir generalidades en evidencia operativa."
+    ],
+    [
+      35,
+      "Desarrollo temático extenso",
+      "Reorganiza una entrevista en decisiones de construcción empresarial. Los subtítulos siguen problemas concretos; la voz del periodista explica el alcance de cada consejo y conecta los bloques."
+    ],
+    [
+      36,
+      "De una persona a una industria",
+      "Abre con una decisión de LeBron y amplía hacia recuperación, inversión y consumo. Combina casos y especialistas; vuelve al protagonista para reunir longevidad deportiva y valor económico."
+    ],
+    [
+      37,
+      "Entrevista sobre evidencia",
+      "Pregunta por valor, casos de uso y fallas de implementación. El recorrido busca ejemplos, retorno y aprendizaje; las respuestas del ejecutivo conservan su condición de discurso ajeno."
+    ],
+    [
+      38,
+      "Agenda explicada",
+      "Presenta un evento desde su horizonte temporal. Organiza las voces por estabilidad, reglas, crédito y talento; el cierre concentra qué continuidad se necesita para convertir la propuesta en desarrollo."
+    ],
+    [
+      39,
+      "Reconstrucción tecnológica",
+      "Convierte un incidente técnico en una secuencia de acciones comprensibles. Define términos durante el relato y explica el alcance del caso antes de cerrar con el desafío de los controles."
+    ],
+    [
+      40,
+      "Ronda y modelo integrado",
+      "Usa una inversión para entrar al modelo de una empresa. Las citas explican la cadena entre descubrimiento y consumidor; cada sección desarrolla una parte de la tesis comercial."
+    ],
+    [
+      41,
+      "Sector mediante analogía",
+      "Parte del mapa de exportaciones y ubica un nuevo actor con una referencia conocida. Ordena escala, materia prima, empleo y desafíos; el cierre retoma el contraste que abrió la nota."
+    ],
+    [
+      42,
+      "Noticia y antecedente",
+      "Presenta ofertas con una diferencia económica amplia y aclara el paso pendiente. Reconstruye concesión, rivales y presencia local para explicar qué posición podría consolidarse."
+    ],
+    [
+      43,
+      "Balance como señal sectorial",
+      "Entra por una empresa conocida para desplazar la mirada hacia un componente de infraestructura. Alterna resultados y explicaciones sobre oferta, contratos y capacidad; el cierre recupera la tesis inicial."
+    ],
+    [
+      44,
+      "Informe y especialista",
+      "Parte de un cambio en consumo y lo desarrolla con datos y una voz especializada. La explicación distingue transmisiones de experiencias alrededor del partido y conecta audiencia con monetización."
+    ],
+    [
+      45,
+      "Expansión de una compañía",
+      "Ancla una licitación próxima en una trayectoria empresarial. Alterna concesión, competencia y geografía operativa; el cierre reúne las distintas obras en una posición logística."
+    ],
+    [
+      46,
+      "Escenario y oportunidad",
+      "Introduce una posible visita y explica el valor del acceso al encuentro. Alterna actores, agenda y detalles del lugar; vuelve al interés argentino por capital tecnológico."
+    ],
+    [
+      47,
+      "Entrevista de trayectoria",
+      "Combina una introducción breve con un recorrido desde problema y origen hasta escala y financiamiento. Repregunta por dificultades y rechazos; el cierre abre una reflexión personal del entrevistado."
+    ],
+    [
+      48,
+      "Documento por argumentos",
+      "Expone una carta mediante preguntas sobre responsabilidad, incentivos y competencia. Los subtítulos agrupan sus argumentos y las referencias culturales ayudan a volver legible un debate abstracto."
+    ],
+    [
+      49,
+      "Norma y efectos económicos",
+      "Entrega el cambio y después cuantifica su efecto mediante especialistas. Incorpora voces de distintas empresas y termina con reclamos pendientes que ubican la medida dentro de un proceso."
+    ],
+    [
+      50,
+      "Regulación y escala",
+      "Presenta condiciones regulatorias por su efecto sobre una adquisición. Ordena activos, clientes e infraestructura y usa cuotas de mercado para explicar el objetivo competitivo de la decisión."
+    ]
+  ],
+  "metricas_originales": {
+    "nicolas": {
+      "n": 50,
+      "unique_urls": 50,
+      "bylines": 50,
+      "all_complete": true,
+      "dates": [
+        "2026-05-11",
+        "2026-10-31"
+      ],
+      "sections": {
+        "Liderazgo": 3,
+        "Money": 16,
+        "Today": 10,
+        "Innovación": 10,
+        "Lifestyle": 9,
+        "Negocios": 2
+      },
+      "title_words": {
+        "median": 17.0,
+        "mean": 17.2,
+        "min": 11,
+        "max": 26
+      },
+      "titles_with_digits": 21,
+      "titles_with_colon": 28,
+      "titles_with_currency": 10,
+      "titles_with_question_words": 8,
+      "titles_with_question_marks": 2,
+      "articles_with_headings": 48,
+      "headings_median": 3.0,
+      "standfirsts": 46,
+      "standfirst_words_median": 33.5,
+      "editorial_paragraphs": 979,
+      "paragraph_words": {
+        "median": 50,
+        "mean": 49.3,
+        "q25": 39.0,
+        "q75": 61.0
+      },
+      "body_words": {
+        "total": 48254,
+        "median": 759.0,
+        "min": 308,
+        "max": 2778
+      },
+      "phrases": {
+        "sin embargo": {
+          "articles": 20,
+          "occurrences": 38
+        },
+        "por eso": {
+          "articles": 14,
+          "occurrences": 17
+        },
+        "de hecho": {
+          "articles": 7,
+          "occurrences": 7
+        },
+        "en la práctica": {
+          "articles": 3,
+          "occurrences": 3
+        },
+        "para entender": {
+          "articles": 2,
+          "occurrences": 4
+        },
+        "por ejemplo": {
+          "articles": 7,
+          "occurrences": 7
+        },
+        "es decir": {
+          "articles": 4,
+          "occurrences": 5
+        },
+        "en otras palabras": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "de esta manera": {
+          "articles": 8,
+          "occurrences": 8
+        },
+        "en ese contexto": {
+          "articles": 4,
+          "occurrences": 5
+        },
+        "en este contexto": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "en cambio": {
+          "articles": 9,
+          "occurrences": 10
+        },
+        "por su parte": {
+          "articles": 14,
+          "occurrences": 18
+        },
+        "según": {
+          "articles": 39,
+          "occurrences": 99
+        },
+        "en castellano llano": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "pulseada": {
+          "articles": 3,
+          "occurrences": 4
+        },
+        "apuesta": {
+          "articles": 9,
+          "occurrences": 14
+        },
+        "jugada": {
+          "articles": 3,
+          "occurrences": 3
+        },
+        "tablero": {
+          "articles": 3,
+          "occurrences": 4
+        }
+      }
+    },
+    "jamele": {
+      "n": 50,
+      "unique_urls": 50,
+      "bylines": 50,
+      "all_complete": true,
+      "dates": [
+        "2026-06-17",
+        "2026-10-26"
+      ],
+      "sections": {
+        "Negocios": 33,
+        "Today": 1,
+        "Innovación": 12,
+        "Money": 3,
+        "Millonarios": 1
+      },
+      "title_words": {
+        "median": 19.0,
+        "mean": 18.2,
+        "min": 7,
+        "max": 25
+      },
+      "titles_with_digits": 18,
+      "titles_with_colon": 38,
+      "titles_with_currency": 10,
+      "titles_with_question_words": 9,
+      "titles_with_question_marks": 0,
+      "articles_with_headings": 39,
+      "headings_median": 4.5,
+      "standfirsts": 50,
+      "standfirst_words_median": 46.0,
+      "editorial_paragraphs": 1116,
+      "paragraph_words": {
+        "median": 45.0,
+        "mean": 45.8,
+        "q25": 36.0,
+        "q75": 54.0
+      },
+      "body_words": {
+        "total": 51107,
+        "median": 1095.5,
+        "min": 0,
+        "max": 2093
+      },
+      "phrases": {
+        "sin embargo": {
+          "articles": 31,
+          "occurrences": 51
+        },
+        "por eso": {
+          "articles": 10,
+          "occurrences": 10
+        },
+        "de hecho": {
+          "articles": 0,
+          "occurrences": 0
+        },
+        "en la práctica": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "para entender": {
+          "articles": 3,
+          "occurrences": 3
+        },
+        "por ejemplo": {
+          "articles": 3,
+          "occurrences": 4
+        },
+        "es decir": {
+          "articles": 0,
+          "occurrences": 0
+        },
+        "en otras palabras": {
+          "articles": 0,
+          "occurrences": 0
+        },
+        "de esta manera": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "en ese contexto": {
+          "articles": 5,
+          "occurrences": 5
+        },
+        "en este contexto": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "en cambio": {
+          "articles": 8,
+          "occurrences": 8
+        },
+        "por su parte": {
+          "articles": 1,
+          "occurrences": 1
+        },
+        "según": {
+          "articles": 36,
+          "occurrences": 79
+        },
+        "en castellano llano": {
+          "articles": 0,
+          "occurrences": 0
+        },
+        "pulseada": {
+          "articles": 0,
+          "occurrences": 0
+        },
+        "apuesta": {
+          "articles": 12,
+          "occurrences": 19
+        },
+        "jugada": {
+          "articles": 0,
+          "occurrences": 0
+        },
+        "tablero": {
+          "articles": 0,
+          "occurrences": 0
+        }
+      }
+    }
+  },
+  "notas": [
+    {
+      "codigo": "N01",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Marcos Galperin cumple 55 años: las 50 frases que revelan cómo piensa el fundador de Mercado Libre",
+      "url": "https://www.forbesargentina.com/liderazgo/marcos-galperin-cumple-55-anos-50-frases-revelan-como-piensa-fundador-mercado-libre-n101491",
+      "fecha_mostrada": "31 Octubre de 2026 10.00",
+      "fecha_iso": "2026-10-31",
+      "firma_verificada": true,
+      "seccion": "Liderazgo",
+      "genero_observado": "Perfil narrativo",
+      "observacion": "Abre con las edades a las que Galperin imaginó retirarse. Alterna cronología, sucesión y pausas breves; después organiza las declaraciones por temas. La voz del perfil se distingue de las frases recopiladas.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 39
+    },
+    {
+      "codigo": "N02",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "El hackeo a Binance afectó activos por US$ 6.300 millones: el impacto en Bitcoin y las acciones cripto",
+      "url": "https://www.forbesargentina.com/money/el-hackeo-binance-afecto-activos-us-6300-millones-impacto-bitcoin-acciones-cripto-n101451",
+      "fecha_mostrada": "30 Octubre de 2026 16.48",
+      "fecha_iso": "2026-10-30",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Noticia explicativa",
+      "observacion": "Presenta el ataque por su impacto económico y luego reconstruye el mecanismo. Ordena las consecuencias por activos y empresas, atribuye hipótesis y cierra con las medidas pendientes de la plataforma.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 53
+    },
+    {
+      "codigo": "N03",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Milei felicitó a Netanyahu por el resultado electoral en Israel, aunque su bloque no tendrá mayoría para formar gobierno.",
+      "url": "https://www.forbesargentina.com/today/milei-felicito-netanyahu-resultado-electoral-israel-aunque-su-bloque-tendra-mayoria-formar-gobierno-n101347",
+      "fecha_mostrada": "29 Octubre de 2026 14.24",
+      "fecha_iso": "2026-10-29",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Actualidad estructurada",
+      "observacion": "Usa Topline y datos clave para ordenar una felicitación política cuyo resultado electoral exige matices. Agrega contexto, un contraste regional y los pasos siguientes de la negociación parlamentaria.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 0
+    },
+    {
+      "codigo": "N04",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Las cuatro medidas que el FMI acordó con el Gobierno de Milei para reactivar la economía argentina",
+      "url": "https://www.forbesargentina.com/money/las-cuatro-medidas-fmi-acordo-gobierno-milei-reactivar-economia-argentina-n101345",
+      "fecha_mostrada": "29 Octubre de 2026 13.42",
+      "fecha_iso": "2026-10-29",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Explicación económica",
+      "observacion": "Convierte un acuerdo institucional en cuatro líneas de acción. Cada bloque explica el mecanismo y sus condiciones; el final vuelve al estado de la revisión y al desembolso todavía pendiente.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 48
+    },
+    {
+      "codigo": "N05",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Confirmaron que Flávio Bolsonaro viajó a Estados Unidos y pidió asilo político a Trump",
+      "url": "https://www.forbesargentina.com/today/confirmaron-flavio-bolsonaro-viajo-estados-unidos-pidio-asilo-politico-trump-n101208",
+      "fecha_mostrada": "27 Octubre de 2026 16.17",
+      "fecha_iso": "2026-10-27",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Actualidad estructurada",
+      "observacion": "Distribuye la información entre datos clave, cuestiones abiertas, antecedentes judiciales y próximos pasos. Mantiene la atribución de las versiones y hace visible qué parte del recorrido aún no se confirmó.",
+      "palabras_titulo": 14,
+      "palabras_bajada": 0
+    },
+    {
+      "codigo": "N06",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Martín Varsavsky vendió su sexto unicornio en una operación de US$ 1.380 millones",
+      "url": "https://www.forbesargentina.com/innovacion/martin-varsavsky-vendio-su-sexto-unicornio-una-operacion-us-1380-millones-n101198",
+      "fecha_mostrada": "27 Octubre de 2026 15.27",
+      "fecha_iso": "2026-10-27",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Negocio y explicación técnica",
+      "observacion": "Abre con una operación empresarial y aclara enseguida el alcance de su valuación. Después explica el producto, la evidencia disponible y los protagonistas; integra historia familiar y lógica de adquisición.",
+      "palabras_titulo": 13,
+      "palabras_bajada": 40
+    },
+    {
+      "codigo": "N07",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La NBA se mete en un negocio de US$ 53.000 millones y firma una alianza con dos gigantes del negocio de predicciones",
+      "url": "https://www.forbesargentina.com/today/la-nba-mete-negocio-us-53000-millones-firma-una-alianza-dos-gigantes-negocio-predicciones-n101162",
+      "fecha_mostrada": "27 Octubre de 2026 07.12",
+      "fecha_iso": "2026-10-27",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Negocio explicado",
+      "observacion": "Parte de una alianza, explica el funcionamiento de los contratos con un ejemplo numérico y distingue volumen de ingresos. Relaciona incentivos comerciales, controles deportivos y disputa regulatoria.",
+      "palabras_titulo": 22,
+      "palabras_bajada": 40
+    },
+    {
+      "codigo": "N08",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La confianza en el Gobierno de Milei subió en octubre, pero acumula una caída del 20,7% desde fines de 2025",
+      "url": "https://www.forbesargentina.com/today/la-confianza-gobierno-milei-subio-octubre-pero-acumula-una-caida-207-fines-2025-n101138",
+      "fecha_mostrada": "26 Octubre de 2026 17.42",
+      "fecha_iso": "2026-10-26",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Lectura de indicadores",
+      "observacion": "Presenta una mejora mensual junto con el deterioro acumulado. Explica la escala del índice, compara períodos y segmentos, y termina delimitando lo que puede inferirse de la encuesta.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 49
+    },
+    {
+      "codigo": "N09",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Lula vs. Bolsonaro: el balotaje que define el futuro de Brasil y pone en juego su relación con Argentina",
+      "url": "https://www.forbesargentina.com/today/lula-vs-bolsonaro-balotaje-define-futuro-brasil-pone-juego-su-relacion-argentina-n101046",
+      "fecha_mostrada": "25 Octubre de 2026 07.00",
+      "fecha_iso": "2026-10-25",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Análisis con impacto local",
+      "observacion": "Abre una elección extranjera desde sus consecuencias para Argentina. Encadena propuestas fiscales, reacción del mercado, comercio y energía; transforma el escenario político en preguntas de negocio.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 53
+    },
+    {
+      "codigo": "N10",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Messi recibió un premio histórico en España y reveló la emotiva historia familiar que hay detrás del reconocimiento",
+      "url": "https://www.forbesargentina.com/today/messi-recibio-premio-historico-espana-revelo-emotiva-historia-familiar-hay-detras-reconocimiento-n100968",
+      "fecha_mostrada": "23 Octubre de 2026 14.41",
+      "fecha_iso": "2026-10-23",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Crónica humana",
+      "observacion": "Presenta la entrega de un premio con una temperatura emocional alta. Alterna datos del reconocimiento, escenas públicas y recuerdos familiares; los párrafos breves remarcan el significado personal.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 45
+    },
+    {
+      "codigo": "N11",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Alerta mundial por las fallas descubiertas con IA que amenazan a internet: millones de intentos de ataque y empresas que suspenden sus servicios",
+      "url": "https://www.forbesargentina.com/innovacion/alerta-mundial-fallas-descubiertas-ia-amenazan-internet-millones-intentos-ataque-empresas-suspenden-sus-servicios-n100886",
+      "fecha_mostrada": "22 Octubre de 2026 16.27",
+      "fecha_iso": "2026-10-22",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Explicación tecnológica",
+      "observacion": "Escala desde la alerta hasta sus efectos en organizaciones. Define la tecnología con acciones cotidianas, distingue exposición de daño comprobado y termina con medidas concretas para los afectados.",
+      "palabras_titulo": 23,
+      "palabras_bajada": 45
+    },
+    {
+      "codigo": "N12",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Milei en Neuquén: \"Vaca Muerta siempre estuvo ahí, lo que cambiaron fueron las reglas\"",
+      "url": "https://www.forbesargentina.com/money/milei-neuquen-vaca-muerta-siempre-estuvo-ahi-lo-cambiaron-fueron-reglas-n100656",
+      "fecha_mostrada": "19 Octubre de 2026 17.48",
+      "fecha_iso": "2026-10-19",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Cobertura de discurso",
+      "observacion": "Organiza una intervención extensa por ejes productivos y económicos. Alterna citas, cifras y traducciones de conceptos; identifica las estimaciones del orador y suma un apartado de frases destacadas.",
+      "palabras_titulo": 14,
+      "palabras_bajada": 36
+    },
+    {
+      "codigo": "N13",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Francia anuncia toques de queda tras la ola de disturbios: más de 2.500 detenidos y 3.000 comercios afectados",
+      "url": "https://www.forbesargentina.com/today/francia-anuncia-toques-queda-tras-ola-disturbios-mas-2500-detenidos-3000-comercios-afectados-n100623",
+      "fecha_mostrada": "19 Octubre de 2026 14.44",
+      "fecha_iso": "2026-10-19",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Actualidad estructurada",
+      "observacion": "Condensa medidas y daños en Topline y datos clave. Luego precisa alcance territorial, horarios y origen de las protestas: convierte una noticia amplia en información localizada y atribuida.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 0
+    },
+    {
+      "codigo": "N14",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Lo que dejó el debate entre Lula y Bolsonaro: acusaciones cruzadas, menciones a Milei y nuevas encuestas antes del balotaje",
+      "url": "https://www.forbesargentina.com/today/lo-dejo-debate-lula-bolsonaro-acusaciones-cruzadas-menciones-milei-nuevas-encuestas-antes-balotaje-n100628",
+      "fecha_mostrada": "19 Octubre de 2026 13.59",
+      "fecha_iso": "2026-10-19",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Cobertura explicativa",
+      "observacion": "Reconstruye un debate por conflictos y propuestas. Después introduce encuestas con metodología y límites temporales; el cierre desplaza la atención hacia la campaña y el escenario todavía abierto.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 31
+    },
+    {
+      "codigo": "N15",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La inflación mayorista se aceleró al 3,2% en septiembre: el petróleo y el gas impulsaron la suba",
+      "url": "https://www.forbesargentina.com/money/la-inflacion-mayorista-acelero-32-septiembre-petroleo-gas-impulsaron-suba-n100492",
+      "fecha_mostrada": "16 Octubre de 2026 17.30",
+      "fecha_iso": "2026-10-16",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Explicación de indicadores",
+      "observacion": "Presenta el dato general y desciende a sus componentes. Explica aportes en puntos porcentuales, compara otros índices y cierra con el significado de esos costos para la cadena productiva.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 43
+    },
+    {
+      "codigo": "N16",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Caputo consiguió otro mes de superávit fiscal y las cuentas públicas cerraron septiembre con casi $1 billón a favor",
+      "url": "https://www.forbesargentina.com/money/caputo-consiguio-otro-mes-superavit-fiscal-cuentas-publicas-cerraron-septiembre-casi-1-billon-favor-n100489",
+      "fecha_mostrada": "16 Octubre de 2026 17.15",
+      "fecha_iso": "2026-10-16",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Noticia fiscal",
+      "observacion": "Entrega el resultado y su comparación al comienzo. Separa saldo primario y financiero, agrega el efecto de la inflación y la base de comparación, y termina con el desglose del gasto.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 32
+    },
+    {
+      "codigo": "N17",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Milei en EE.UU.: por qué dijo que el riesgo país baja mientras el indicador alcanza los máximos del año",
+      "url": "https://www.forbesargentina.com/money/milei-eeuu-dijo-riesgo-pais-baja-mientras-indicador-alcanza-maximos-ano-n100370",
+      "fecha_mostrada": "15 Octubre de 2026 14.27",
+      "fecha_iso": "2026-10-15",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Contraste documentado",
+      "observacion": "Abre con la distancia entre una declaración y el mercado. Reconstruye la serie temporal, explica el indicador y vuelve sobre la diferencia entre una mejora de largo plazo y la tendencia reciente.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 56
+    },
+    {
+      "codigo": "N18",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Apple terminó con el misterio de \"Welcome Home\": los cuatro anuncios con los que busca conquistar el hogar inteligente",
+      "url": "https://www.forbesargentina.com/innovacion/apple-termino-misterio-welcome-home-cuatro-anuncios-busca-conquistar-hogar-inteligente-n100211",
+      "fecha_mostrada": "13 Octubre de 2026 18.30",
+      "fecha_iso": "2026-10-13",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Tecnología y servicio",
+      "observacion": "Ordena un lanzamiento por productos. En cada bloque combina función, uso, precio y limitaciones; después examina competencia e ingresos por servicios y termina con disponibilidad e idioma en Argentina.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 51
+    },
+    {
+      "codigo": "N19",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Caputo recibió el respaldo de Georgieva, pero hay US$ 869 millones en juego y un obstáculo por resolver",
+      "url": "https://www.forbesargentina.com/today/caputo-recibio-respaldo-georgieva-pero-hay-us-869-millones-juego-obstaculo-resolver-n100187",
+      "fecha_mostrada": "13 Octubre de 2026 13.56",
+      "fecha_iso": "2026-10-13",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Actualidad estructurada",
+      "observacion": "Presenta una reunión favorable junto con el desembolso pendiente. Los datos clave anticipan cifras y obstáculos; el desarrollo explica la dispensa y los pasos institucionales necesarios.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 0
+    },
+    {
+      "codigo": "N20",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Subastan 40.000 botellas de vino de la cava secreta de Stalin",
+      "url": "https://www.forbesargentina.com/lifestyle/subastan-40000-botellas-vino-cava-secreta-stalin-n92711",
+      "fecha_mostrada": "19 Junio de 2026 19.55",
+      "fecha_iso": "2026-06-19",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Historia y negocio",
+      "observacion": "Abre una colección histórica desde su posible subasta. Integra procedencia, patrimonio y testimonio; luego explica por qué ese origen genera valor comercial y conecta la pieza con el vino georgiano.",
+      "palabras_titulo": 11,
+      "palabras_bajada": 29
+    },
+    {
+      "codigo": "N21",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Tiny houses para chicos: la tendencia de lujo que empezó en Europa y EE.UU. y crece en Argentina",
+      "url": "https://www.forbesargentina.com/lifestyle/tiny-houses-chicos-tendencia-lujo-empezo-europa-eeuu-crece-argentina-n92704",
+      "fecha_mostrada": "19 Junio de 2026 18.45",
+      "fecha_iso": "2026-06-19",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Tendencia y servicio",
+      "observacion": "Presenta la tendencia con precio y casos reconocibles. Baja a materiales, equipamiento y personalización; el cierre vuelve al costo y lo compara con una categoría cercana.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 35
+    },
+    {
+      "codigo": "N22",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Elon Musk ya tiene country manager para Tesla en Argentina y Uruguay: quién es y los planes de la empresa",
+      "url": "https://www.forbesargentina.com/negocios/elon-musk-ya-tiene-country-manager-tesla-argentina-uruguay-quien-planes-empresa-n92645",
+      "fecha_mostrada": "19 Junio de 2026 07.33",
+      "fecha_iso": "2026-06-19",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Perfil de negocios",
+      "observacion": "Parte de un nombramiento y vincula cada etapa profesional con el desafío actual de la empresa. Usa giros argentinos y frases breves para traducir la estrategia a operaciones concretas.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 39
+    },
+    {
+      "codigo": "N23",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Mundial 2026: los récords históricos que Messi, Cristiano Ronaldo y Mbappé podrían romper",
+      "url": "https://www.forbesargentina.com/lifestyle/mundial-2026-records-historicos-messi-cristiano-ronaldo-mbappe-podrian-romper-n92548",
+      "fecha_mostrada": "17 Junio de 2026 17.35",
+      "fecha_iso": "2026-06-17",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Previa narrativa",
+      "observacion": "Abre con legado y expectativa, luego ordena los récords por figuras y selecciones. La estadística sostiene una narración más enfática que termina proyectando el significado histórico del torneo.",
+      "palabras_titulo": 13,
+      "palabras_bajada": 20
+    },
+    {
+      "codigo": "N24",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "¿Cuánto cobran las máximas figuras del Mundial por un posteo en Instagram?",
+      "url": "https://www.forbesargentina.com/lifestyle/cuanto-cobran-maximas-figuras-mundial-posteo-instagram-n92510",
+      "fecha_mostrada": "16 Junio de 2026 20.20",
+      "fecha_iso": "2026-06-16",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Ranking explicado",
+      "observacion": "Responde la pregunta con las figuras de mayor valor y luego desarrolla rankings. Añade comparaciones de escala y reserva el cierre para explicar la metodología y el carácter estimado de las cifras.",
+      "palabras_titulo": 12,
+      "palabras_bajada": 35
+    },
+    {
+      "codigo": "N25",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La confianza empresaria se enfría: ventas, empleo y rentabilidad bajo la lupa",
+      "url": "https://www.forbesargentina.com/liderazgo/la-confianza-empresaria-enfria-ventas-empleo-rentabilidad-lupa-n92331",
+      "fecha_mostrada": "12 Junio de 2026 15.48",
+      "fecha_iso": "2026-06-12",
+      "firma_verificada": true,
+      "seccion": "Liderazgo",
+      "genero_observado": "Informe empresarial",
+      "observacion": "Empieza por la caída del índice y el tamaño de la muestra. Desagrega ventas, rentabilidad, inversión, empleo y precios; intercala una voz institucional y cierra con expectativas macroeconómicas.",
+      "palabras_titulo": 12,
+      "palabras_bajada": 36
+    },
+    {
+      "codigo": "N26",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Las acciones argentinas se dispararon hasta 14% en Wall Street tras la mejora del rating soberano",
+      "url": "https://www.forbesargentina.com/money/las-acciones-argentinas-dispararon-14-wall-street-tras-mejora-rating-soberano-n92289",
+      "fecha_mostrada": "11 Junio de 2026 15.58",
+      "fecha_iso": "2026-06-11",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Noticia de mercados",
+      "observacion": "Abre con los movimientos de activos y la decisión que los desencadena. Precisa horarios, explica la lectura de los inversores y termina con los riesgos que condicionan la continuidad de la mejora.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 25
+    },
+    {
+      "codigo": "N27",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Moody's subió la nota de crédito de la Ciudad tras la emisión del bono por US$500 millones",
+      "url": "https://www.forbesargentina.com/money/moodys-subio-nota-credito-ciudad-tras-emision-bono-us500-millones-n92208",
+      "fecha_mostrada": "10 Junio de 2026 14.55",
+      "fecha_iso": "2026-06-10",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Explicación financiera",
+      "observacion": "Presenta el cambio de calificación y lo conecta con una emisión de deuda. Traduce la nota local, desarrolla los fundamentos fiscales y conserva el riesgo cambiario dentro de una lectura favorable.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 31
+    },
+    {
+      "codigo": "N28",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Cohetes, realidad virtual y neurorehabilitación: los proyectos del ITBA que anticipan las industrias del futuro",
+      "url": "https://www.forbesargentina.com/liderazgo/cohetes-realidad-virtual-neurorehabilitacion-proyectos-itba-anticipan-industrias-futuro-n92209",
+      "fecha_mostrada": "10 Junio de 2026 13.02",
+      "fecha_iso": "2026-06-10",
+      "firma_verificada": true,
+      "seccion": "Liderazgo",
+      "genero_observado": "Cobertura institucional",
+      "observacion": "Introduce un evento desde su relación con sectores productivos. Recorre proyectos concretos, los agrupa por aplicación y suma voces responsables; el cierre conecta formación, tecnología y demanda profesional.",
+      "palabras_titulo": 15,
+      "palabras_bajada": 28
+    },
+    {
+      "codigo": "N29",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Libre radicación de cuentas bancarias: las provincias que más impuestos cobran a los bancos y el costo para el crédito",
+      "url": "https://www.forbesargentina.com/money/libre-radicacion-cuentas-bancarias-provincias-mas-impuestos-cobran-bancos-costo-credito-n92181",
+      "fecha_mostrada": "10 Junio de 2026 09.39",
+      "fecha_iso": "2026-06-10",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Regulación explicada",
+      "observacion": "Abre una norma como movimiento dentro de una disputa de intereses. Traduce su efecto operativo y ordena las diferencias provinciales para explicar su posible incidencia en el costo del crédito.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 51
+    },
+    {
+      "codigo": "N30",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "A 48 horas del Mundial, Atlético rechazó US$ 150 millones del Real Madrid por Julián Álvarez",
+      "url": "https://www.forbesargentina.com/negocios/a-48-horas-mundial-atletico-rechazo-us-150-millones-real-madrid-julian-alvarez-n92151",
+      "fecha_mostrada": "9 Junio de 2026 16.53",
+      "fecha_iso": "2026-06-09",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Deporte como negocio",
+      "observacion": "Presenta una oferta y un rechazo como conflicto central. Usa antecedentes y reacciones para elevar la tensión; el ranking final dimensiona la operación dentro de la historia de transferencias argentinas.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 35
+    },
+    {
+      "codigo": "N31",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Siri AI: la respuesta de Apple a ChatGPT, Claude y Gemini",
+      "url": "https://www.forbesargentina.com/innovacion/siri-ai-respuesta-apple-chatgpt-claude-gemini-n92115",
+      "fecha_mostrada": "9 Junio de 2026 08.06",
+      "fecha_iso": "2026-06-09",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Tecnología y estrategia",
+      "observacion": "Ancla una novedad de producto en competencia y recambio de liderazgo. Alterna capacidades, ejemplos de uso, privacidad y límites geográficos; el cierre enlaza la tecnología con la transición empresarial.",
+      "palabras_titulo": 11,
+      "palabras_bajada": 22
+    },
+    {
+      "codigo": "N32",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "El oro y la plata tocan sus precios más bajos en meses con un impacto negativo para las reservas argentinas",
+      "url": "https://www.forbesargentina.com/money/el-oro-plata-tocan-sus-precios-mas-bajos-meses-impacto-negativo-reservas-argentinas-n92024",
+      "fecha_mostrada": "6 Junio de 2026 15.30",
+      "fecha_iso": "2026-06-06",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Explicación con impacto local",
+      "observacion": "Parte de un movimiento internacional, explica su mecanismo financiero y calcula una consecuencia argentina. Expone supuestos y separa un cambio de valuación de una salida efectiva de divisas.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 42
+    },
+    {
+      "codigo": "N33",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "FIFA rompe con EA Sports y apuesta por Netflix para su videojuego del Mundial: cuándo llega y cómo jugarlo",
+      "url": "https://www.forbesargentina.com/innovacion/fifa-rompe-ea-sports-apuesta-netflix-su-videojuego-mundial-cuando-llega-como-jugarlo-n91969",
+      "fecha_mostrada": "5 Junio de 2026 15.12",
+      "fecha_iso": "2026-06-05",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Servicio y modelo de negocio",
+      "observacion": "Presenta un lanzamiento desde la ruptura de una alianza. Explica cómo acceder y jugar, qué incluye y dónde estará disponible; después relaciona el producto con la estrategia de distribución.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 31
+    },
+    {
+      "codigo": "N34",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Quiénes son los socios suizos de José Luis Manzano que se quedaron con Shell en la Argentina",
+      "url": "https://www.forbesargentina.com/money/quienes-son-socios-suizos-jose-luis-manzano-quedaron-shell-argentina-n91937",
+      "fecha_mostrada": "5 Junio de 2026 07.17",
+      "fecha_iso": "2026-06-05",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Perfil y cadena de valor",
+      "observacion": "Usa una compra como puerta de entrada a dos empresarios. Explica el trading con situaciones concretas, reconstruye la alianza local y conecta producción, refinación y venta al consumidor.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 34
+    },
+    {
+      "codigo": "N35",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Messi agranda su leyenda: la frase que emocionó a todos tras recibir el trofeo Princesa de Asturias",
+      "url": "https://www.forbesargentina.com/lifestyle/messi-agranda-su-leyenda-frase-emociono-todos-tras-recibir-trofeo-princesa-asturias-n91878",
+      "fecha_mostrada": "4 Junio de 2026 07.43",
+      "fecha_iso": "2026-06-04",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Noticia con dimensión humana",
+      "observacion": "Entrega primero el reconocimiento y sus datos básicos. Integra la reacción personal, los argumentos del jurado y una biografía breve; el componente emotivo se apoya especialmente en las declaraciones.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 21
+    },
+    {
+      "codigo": "N36",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La historia detrás de Aleph: el unicornio argentino que conquistó 130 países explicado en una docuserie",
+      "url": "https://www.forbesargentina.com/lifestyle/la-historia-detras-aleph-unicornio-argentino-conquisto-130-paises-explicado-una-docuserie-n91875",
+      "fecha_mostrada": "3 Junio de 2026 20.00",
+      "fecha_iso": "2026-06-03",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Historia emprendedora",
+      "observacion": "Abre con un origen pequeño y un resultado de gran escala. Combina recorrido humano, análisis del relato audiovisual y explicación del modelo comercial; el cierre vuelve al contraste entre origen y expansión.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 23
+    },
+    {
+      "codigo": "N37",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "IA auditable: el nuevo estándar que exigen las industrias reguladas para dar el salto digital",
+      "url": "https://www.forbesargentina.com/innovacion/ia-auditable-nuevo-estandar-exigen-industrias-reguladas-dar-salto-digital-n91850",
+      "fecha_mostrada": "3 Junio de 2026 15.28",
+      "fecha_iso": "2026-06-03",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Negocio tecnológico",
+      "observacion": "Traduce una categoría de alianza corporativa a capacidades operativas. Explica herramientas mediante sus usos y desarrolla barreras de adopción; termina con el desafío de demostrar impacto en el negocio.",
+      "palabras_titulo": 15,
+      "palabras_bajada": 37
+    },
+    {
+      "codigo": "N38",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Abelardo de la Espriella: ¿quién es el Milei colombiano que disputará la presidencia en el balotaje?",
+      "url": "https://www.forbesargentina.com/today/abelardo-espriella-quien-milei-colombiano-disputara-presidencia-balotaje-n91736",
+      "fecha_mostrada": "1 Junio de 2026 20.30",
+      "fecha_iso": "2026-06-01",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Perfil político explicativo",
+      "observacion": "Parte de una irrupción electoral y examina una comparación reconocible para Argentina. Suma trayectoria, propuestas, financiamiento y un analista; el final devuelve la definición al resultado del balotaje.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 28
+    },
+    {
+      "codigo": "N39",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La carrera del billón de dólares: Anthropic acelera su IPO y desafía el dominio de OpenAI",
+      "url": "https://www.forbesargentina.com/innovacion/la-carrera-billon-dolares-anthropic-acelera-su-ipo-desafia-dominio-openai-n91718",
+      "fecha_mostrada": "1 Junio de 2026 16.25",
+      "fecha_iso": "2026-06-01",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Competencia empresarial",
+      "observacion": "Abre con una ventaja de calendario entre rivales y explica su valor financiero. Amplía el conflicto al capital disponible; termina con frases breves que condensan posiciones y dejan una pregunta de valuación.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 31
+    },
+    {
+      "codigo": "N40",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Cuánto cuesta acompañar a la Selección Argentina durante todo el Mundial 2026",
+      "url": "https://www.forbesargentina.com/lifestyle/cuanto-cuesta-acompanar-seleccion-argentina-durante-todo-mundial-2026-n91534",
+      "fecha_mostrada": "28 Mayo de 2026 17.08",
+      "fecha_iso": "2026-05-28",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Servicio con desarrollo numérico",
+      "observacion": "Presenta el viaje desde un presupuesto llamativo. Desglosa rubros e itinerario, compara escalas y detalla fuentes y supuestos; combina cercanía futbolera con una explicación larga de costos.",
+      "palabras_titulo": 12,
+      "palabras_bajada": 31
+    },
+    {
+      "codigo": "N41",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Ferrari desafía a Porsche y Lamborghini con un eléctrico de lujo que cuesta US$ 640.000",
+      "url": "https://www.forbesargentina.com/innovacion/ferrari-desafia-porsche-lamborghini-electrico-lujo-cuesta-us-640000-n91402",
+      "fecha_mostrada": "26 Mayo de 2026 16.30",
+      "fecha_iso": "2026-05-26",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Producto y posicionamiento",
+      "observacion": "Presenta precio y contraste competitivo. Convierte especificaciones en usos, sensaciones y público objetivo; cierra situando el producto en un mercado relevante para su posicionamiento.",
+      "palabras_titulo": 15,
+      "palabras_bajada": 31
+    },
+    {
+      "codigo": "N42",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La actividad económica creció 5,5% en marzo y marcó su mayor suba desde junio de 2025, según el INDEC",
+      "url": "https://www.forbesargentina.com/money/la-actividad-economica-crecio-55-marzo-marco-su-mayor-suba-junio-2025-indec-n91204",
+      "fecha_mostrada": "21 Mayo de 2026 18.11",
+      "fecha_iso": "2026-05-21",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Indicador y lectura económica",
+      "observacion": "Entrega variación, comparación y sectores que explican el resultado. Integra voces oficiales y económicas; el cierre interpreta qué respaldo ofrece el dato a una narrativa de recuperación.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 28
+    },
+    {
+      "codigo": "N43",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "\"Soy amenazantemente feliz\": la nueva vida de Antonio Banderas como empresario teatral",
+      "url": "https://www.forbesargentina.com/lifestyle/soy-amenazantemente-feliz-nueva-vida-antonio-banderas-como-empresario-teatral-n91083",
+      "fecha_mostrada": "19 Mayo de 2026 18.10",
+      "fecha_iso": "2026-05-19",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Perfil desde una desmentida",
+      "observacion": "Toma una controversia como acceso al modelo de una empresa cultural. Reconstruye financiamiento, decisiones y trayectoria; el tono se vuelve más conversado y el comunicado queda identificado como voz del protagonista.",
+      "palabras_titulo": 12,
+      "palabras_bajada": 38
+    },
+    {
+      "codigo": "N44",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Tropfen colocó una ON para financiar su expansión industrial y fortalecer su competitividad en el agro",
+      "url": "https://www.forbesargentina.com/money/tropfen-coloco-una-on-financiar-su-expansion-industrial-fortalecer-su-competitividad-agro-n91035",
+      "fecha_mostrada": "18 Mayo de 2026 16.50",
+      "fecha_iso": "2026-05-18",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Financiamiento y operación",
+      "observacion": "Presenta una colocación por su utilidad industrial. Conecta condiciones financieras, obra y procesos; las citas añaden motivaciones y obligaciones, y el cierre incorpora proveedores y empleo local.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 16
+    },
+    {
+      "codigo": "N45",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La bolsa más poderosa del mundo cumple 234 años: su origen, sus secretos y el club VIP que prepara en Wall Street",
+      "url": "https://www.forbesargentina.com/money/la-bolsa-mas-poderosa-mundo-cumple-234-anos-su-origen-sus-secretos-club-vip-prepara-wall-street-n90962",
+      "fecha_mostrada": "17 Mayo de 2026 08.30",
+      "fecha_iso": "2026-05-17",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Relato histórico interpretativo",
+      "observacion": "Abre con una escena fundacional y la conecta con un proyecto actual. Alterna cronología, mecanismos financieros e imágenes; el acceso y la pertenencia funcionan como motivos que regresan en el cierre.",
+      "palabras_titulo": 22,
+      "palabras_bajada": 28
+    },
+    {
+      "codigo": "N46",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Zuckerberg, Pichai y los CEOs de TikTok y Snap vuelven al Congreso de EE.UU. por la seguridad de niños y adolescentes en Internet",
+      "url": "https://www.forbesargentina.com/innovacion/zuckerberg-pichai-ceos-tiktok-snap-vuelven-congreso-eeuu-seguridad-ninos-adolescentes-internet-n90892",
+      "fecha_mostrada": "15 Mayo de 2026 16.51",
+      "fecha_iso": "2026-05-15",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Actualidad tecnológica",
+      "observacion": "Presenta una convocatoria política y abre tres frentes: legislación, tribunales y estructura de una plataforma. Explica instituciones y antecedentes; registra también la falta de respuestas de las compañías.",
+      "palabras_titulo": 23,
+      "palabras_bajada": 19
+    },
+    {
+      "codigo": "N47",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "La guerra entre EE.UU y China por los chips de IA pone en riesgos a gigantes del sector",
+      "url": "https://www.forbesargentina.com/innovacion/la-guerra-eeuu-china-chips-ia-pone-riesgos-gigantes-sector-n90863",
+      "fecha_mostrada": "15 Mayo de 2026 09.33",
+      "fecha_iso": "2026-05-15",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Geopolítica de negocios",
+      "observacion": "Abre con una autorización que todavía no produce ventas. Cada bloque incorpora una traba, un interés o una condición; el cierre resume las decisiones incompatibles que mantienen la operación detenida.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 21
+    },
+    {
+      "codigo": "N48",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Avanza la privatización de AYSA: mañana se pubicarán los pliegos para vender 90% de la empresa",
+      "url": "https://www.forbesargentina.com/money/avanza-privatizacion-aysa-manana-pubicaran-pliegos-vender-90-empresa-n90823",
+      "fecha_mostrada": "14 Mayo de 2026 15.24",
+      "fecha_iso": "2026-05-14",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Regulación e infraestructura",
+      "observacion": "Presenta el avance formal y explica participación accionaria, concesión e inversión. Traduce reglas contractuales a efectos operativos y vuelve al paso administrativo que activa el proceso.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 26
+    },
+    {
+      "codigo": "N49",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "Los negocios que se disputan Trump y Xi Jinping en China: la tregua de US$ 30.000 millones que define el futuro de Elon Musk y Nvidia",
+      "url": "https://www.forbesargentina.com/money/los-negocios-disputan-trump-xi-jinping-china-tregua-us-30000-millones-define-futuro-elon-musk-nvidia-n90785",
+      "fecha_mostrada": "14 Mayo de 2026 07.39",
+      "fecha_iso": "2026-05-14",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Análisis de intereses",
+      "observacion": "Ordena una cumbre mediante negocios y actores concretos. Alterna comercio, tecnología, energía y restricciones políticas; conecta los incentivos de gobiernos y empresas y cierra con el margen de incertidumbre.",
+      "palabras_titulo": 26,
+      "palabras_bajada": 30
+    },
+    {
+      "codigo": "N50",
+      "autor": "Nicolás Della Vecchia",
+      "titulo": "El primer FIFA ingresó al Salón de la Fama de los Videojuegos: nacimiento, datos y curiosidades de una franquicia histórica",
+      "url": "https://www.forbesargentina.com/lifestyle/el-primer-fifa-ingreso-salon-fama-videojuegos-nacimiento-datos-curiosidades-una-franquicia-historica-n90645",
+      "fecha_mostrada": "11 Mayo de 2026 17.31",
+      "fecha_iso": "2026-05-11",
+      "firma_verificada": true,
+      "seccion": "Lifestyle",
+      "genero_observado": "Historia cultural y comercial",
+      "observacion": "Parte de un reconocimiento actual y viaja al origen de un producto. Alterna negocio, diseño y memoria de uso; vuelve al presente con una imagen que enlaza la franquicia con el torneo.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 33
+    },
+    {
+      "codigo": "J01",
+      "autor": "Agustín Jamele",
+      "titulo": "Anthropic avanza en su salida a Bolsa: el negocio multimillonario y la estructura para que Amodei conserve el poder",
+      "url": "https://www.forbesargentina.com/negocios/anthropic-avanza-su-salida-bolsa-negocio-multimillonario-estructura-amodei-conserve-poder-n101110",
+      "fecha_mostrada": "26 Octubre de 2026 11.50",
+      "fecha_iso": "2026-10-26",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Balance y gobierno corporativo",
+      "observacion": "Ordena el prospecto por ingresos, modelo comercial, infraestructura, caja y control. La explicación financiera acompaña cada cifra y lleva al lector hasta los derechos del futuro accionista.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 39
+    },
+    {
+      "codigo": "J02",
+      "autor": "Agustín Jamele",
+      "titulo": "La conquista del living: YouTube hace temblar a Netflix y Hollywood",
+      "url": "https://www.forbesargentina.com/negocios/youtube-netflix-audiencia-modelo-negocio-n101011",
+      "fecha_mostrada": "24 Octubre de 2026 06.00",
+      "fecha_iso": "2026-10-24",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Comparación de negocios",
+      "observacion": "Parte de una diferencia de audiencia y formula una pregunta económica. Compara quién financia los contenidos y cómo se reparte el riesgo, antes de volver a la disputa por el televisor.",
+      "palabras_titulo": 11,
+      "palabras_bajada": 49
+    },
+    {
+      "codigo": "J03",
+      "autor": "Agustín Jamele",
+      "titulo": "Las fintech destinarán US$ 2.200 millones para crecer en 2027: dónde invertirán",
+      "url": "https://www.forbesargentina.com/negocios/las-fintech-destinaran-us-2200-millones-crecer-2027-donde-invertiran-n100926",
+      "fecha_mostrada": "23 Octubre de 2026 07.07",
+      "fecha_iso": "2026-10-23",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Informe sectorial",
+      "observacion": "Presenta la inversión proyectada y desagrega madurez, escala, empleo y regulación. Cada bloque precisa qué mide el dato; la conclusión conecta crecimiento con viabilidad económica.",
+      "palabras_titulo": 12,
+      "palabras_bajada": 53
+    },
+    {
+      "codigo": "J04",
+      "autor": "Agustín Jamele",
+      "titulo": "Balance de Tesla: gana 43% menos y acelera su apuesta por robotaxis y robots",
+      "url": "https://www.forbesargentina.com/negocios/balance-tesla-gana-43-menos-acelera-su-apuesta-robotaxis-robots-n100811",
+      "fecha_mostrada": "21 Octubre de 2026 17.33",
+      "fecha_iso": "2026-10-21",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Lectura de balance",
+      "observacion": "Abre con ganancias e inversión en sentidos opuestos. Avanza por segmentos y distingue resultados comerciales, desarrollo industrial y promesas, hasta plantear la prueba pendiente de monetización.",
+      "palabras_titulo": 14,
+      "palabras_bajada": 46
+    },
+    {
+      "codigo": "J05",
+      "autor": "Agustín Jamele",
+      "titulo": "Llegar a fin de mes sin dejar de pagar: el uso de tarjetas, recortes y otros ingresos para lograrlo",
+      "url": "https://www.forbesargentina.com/today/llegar-fin-mes-dejar-pagar-uso-tarjetas-recortes-otros-ingresos-lograrlo-n100802",
+      "fecha_mostrada": "21 Octubre de 2026 16.50",
+      "fecha_iso": "2026-10-21",
+      "firma_verificada": true,
+      "seccion": "Today",
+      "genero_observado": "Problema cotidiano y encuesta",
+      "observacion": "Ancla el relevamiento en prácticas reconocibles del presupuesto familiar. Define los grupos y las bases de respuesta, y convierte porcentajes en decisiones financieras cotidianas.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 46
+    },
+    {
+      "codigo": "J06",
+      "autor": "Agustín Jamele",
+      "titulo": "Otro banco argentino mejora su calificación crediticia",
+      "url": "https://www.forbesargentina.com/negocios/otro-banco-argentino-mejora-su-calificacion-crediticia-n100637",
+      "fecha_mostrada": "19 Octubre de 2026 15.59",
+      "fecha_iso": "2026-10-19",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Noticia financiera breve",
+      "observacion": "Presenta una calificación y luego compara tres casos. Explica los fundamentos particulares de cada decisión y reserva el cierre para delimitar la escala nacional de las notas.",
+      "palabras_titulo": 7,
+      "palabras_bajada": 37
+    },
+    {
+      "codigo": "J07",
+      "autor": "Agustín Jamele",
+      "titulo": "La chocolatería premium que nació en pandemia llega a Buenos Aires con una inversión de US$ 300.000",
+      "url": "https://www.forbesargentina.com/negocios/la-chocolateria-premium-nacio-pandemia-llega-buenos-aires-una-inversion-us-300000-n100588",
+      "fecha_mostrada": "19 Octubre de 2026 07.05",
+      "fecha_iso": "2026-10-19",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Perfil desde un objeto",
+      "observacion": "Abre con una pieza de chocolate que anticipa el producto y la trayectoria del fundador. Intercala escenas, decisiones de costos y citas; el cierre convierte una apertura comercial en prueba de expansión.",
+      "palabras_titulo": 17,
+      "palabras_bajada": 42
+    },
+    {
+      "codigo": "J08",
+      "autor": "Agustín Jamele",
+      "titulo": "Un documental reabre el caso Theranos: la promesa de US$ 9.000 millones que terminó en fraude y sacudió a Silicon Valley",
+      "url": "https://www.forbesargentina.com/innovacion/un-documental-reabre-caso-theranos-promesa-us-9000-millones-termino-fraude-sacudio-silicon-valley-n100561",
+      "fecha_mostrada": "18 Octubre de 2026 06.50",
+      "fecha_iso": "2026-10-18",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Reconstrucción histórica",
+      "observacion": "Une una fecha periodística con un estreno y organiza el caso por promesa, alertas y condena. La historia empresarial enmarca el documental y vuelve sobre la distancia entre credibilidad y evidencia.",
+      "palabras_titulo": 21,
+      "palabras_bajada": 55
+    },
+    {
+      "codigo": "J09",
+      "autor": "Agustín Jamele",
+      "titulo": "La familia detrás del Wagyu argentino redobla su apuesta por el negocio de \"la carne más codiciada del mundo\"",
+      "url": "https://www.forbesargentina.com/negocios/la-familia-detras-wagyu-argentino-redobla-su-apuesta-negocio-la-carne-mas-codiciada-mundo-n100556",
+      "fecha_mostrada": "18 Octubre de 2026 06.30",
+      "fecha_iso": "2026-10-18",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Negocio agropecuario",
+      "observacion": "Presenta el remate como respuesta a una demanda. Las voces de los productores explican canales y genética; la narración incorpora costos, tiempos y la incertidumbre del resultado comercial.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 41
+    },
+    {
+      "codigo": "J10",
+      "autor": "Agustín Jamele",
+      "titulo": "Las pymes miran al exterior: nuevas herramientas para pagar a proveedores globales",
+      "url": "https://www.forbesargentina.com/negocios/las-pymes-miran-exterior-nuevas-herramientas-pagar-proveedores-globales-n100385",
+      "fecha_mostrada": "15 Octubre de 2026 18.08",
+      "fecha_iso": "2026-10-15",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Necesidad operativa",
+      "observacion": "Abre con las tareas de una pyme antes de nombrar el producto. Recorre el circuito de pago, costos y requisitos; conecta el servicio visible con la distribución mediante otras plataformas.",
+      "palabras_titulo": 12,
+      "palabras_bajada": 40
+    },
+    {
+      "codigo": "J11",
+      "autor": "Agustín Jamele",
+      "titulo": "Telecom aceptó la oferta de US$ 450 millones de Metrotel, que pasa a ser el tercer gigante de la telefonía argentina",
+      "url": "https://www.forbesargentina.com/negocios/telecom-acepto-oferta-us-450-millones-metrotel-pasa-ser-tercer-gigante-telefonia-argentina-n100268",
+      "fecha_mostrada": "14 Octubre de 2026 11.52",
+      "fecha_iso": "2026-10-14",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Operación y ejecución",
+      "observacion": "Presenta una oferta y descompone su precio, activos y contratos asociados. Después reconstruye la condición regulatoria y termina con el trabajo necesario para convertir escala en competencia.",
+      "palabras_titulo": 21,
+      "palabras_bajada": 36
+    },
+    {
+      "codigo": "J12",
+      "autor": "Agustín Jamele",
+      "titulo": "La fintech que controla las cuentas de Mercado Libre y Nubank apuesta a la IA para detectar el dinero que no llega",
+      "url": "https://www.forbesargentina.com/negocios/la-fintech-controla-cuentas-mercado-libre-nubank-apuesta-ia-detectar-dinero-llega-n100245",
+      "fecha_mostrada": "14 Octubre de 2026 08.08",
+      "fecha_iso": "2026-10-14",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Escena funcional",
+      "observacion": "Una venta aparentemente terminada abre la pregunta sobre el dinero recibido. La escena permite explicar conciliación, producto y tecnología; las citas acompañan el proceso y el cierre retoma el control de los pagos.",
+      "palabras_titulo": 22,
+      "palabras_bajada": 41
+    },
+    {
+      "codigo": "J13",
+      "autor": "Agustín Jamele",
+      "titulo": "Milei apuesta por los data centers: los esfuerzos del Gobierno para cautivar a inversores del sector",
+      "url": "https://www.forbesargentina.com/negocios/milei-apuesta-data-centers-esfuerzos-gobierno-cautivar-inversores-sector-n100009",
+      "fecha_mostrada": "12 Octubre de 2026 06.00",
+      "fecha_iso": "2026-10-12",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Análisis de condiciones",
+      "observacion": "Reúne gestiones, incentivos, oferta energética y voces del sector. Distingue anuncios, contratos y obras; el cierre propone resultados observables para evaluar la oportunidad.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 42
+    },
+    {
+      "codigo": "J14",
+      "autor": "Agustín Jamele",
+      "titulo": "Cómo una CEO enfrentó un ciberataque de US$ 388 millones: las decisiones detrás de una crisis que preocupa a las empresas",
+      "url": "https://www.forbesargentina.com/innovacion/como-una-ceo-enfrento-ciberataque-us-388-millones-decisiones-detras-una-crisis-preocupa-empresas-n99929",
+      "fecha_mostrada": "10 Octubre de 2026 06.00",
+      "fecha_iso": "2026-10-10",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Entrevista reconstruida",
+      "observacion": "Abre con un dilema de gestión y ordena la crisis por decisiones. Entre citas incorpora cronología, datos y preguntas pendientes; la lectura del periodista conserva autonomía frente al relato empresarial.",
+      "palabras_titulo": 21,
+      "palabras_bajada": 38
+    },
+    {
+      "codigo": "J15",
+      "autor": "Agustín Jamele",
+      "titulo": "Disney amplía su estrategia de negocios en Argentina: cuáles son los nuevos beneficios para usuarios",
+      "url": "https://www.forbesargentina.com/negocios/disney-amplia-su-estrategia-negocios-argentina-cuales-son-nuevos-beneficios-usuarios-n99871",
+      "fecha_mostrada": "9 Octubre de 2026 13.49",
+      "fecha_iso": "2026-10-09",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Usuario y estrategia",
+      "observacion": "Entrega beneficios concretos y luego explica su función dentro del ecosistema. Alterna condiciones de uso, entrevista y análisis comercial; señala las métricas todavía ausentes.",
+      "palabras_titulo": 15,
+      "palabras_bajada": 54
+    },
+    {
+      "codigo": "J16",
+      "autor": "Agustín Jamele",
+      "titulo": "Filiberti y Román a un paso de quedarse con AySA: quiénes son y los números de la empresa",
+      "url": "https://www.forbesargentina.com/negocios/filiberti-roman-paso-quedarse-aysa-quienes-son-numeros-empresa-n99759",
+      "fecha_mostrada": "8 Octubre de 2026 12.16",
+      "fecha_iso": "2026-10-08",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Perfil y lectura contable",
+      "observacion": "Combina empresarios, oferta y obligaciones futuras. La revisión del balance identifica qué explica la ganancia y diferencia compra de acciones, infraestructura, caja y compromisos de inversión.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 50
+    },
+    {
+      "codigo": "J17",
+      "autor": "Agustín Jamele",
+      "titulo": "Dólares y cripto: el BCRA descartó avances este año y anticipó más controles para las fintech",
+      "url": "https://www.forbesargentina.com/negocios/dolares-cripto-bcra-descarto-avances-ano-anticipo-mas-controles-fintech-n99679",
+      "fecha_mostrada": "7 Octubre de 2026 16.09",
+      "fecha_iso": "2026-10-07",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Declaración y voces propias",
+      "observacion": "Abre con una frase de cierre que concentra la noticia. Añade respuestas de distintos actores y luego reconstruye la agenda regulatoria, separando posiciones y normas nuevas.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 46
+    },
+    {
+      "codigo": "J18",
+      "autor": "Agustín Jamele",
+      "titulo": "El imperio de los Ellison: el plan de negocios detrás del gigante que reúne a Harry Potter, HBO y CNN y sacude Hollywood",
+      "url": "https://www.forbesargentina.com/negocios/el-imperio-ellison-plan-negocios-detras-gigante-reune-harry-potter-hbo-cnn-sacude-hollywood-n99624",
+      "fecha_mostrada": "7 Octubre de 2026 07.08",
+      "fecha_iso": "2026-10-07",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Integración empresarial",
+      "observacion": "Usa franquicias conocidas como entrada a un negocio complejo. Desarrolla ventanas de ingresos, plataformas, ahorros, financiamiento y control; la conclusión desplaza el foco de tamaño a ejecución.",
+      "palabras_titulo": 23,
+      "palabras_bajada": 53
+    },
+    {
+      "codigo": "J19",
+      "autor": "Agustín Jamele",
+      "titulo": "El efecto SpaceX: cómo una sola acción revitalizó la competencia entre las fintech argentinas",
+      "url": "https://www.forbesargentina.com/innovacion/el-efecto-spacex-como-una-sola-accion-revitalizo-competencia-fintech-argentinas-n92532",
+      "fecha_mostrada": "17 Junio de 2026 13.32",
+      "fecha_iso": "2026-06-17",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Tendencia por varios casos",
+      "observacion": "Conecta un lanzamiento global con datos de plataformas locales. Organiza la evidencia por empresas y luego interpreta el cambio en adquisición, actividad y comportamiento de usuarios.",
+      "palabras_titulo": 14,
+      "palabras_bajada": 53
+    },
+    {
+      "codigo": "J20",
+      "autor": "Agustín Jamele",
+      "titulo": "Solazzi, de Mastercard: ”La industria de pagos se sofisticó: hay que buscar el conocimiento de distintos jugadores y trabar alianzas\"",
+      "url": "https://www.forbesargentina.com/negocios/solazzi-mastercard-la-industria-pagos-sofistico-hay-buscar-conocimiento-distintos-jugadores-trabar-alianzas-n94833",
+      "fecha_mostrada": "5 Agosto de 2026 07.23",
+      "fecha_iso": "2026-08-05",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista breve",
+      "observacion": "Pregunta por competencia, experiencia internacional y datos. El recorrido mueve la conversación de una idea general a diferencias entre mercados; la cercanía procede de preguntas directas.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 36
+    },
+    {
+      "codigo": "J21",
+      "autor": "Agustín Jamele",
+      "titulo": "SpaceX crece 92% y Starlink ya genera ganancias, pero el gasto récord en IA golpea a la acción",
+      "url": "https://www.forbesargentina.com/innovacion/spacex-crece-92-starlink-ya-genera-ganancias-pero-gasto-record-ia-golpea-accion-n94811",
+      "fecha_mostrada": "4 Agosto de 2026 18.21",
+      "fecha_iso": "2026-08-04",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Balance por segmentos",
+      "observacion": "Contrapone crecimiento y gasto con un eje financiero claro. Identifica qué unidad sostiene al grupo y cuál consume capital; el cierre vincula caja, ritmo de expansión y valuación.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 48
+    },
+    {
+      "codigo": "J22",
+      "autor": "Agustín Jamele",
+      "titulo": "Santiago Sosa, de Tiendanube: “Automatizar y remover fricción te va a llevar a un buen lugar en el mapa”",
+      "url": "https://www.forbesargentina.com/negocios/santiago-sosa-tiendanube-automatizar-remover-friccion-te-va-llevar-buen-lugar-mapa-n94755",
+      "fecha_mostrada": "4 Agosto de 2026 07.13",
+      "fecha_iso": "2026-08-04",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista con repregunta",
+      "observacion": "Abre pidiendo valor concreto y después dirige la respuesta hacia el uso interno. La repregunta breve deja espacio para métricas y conduce desde tecnología a organización y costos.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 43
+    },
+    {
+      "codigo": "J23",
+      "autor": "Agustín Jamele",
+      "titulo": "“La Argentina no es una ganga”: inversor detrás de Farmacity y Freddo pone fin al mito de \"las empresas locales baratas\"",
+      "url": "https://www.forbesargentina.com/negocios/la-argentina-una-ganga-inversor-detras-farmacity-freddo-pone-fin-mito-las-empresas-locales-baratas-n94753",
+      "fecha_mostrada": "4 Agosto de 2026 07.07",
+      "fecha_iso": "2026-08-04",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Tesis de un entrevistado",
+      "observacion": "Toma una afirmación que cuestiona una expectativa y reconstruye sus razones. Las citas se alternan con explicación sobre capital, plazos y valuaciones; luego baja a planes del portafolio.",
+      "palabras_titulo": 21,
+      "palabras_bajada": 51
+    },
+    {
+      "codigo": "J24",
+      "autor": "Agustín Jamele",
+      "titulo": "Domingo Speranza, de Newmark: “Buenos Aires tiene un 36% menos de inventario de oficinas por habitante que el promedio de la región”",
+      "url": "https://www.forbesargentina.com/negocios/domingo-speranza-newmark-buenos-aires-tiene-36-menos-inventario-oficinas-habitante-promedio-region-n94682",
+      "fecha_mostrada": "3 Agosto de 2026 07.31",
+      "fecha_iso": "2026-08-03",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista de consecuencias",
+      "observacion": "Introduce trabajo remoto y repregunta por los cambios que provoca. Recorre cultura, espacios, IA e infraestructura con preguntas breves que ayudan a pasar del concepto a sus efectos.",
+      "palabras_titulo": 22,
+      "palabras_bajada": 36
+    },
+    {
+      "codigo": "J25",
+      "autor": "Agustín Jamele",
+      "titulo": "Juan Pablo Fasanella, de AUSA: \"Llegó el momento de levantar la cabeza y mirar a 5 o 10 años”",
+      "url": "https://www.forbesargentina.com/negocios/juan-pablo-fasanella-ausa-llego-momento-levantar-cabeza-mirar-5-o-10-anos-n94674",
+      "fecha_mostrada": "2 Agosto de 2026 16.00",
+      "fecha_iso": "2026-08-02",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista de estrategia",
+      "observacion": "Ordena preguntas sobre horizonte, volatilidad y capacidades. Combina el contexto argentino con decisiones de empresa, inversiones y transformación operativa.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 42
+    },
+    {
+      "codigo": "J26",
+      "autor": "Agustín Jamele",
+      "titulo": "Bitcoin bajo presión: el giro de Strategy, la salida de los ETF y las señales que amenazan con llevarlo nuevamente a los US$ 60.000",
+      "url": "https://www.forbesargentina.com/money/bitcoin-presion-giro-strategy-salida-etf-senales-amenazan-llevarlo-nuevamente-us-60000-n94603",
+      "fecha_mostrada": "31 Julio de 2026 15.44",
+      "fecha_iso": "2026-07-31",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Mercado y mecanismo",
+      "observacion": "Presenta presión sobre un activo y explica cómo cambia el papel de un comprador importante. Suma balance, flujos y señales técnicas; el cierre concentra la tensión entre oferta y demanda.",
+      "palabras_titulo": 24,
+      "palabras_bajada": 54
+    },
+    {
+      "codigo": "J27",
+      "autor": "Agustín Jamele",
+      "titulo": "Cumbre de inversores argentinos: el avance de la IA y las elecciones 2027, las principales preocupaciones",
+      "url": "https://www.forbesargentina.com/negocios/cumbre-inversores-argentinos-avance-ia-elecciones-2027-principales-preocupaciones-n94564",
+      "fecha_mostrada": "31 Julio de 2026 08.26",
+      "fecha_iso": "2026-07-31",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Marco de dos tiempos",
+      "observacion": "La apertura reúne dos horizontes de inversión y organiza alrededor de ellos las voces del foro. Cada bloque vuelve al riesgo que enfrenta un tipo de fondo; el final recupera ambas preguntas.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 50
+    },
+    {
+      "codigo": "J28",
+      "autor": "Agustín Jamele",
+      "titulo": "Pablo Caputto, de Naranja X: ”El desafío es saber monetizar y generar valor. El trabajo no desaparece, se transforma”",
+      "url": "https://www.forbesargentina.com/negocios/pablo-caputto-naranja-x-el-desafio-saber-monetizar-generar-valor-trabajo-desaparece-transforma-n94553",
+      "fecha_mostrada": "31 Julio de 2026 07.15",
+      "fecha_iso": "2026-07-31",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista de gestión",
+      "observacion": "Lleva la conversación desde IA a liderazgo, competencia y cooperación. Las preguntas piden consecuencias para el negocio; el tono conversado corresponde a la estructura del intercambio.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 41
+    },
+    {
+      "codigo": "J29",
+      "autor": "Agustín Jamele",
+      "titulo": "“El mundo necesita que la Argentina produzca”: la visión de Citi sobre la oportunidad que se abre para el país",
+      "url": "https://www.forbesargentina.com/money/el-mundo-necesita-argentina-produzca-vision-citi-sobre-oportunidad-abre-pais-n94535",
+      "fecha_mostrada": "30 Julio de 2026 17.06",
+      "fecha_iso": "2026-07-30",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Exposición interpretada",
+      "observacion": "Presenta la oportunidad del país y desarrolla sus condiciones a través de una voz central. Alterna citas y explicación, hasta conectar recursos, financiamiento, continuidad y empleo.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 51
+    },
+    {
+      "codigo": "J30",
+      "autor": "Agustín Jamele",
+      "titulo": "El nuevo examen de Wall Street para la inteligencia artificial: por qué Microsoft subió y Meta se desplomó",
+      "url": "https://www.forbesargentina.com/money/el-nuevo-examen-wall-street-inteligencia-artificial-microsoft-subio-meta-desplomo-n94493",
+      "fecha_mostrada": "29 Julio de 2026 18.34",
+      "fecha_iso": "2026-07-29",
+      "firma_verificada": true,
+      "seccion": "Money",
+      "genero_observado": "Balance comparado",
+      "observacion": "Usa dos reacciones bursátiles como pregunta de apertura. Compara monetización, costos y caja y luego incorpora las tasas; el cierre formula el criterio económico que reúne los casos.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 72
+    },
+    {
+      "codigo": "J31",
+      "autor": "Agustín Jamele",
+      "titulo": "De Paredes y Lisandro Martínez a Mirtha Legrand: dos argentinos impulsan el negocio del wellness deportivo y el cuidado corporal",
+      "url": "https://www.forbesargentina.com/negocios/de-paredes-lisandro-martinez-mirtha-legrand-dos-argentinos-impulsan-negocio-wellness-deportivo-cuidado-corporal-n94451",
+      "fecha_mostrada": "29 Julio de 2026 07.36",
+      "fecha_iso": "2026-07-29",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Empresa y cambio de categoría",
+      "observacion": "Parte de una tecnología de nicho que amplía su público. Reconstruye fundación, recomendaciones, contratos y canales para explicar cómo una práctica deportiva se convierte en mercado.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 58
+    },
+    {
+      "codigo": "J32",
+      "autor": "Agustín Jamele",
+      "titulo": "La IA reduce hasta 90% el costo de crear startups y cambia la estrategia de los fondos en América Latina",
+      "url": "https://www.forbesargentina.com/innovacion/la-ia-reduce-90-costo-crear-startups-cambia-estrategia-fondos-america-latina-n94419",
+      "fecha_mostrada": "28 Julio de 2026 14.05",
+      "fecha_iso": "2026-07-28",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Tecnología y tesis inversora",
+      "observacion": "Conecta un cambio en costos de desarrollo con decisiones de un fondo. Explica distribución, productos embebidos y salidas; cierra con los factores que podrían sostener una ventaja.",
+      "palabras_titulo": 20,
+      "palabras_bajada": 33
+    },
+    {
+      "codigo": "J33",
+      "autor": "Agustín Jamele",
+      "titulo": "Jensen Huang anticipa el fin de la programación y revela qué aprender para trabajar con IA",
+      "url": "https://www.forbesargentina.com/innovacion/jensen-huang-anticipa-fin-programacion-revela-aprender-trabajar-ia-n94410",
+      "fecha_mostrada": "28 Julio de 2026 09.53",
+      "fecha_iso": "2026-07-28",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Ideas ordenadas por aplicación",
+      "observacion": "Transforma una conversación pública en preguntas sobre tareas, formación, trabajo y emprendimiento. Traduce afirmaciones en mecanismos y recupera un episodio biográfico para sostener el argumento.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 45
+    },
+    {
+      "codigo": "J34",
+      "autor": "Agustín Jamele",
+      "titulo": "Sebastián Böttcher, de Interbanking: ”En una cultura que penaliza el error, la empresa se va a mover lento mientras el ecosistema va rápido\"",
+      "url": "https://www.forbesargentina.com/negocios/sebastian-bttcher-interbanking-en-una-cultura-penaliza-error-empresa-va-mover-lento-mientras-ecosistema-va-rapido-n94405",
+      "fecha_mostrada": "28 Julio de 2026 08.45",
+      "fecha_iso": "2026-07-28",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista con pedido de dato",
+      "observacion": "Pasa de capacidades de plataforma a productividad y solicita una medida concreta del uso bancario. La secuencia muestra cómo una repregunta puede convertir generalidades en evidencia operativa.",
+      "palabras_titulo": 23,
+      "palabras_bajada": 41
+    },
+    {
+      "codigo": "J35",
+      "autor": "Agustín Jamele",
+      "titulo": "Los consejos de Sam Altman para construir una startup en la era de la IA y por qué cree que el modelo tradicional quedó viejo",
+      "url": "https://www.forbesargentina.com/innovacion/los-consejos-sam-altman-construir-una-startup-era-ia-cree-modelo-tradicional-quedo-viejo-n94365",
+      "fecha_mostrada": "27 Julio de 2026 11.04",
+      "fecha_iso": "2026-07-27",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Desarrollo temático extenso",
+      "observacion": "Reorganiza una entrevista en decisiones de construcción empresarial. Los subtítulos siguen problemas concretos; la voz del periodista explica el alcance de cada consejo y conecta los bloques.",
+      "palabras_titulo": 25,
+      "palabras_bajada": 47
+    },
+    {
+      "codigo": "J36",
+      "autor": "Agustín Jamele",
+      "titulo": "El negocio de competir a los 40: Messi, LeBron, Ronaldo y Djokovic, las caras detrás del mercado de la longevidad deportiva",
+      "url": "https://www.forbesargentina.com/negocios/el-negocio-competir-40-messi-lebron-ronaldo-djokovic-caras-detras-mercado-longevidad-deportiva-n94322",
+      "fecha_mostrada": "26 Julio de 2026 07.00",
+      "fecha_iso": "2026-07-26",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "De una persona a una industria",
+      "observacion": "Abre con una decisión de LeBron y amplía hacia recuperación, inversión y consumo. Combina casos y especialistas; vuelve al protagonista para reunir longevidad deportiva y valor económico.",
+      "palabras_titulo": 21,
+      "palabras_bajada": 50
+    },
+    {
+      "codigo": "J37",
+      "autor": "Agustín Jamele",
+      "titulo": "Agustín Bellido, de IBM: “El primer gran desafío es tener los datos disponibles, adecuados y en tiempo real”",
+      "url": "https://www.forbesargentina.com/negocios/agustin-bellido-ibm-el-primer-gran-desafio-tener-datos-disponibles-adecuados-tiempo-real-n94313",
+      "fecha_mostrada": "25 Julio de 2026 09.15",
+      "fecha_iso": "2026-07-25",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Entrevista sobre evidencia",
+      "observacion": "Pregunta por valor, casos de uso y fallas de implementación. El recorrido busca ejemplos, retorno y aprendizaje; las respuestas del ejecutivo conservan su condición de discurso ajeno.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 46
+    },
+    {
+      "codigo": "J38",
+      "autor": "Agustín Jamele",
+      "titulo": "Fabián Kon, CEO del Grupo Galicia: “Si Argentina crece, habrá falta de talento en muchas áreas”",
+      "url": "https://www.forbesargentina.com/negocios/fabian-kon-ceo-grupo-galicia-si-argentina-crece-habra-falta-talento-muchas-areas-n94216",
+      "fecha_mostrada": "23 Julio de 2026 17.11",
+      "fecha_iso": "2026-07-23",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Agenda explicada",
+      "observacion": "Presenta un evento desde su horizonte temporal. Organiza las voces por estabilidad, reglas, crédito y talento; el cierre concentra qué continuidad se necesita para convertir la propuesta en desarrollo.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 41
+    },
+    {
+      "codigo": "J39",
+      "autor": "Agustín Jamele",
+      "titulo": "Una IA de OpenAI escapó de una prueba y atacó a otra empresa: la explicación de Sam Altman",
+      "url": "https://www.forbesargentina.com/innovacion/una-ia-openai-escapo-una-prueba-ataco-otra-empresa-explicacion-sam-altman-n94152",
+      "fecha_mostrada": "22 Julio de 2026 13.45",
+      "fecha_iso": "2026-07-22",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Reconstrucción tecnológica",
+      "observacion": "Convierte un incidente técnico en una secuencia de acciones comprensibles. Define términos durante el relato y explica el alcance del caso antes de cerrar con el desafío de los controles.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 39
+    },
+    {
+      "codigo": "J40",
+      "autor": "Agustín Jamele",
+      "titulo": "Terraflos apuesta por la longevidad: levanta US$ 3,5 millones para combinar IA, biotecnología y biodiversidad latinoamericana",
+      "url": "https://www.forbesargentina.com/innovacion/terraflos-apuesta-longevidad-levanta-us-35-millones-combinar-ia-biotecnologia-biodiversidad-latinoamericana-n93167",
+      "fecha_mostrada": "30 Junio de 2026 07.07",
+      "fecha_iso": "2026-06-30",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Ronda y modelo integrado",
+      "observacion": "Usa una inversión para entrar al modelo de una empresa. Las citas explican la cadena entre descubrimiento y consumidor; cada sección desarrolla una parte de la tesis comercial.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 39
+    },
+    {
+      "codigo": "J41",
+      "autor": "Agustín Jamele",
+      "titulo": "\"La tercera Vaca Muerta\": el sector que ya exporta más de US$ 10.000 millones al año",
+      "url": "https://www.forbesargentina.com/negocios/la-tercera-vaca-muerta-sector-ya-exporta-mas-us-10000-millones-ano-n93098",
+      "fecha_mostrada": "28 Junio de 2026 08.00",
+      "fecha_iso": "2026-06-28",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Sector mediante analogía",
+      "observacion": "Parte del mapa de exportaciones y ubica un nuevo actor con una referencia conocida. Ordena escala, materia prima, empleo y desafíos; el cierre retoma el contraste que abrió la nota.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 57
+    },
+    {
+      "codigo": "J42",
+      "autor": "Agustín Jamele",
+      "titulo": "Después de ganar la Hidrovía, Jan De Nul presentó la oferta más baja para quedarse con otra licitación clave",
+      "url": "https://www.forbesargentina.com/negocios/despues-ganar-hidrovia-jan-nul-presento-oferta-mas-baja-quedarse-otra-licitacion-clave-n93014",
+      "fecha_mostrada": "26 Junio de 2026 08.02",
+      "fecha_iso": "2026-06-26",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Noticia y antecedente",
+      "observacion": "Presenta ofertas con una diferencia económica amplia y aclara el paso pendiente. Reconstruye concesión, rivales y presencia local para explicar qué posición podría consolidarse.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 48
+    },
+    {
+      "codigo": "J43",
+      "autor": "Agustín Jamele",
+      "titulo": "\"La memoria es el nuevo activo estratégico de la IA\": qué revelan los resultados récord de Micron sobre el futuro del sector",
+      "url": "https://www.forbesargentina.com/innovacion/la-memoria-nuevo-activo-estrategico-ia-revelan-resultados-record-micron-sobre-futuro-sector-n92978",
+      "fecha_mostrada": "25 Junio de 2026 13.07",
+      "fecha_iso": "2026-06-25",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Balance como señal sectorial",
+      "observacion": "Entra por una empresa conocida para desplazar la mirada hacia un componente de infraestructura. Alterna resultados y explicaciones sobre oferta, contratos y capacidad; el cierre recupera la tesis inicial.",
+      "palabras_titulo": 22,
+      "palabras_bajada": 69
+    },
+    {
+      "codigo": "J44",
+      "autor": "Agustín Jamele",
+      "titulo": "Del televisor a YouTube: cómo el Mundial 2026 aceleró el negocio de los creadores deportivos y el fenómeno de Davoo Xeneize",
+      "url": "https://www.forbesargentina.com/negocios/del-televisor-youtube-como-mundial-2026-acelero-negocio-creadores-deportivos-fenomeno-davoo-xeneize-n92960",
+      "fecha_mostrada": "25 Junio de 2026 07.09",
+      "fecha_iso": "2026-06-25",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Informe y especialista",
+      "observacion": "Parte de un cambio en consumo y lo desarrolla con datos y una voz especializada. La explicación distingue transmisiones de experiencias alrededor del partido y conecta audiencia con monetización.",
+      "palabras_titulo": 21,
+      "palabras_bajada": 52
+    },
+    {
+      "codigo": "J45",
+      "autor": "Agustín Jamele",
+      "titulo": "Después de quedarse con la Hidrovía, Jan De Nul va por otro negocio clave de la logística argentina",
+      "url": "https://www.forbesargentina.com/negocios/despues-quedarse-hidrovia-jan-nul-va-otro-negocio-clave-logistica-argentina-n92890",
+      "fecha_mostrada": "24 Junio de 2026 07.08",
+      "fecha_iso": "2026-06-24",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Expansión de una compañía",
+      "observacion": "Ancla una licitación próxima en una trayectoria empresarial. Alterna concesión, competencia y geografía operativa; el cierre reúne las distintas obras en una posición logística.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 66
+    },
+    {
+      "codigo": "J46",
+      "autor": "Agustín Jamele",
+      "titulo": "Javier Milei en busca de los inversores de IA: su cercanía al \"Campamento de los Millonarios\"",
+      "url": "https://www.forbesargentina.com/millonarios/javier-milei-busca-inversores-ia-su-cercania-campamento-millonarios-n92745",
+      "fecha_mostrada": "21 Junio de 2026 07.00",
+      "fecha_iso": "2026-06-21",
+      "firma_verificada": true,
+      "seccion": "Millonarios",
+      "genero_observado": "Escenario y oportunidad",
+      "observacion": "Introduce una posible visita y explica el valor del acceso al encuentro. Alterna actores, agenda y detalles del lugar; vuelve al interés argentino por capital tecnológico.",
+      "palabras_titulo": 16,
+      "palabras_bajada": 46
+    },
+    {
+      "codigo": "J47",
+      "autor": "Agustín Jamele",
+      "titulo": "Franco Rodríguez Viau: \"Hay más de 100 inversores que nos dijeron que no antes de levantar US$ 2,7 millones\"",
+      "url": "https://www.forbesargentina.com/innovacion/franco-rodriguez-viau-hay-mas-100-inversores-nos-dijeron-antes-levantar-us-27-millones-n92724",
+      "fecha_mostrada": "20 Junio de 2026 07.30",
+      "fecha_iso": "2026-06-20",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Entrevista de trayectoria",
+      "observacion": "Combina una introducción breve con un recorrido desde problema y origen hasta escala y financiamiento. Repregunta por dificultades y rechazos; el cierre abre una reflexión personal del entrevistado.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 80
+    },
+    {
+      "codigo": "J48",
+      "autor": "Agustín Jamele",
+      "titulo": "Milei respondió a Harari y defendió que las empresas controladas por IA tengan personalidad jurídica",
+      "url": "https://www.forbesargentina.com/innovacion/milei-respondio-harari-defendio-empresas-controladas-ia-tengan-personalidad-juridica-n92613",
+      "fecha_mostrada": "18 Junio de 2026 16.33",
+      "fecha_iso": "2026-06-18",
+      "firma_verificada": true,
+      "seccion": "Innovación",
+      "genero_observado": "Documento por argumentos",
+      "observacion": "Expone una carta mediante preguntas sobre responsabilidad, incentivos y competencia. Los subtítulos agrupan sus argumentos y las referencias culturales ayudan a volver legible un debate abstracto.",
+      "palabras_titulo": 15,
+      "palabras_bajada": 37
+    },
+    {
+      "codigo": "J49",
+      "autor": "Agustín Jamele",
+      "titulo": "El Gobierno reduce impuestos para fintech y empresas cripto: qué cambia y por qué el sector celebra la medida",
+      "url": "https://www.forbesargentina.com/negocios/el-gobierno-reduce-impuestos-fintech-empresas-cripto-cambia-sector-celebra-medida-n92594",
+      "fecha_mostrada": "18 Junio de 2026 12.17",
+      "fecha_iso": "2026-06-18",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Norma y efectos económicos",
+      "observacion": "Entrega el cambio y después cuantifica su efecto mediante especialistas. Incorpora voces de distintas empresas y termina con reclamos pendientes que ubican la medida dentro de un proceso.",
+      "palabras_titulo": 19,
+      "palabras_bajada": 71
+    },
+    {
+      "codigo": "J50",
+      "autor": "Agustín Jamele",
+      "titulo": "El Gobierno pone en jaque la millonaria compra de Telefónica: exige a Telecom ceder 6 millones de clientes",
+      "url": "https://www.forbesargentina.com/negocios/el-gobierno-pone-jaque-millonaria-compra-telefonica-exige-telecom-ceder-6-millones-clientes-n92590",
+      "fecha_mostrada": "18 Junio de 2026 08.20",
+      "fecha_iso": "2026-06-18",
+      "firma_verificada": true,
+      "seccion": "Negocios",
+      "genero_observado": "Regulación y escala",
+      "observacion": "Presenta condiciones regulatorias por su efecto sobre una adquisición. Ordena activos, clientes e infraestructura y usa cuotas de mercado para explicar el objetivo competitivo de la decisión.",
+      "palabras_titulo": 18,
+      "palabras_bajada": 46
+    }
+  ]
+}
